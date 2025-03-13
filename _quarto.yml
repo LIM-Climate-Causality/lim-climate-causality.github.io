@@ -62,7 +62,4 @@ format:
     include-in-header: dropdown.js
 
 
-freeze: true
-
-
 
