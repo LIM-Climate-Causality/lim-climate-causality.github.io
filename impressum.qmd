@@ -1,0 +1,77 @@
+---
+Title: Impressum
+toc: false
+---
+
+# Impressum
+
+## Information according to § 5 TMG
+
+**[University Name]**  
+[Department / Research Group Name]  
+[University Address]  
+[Postal Code, City]  
+[Country]  
+
+📞 **Phone:** [Phone Number]  
+✉️ **Email:** [Email Address]  
+🌐 **Website:** [Website URL]  
+
+---
+
+## Responsible Persons
+
+**[Name of Responsible Person]**  
+(Position, e.g., Group Leader, Professor)  
+✉️ Email: [Email Address]  
+
+For content-related inquiries, please contact:  
+**[Contact Person's Name]**  
+✉️ Email: [Email Address]  
+
+---
+
+## Disclaimer
+
+### Liability for Content  
+The contents of our pages have been created with the utmost care. However, we cannot guarantee the accuracy, completeness, or timeliness of the content. As a service provider, we are responsible for our own content on these pages according to general laws (§ 7 Abs.1 TMG).  
+
+However, according to §§ 8 to 10 TMG, we are not obligated to monitor transmitted or stored third-party information or investigate circumstances indicating illegal activity.  
+
+Obligations to remove or block the use of information under general law remain unaffected. However, liability in this regard is only possible from the time of knowledge of a specific legal violation. If we become aware of such legal violations, we will remove this content immediately.  
+
+### Liability for Links  
+Our website contains links to external websites of third parties, over whose content we have no influence. Therefore, we cannot assume any liability for these external contents. The respective provider or operator of the linked pages is always responsible for their content.  
+
+The linked pages were checked for possible legal violations at the time of linking. No illegal content was recognizable at that time. However, continuous monitoring of the linked pages is not reasonable without specific evidence of a legal violation. If we become aware of any legal violations, we will remove such links immediately.  
+
+---
+
+## Copyright  
+The content and works created by the site operators on these pages are subject to German copyright law. The reproduction, editing, distribution, and any kind of exploitation outside the limits of copyright law require the written consent of the respective author or creator.  
+
+Insofar as the content on this site was not created by the operator, the copyrights of third parties are respected. In particular, third-party content is marked as such. Should you nevertheless become aware of a copyright infringement, please inform us accordingly. If we become aware of legal violations, we will remove such content immediately.  
+
+---
+
+## Data Protection  
+For information on data protection, please visit our [Privacy Policy](privacy.qmd).  
+
+---
+
+## Responsible for Content according to § 18 Abs. 2 MStV:  
+
+**[Name of Responsible Person]**  
+[Address]  
+✉️ Email: [Email Address]  
+
+---
+
+## Legal Contact  
+If you have any legal inquiries regarding this website, please contact us at:  
+📧 [Email Address]  
+
+---
+
+## Version & Updates  
+This Impressum was last updated on **[Last Update Date]**. Changes may be made at any time.  

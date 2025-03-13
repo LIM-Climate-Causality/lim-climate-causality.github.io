@@ -1,0 +1,15 @@
+---
+title: Open Positions
+description: Find available PhD positions, Internships, or topics for final assignments here.
+listing: 
+    contents: 
+        - jobs/*/index.qmd
+        - theses/*/index.qmd
+    sort: date desc
+    sort-ui: true
+    filter-ui: true
+    categories: true
+    
+---
+
+---

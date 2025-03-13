@@ -1,0 +1,68 @@
+project:
+  type: website
+
+website:
+  title: "Climate Causality & Attribution"
+  description: "Homepage of the Climate Causality & Attribution working group of the University Leipzig"
+  site-url: http://lim-climate-causality.com
+  favicon: images/logos/logo_small.png
+  navbar:
+    background: "#EDEDF5" 
+    foreground: "#712119"
+    search: true
+    pinned: true       # Set false to hide navbar while scrolling
+    logo: images/logos/logo_small.png
+    right:
+      - href: index.qmd#about
+        text: "About"
+      - text: "Research"
+        menu:
+        - href: research/projects/index.qmd
+          text: "Projects"
+        - href: research/software/index.qmd
+          text: "Software"
+      - href: index.qmd#people
+        text: "People"
+      - href: publications/index.qmd
+        text: "Publications"
+      - text: "Contact Us"
+        menu: 
+          - href: tenders/index.qmd
+            text: "Open Positions"
+
+  page-footer:
+    background: "#712119"
+    left: |
+      [IMPRESSUM](/impressum.qmd)
+    center:
+      - href: https://github.com
+        icon: github
+      - href: mailto:INSERT_MAILADDRESS
+        icon: envelope
+    right:
+      - text: Copyright © Climate Causality & Attribution 2025
+
+
+  announcement:
+    icon: lightbulb-fill
+    dismissable: true
+    content: "New open positions available! [Click here to check them out](tenders/index.qmd)."
+    type: secondary
+    position: above-navbar
+
+format:
+  html:
+    fontsize: 1.15rem
+    monofont: Fira Code
+    highlight-style: arrow
+    css: [theme.css, custom_theme.scss]
+    toc: true
+    code-overflow: scroll
+    linkcolor: "#712119"
+    include-in-header: dropdown.js
+
+
+freeze: true
+
+
+

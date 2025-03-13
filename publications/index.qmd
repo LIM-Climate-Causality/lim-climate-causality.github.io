@@ -1,0 +1,14 @@
+---
+title: Publications
+description: Find publications of the Climate Causality & Attribution group here.
+listing: 
+    contents: 
+        - publications/example_publication/index.qmd
+    sort: date desc
+    sort-ui: true
+    filter-ui: true
+    categories: true
+    
+---
+
+---
