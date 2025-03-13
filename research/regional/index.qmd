@@ -1,6 +1,0 @@
----
-title: Regional Climate Change and Extremes
-description: Lorem ipsum dolor sit amet consectetur.
----
-
-Lorem ipsum .. 

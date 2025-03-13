@@ -1,6 +1,0 @@
----
-title: Machine Learning and Artificial Intelligence for Climate Science
-description: Lorem ipsum dolor sit amet consectetur.
----
-
-Lorem ipsum .. 
