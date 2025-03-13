@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "people/philine/index.html",
-    "href": "people/philine/index.html",
-    "title": "Name",
-    "section": "",
-    "text": "Lorem ipsum …"
-  },
-  {
-    "objectID": "people/fiona/index.html",
-    "href": "people/fiona/index.html",
-    "title": "Name",
-    "section": "",
-    "text": "Lorem ipsum …"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
-    "section": "",
-    "text": "About\nThe motivation of our research is to understand climate risks and reduce uncertainties in regional predictions and projections of extreme weather and climate events. This requires an improved causal understanding of the physical drivers and consequences of extreme events. Our research includes several sub-aspects:\n\n\n\nResearch\nThis is the research section.\n\n\n\n  \n\nTeleconnections\n\n\nOne focus is better to understand the underlying large-scale physical drivers and causal mechanisms of extreme events and to quantify these so-called teleconnections. In particular, we are researching the stratospheric polar vortex, the global impacts of Arctic sea ice retreat, and how tropical and extratropical teleconnections interact to drive extreme weather.\n\n\n\n  \n\nDetection and Attribution\n\n\nOne goal is to identify relevant extreme events and trends that have strong environmental and societal impacts, and to understand the contribution of humans activities in these. For example, we study heat waves in Europe, extreme cold spells in the US, or precipitation and droughts in the Mediterranean region.\n\n\n\n  \n\nCausal Data Science\n\n\nLorem ipsum dolor sit amet consectetur.\n\n\n\n  \n\nPrediction\n\n\nLorem ipsum dolor sit amet consectetur.\n\n\n\n  \n\nMachine Learning\n\n\nLorem ipsum dolor sit amet consectetur.\n\n\n\n  \n\nRegional Climate Change\n\n\nLorem ipsum dolor sit amet consectetur.\n\n\n\n\n\n\n\nPeople\n\n\n\nGroup Photo\n\n\n\n\n\n\n\n  \n\nDr. Marina Friedel\n\n\nPost-doc\n\n\n  \n\n\n\n\n  \n\nPhiline Lou Bommer\n\n\nPhD Researcher\n\n\n \n\n\n\n\n  \n\nFiona Spuler\n\n\nPhD Researcher\n\n\n  \n\n\n\n\n\n\n\n\nContact Us"
-  },
-  {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Publications",
-    "section": "",
-    "text": "No matching items"
-  },
-  {
     "objectID": "tenders/jobs/example_job/index.html",
     "href": "tenders/jobs/example_job/index.html",
     "title": "Awesome Job",
@@ -35,25 +7,18 @@
     "text": "Here goes the further description of the job."
   },
   {
-    "objectID": "tenders/theses/example_thesis/index.html",
-    "href": "tenders/theses/example_thesis/index.html",
-    "title": "Awesome Thesis Topic",
+    "objectID": "tenders/index.html",
+    "href": "tenders/index.html",
+    "title": "Open Positions",
     "section": "",
-    "text": "Here goes the further description of the topic."
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAwesome Job\n\n\n\n\n\n\nAI\n\n\nClimate\n\n\nPhD\n\n\n\nAbstract of a really awesome job.\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nAwesome Thesis Topic\n\n\n\n\n\n\nData Science\n\n\nClimate\n\n\nM.Sc.\n\n\n\nAbstract of a really awesome thesis topic.\n\n\n\n\n\nFeb 1, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research/regional/index.html",
-    "href": "research/regional/index.html",
-    "title": "Regional Climate Change and Extremes",
+    "objectID": "people/fiona/index.html",
+    "href": "people/fiona/index.html",
+    "title": "Name",
     "section": "",
-    "text": "Lorem ipsum .."
-  },
-  {
-    "objectID": "research/machine_learning/index.html",
-    "href": "research/machine_learning/index.html",
-    "title": "Machine Learning and Artificial Intelligence for Climate Science",
-    "section": "",
-    "text": "Lorem ipsum .."
+    "text": "Lorem ipsum …"
   },
   {
     "objectID": "research/causality/index.html",
@@ -77,18 +42,18 @@
     "text": "Lorem ipsum .."
   },
   {
-    "objectID": "research/teleconnections/index.html",
-    "href": "research/teleconnections/index.html",
-    "title": "Causal teleconnections and internal variability",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
     "section": "",
-    "text": "Lorem ipsum .."
+    "text": "About\nThe motivation of our research is to understand climate risks and reduce uncertainties in regional predictions and projections of extreme weather and climate events. This requires an improved causal understanding of the physical drivers and consequences of extreme events. Our research includes several sub-aspects:\n\n\n\nResearch\nThis is the research section.\n\n\n\n  \n\nTeleconnections\n\n\nOne focus is better to understand the underlying large-scale physical drivers and causal mechanisms of extreme events and to quantify these so-called teleconnections. In particular, we are researching the stratospheric polar vortex, the global impacts of Arctic sea ice retreat, and how tropical and extratropical teleconnections interact to drive extreme weather.\n\n\n\n  \n\nDetection and Attribution\n\n\nOne goal is to identify relevant extreme events and trends that have strong environmental and societal impacts, and to understand the contribution of humans activities in these. For example, we study heat waves in Europe, extreme cold spells in the US, or precipitation and droughts in the Mediterranean region.\n\n\n\n  \n\nCausal Data Science\n\n\nLorem ipsum dolor sit amet consectetur.\n\n\n\n  \n\nPrediction\n\n\nLorem ipsum dolor sit amet consectetur.\n\n\n\n  \n\nMachine Learning\n\n\nLorem ipsum dolor sit amet consectetur.\n\n\n\n  \n\nRegional Climate Change\n\n\nLorem ipsum dolor sit amet consectetur.\n\n\n\n\n\n\n\nPeople\n\n\n\nGroup Photo\n\n\n\n\n\n\n\n  \n\nDr. Marina Friedel\n\n\nPost-doc\n\n\n  \n\n\n\n\n  \n\nPhiline Lou Bommer\n\n\nPhD Researcher\n\n\n \n\n\n\n\n  \n\nFiona Spuler\n\n\nPhD Researcher\n\n\n  \n\n\n\n\n\n\n\n\nContact Us"
   },
   {
-    "objectID": "tenders/index.html",
-    "href": "tenders/index.html",
-    "title": "Open Positions",
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAwesome Job\n\n\n\n\n\n\nAI\n\n\nClimate\n\n\nPhD\n\n\n\nAbstract of a really awesome job.\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nAwesome Thesis Topic\n\n\n\n\n\n\nData Science\n\n\nClimate\n\n\nM.Sc.\n\n\n\nAbstract of a really awesome thesis topic.\n\n\n\n\n\nFeb 1, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   },
   {
     "objectID": "publications/example_publication/index.html",
@@ -161,10 +126,45 @@
     "text": "This Impressum was last updated on [Last Update Date]. Changes may be made at any time."
   },
   {
+    "objectID": "research/teleconnections/index.html",
+    "href": "research/teleconnections/index.html",
+    "title": "Causal teleconnections and internal variability",
+    "section": "",
+    "text": "Lorem ipsum .."
+  },
+  {
+    "objectID": "research/machine_learning/index.html",
+    "href": "research/machine_learning/index.html",
+    "title": "Machine Learning and Artificial Intelligence for Climate Science",
+    "section": "",
+    "text": "Lorem ipsum .."
+  },
+  {
+    "objectID": "research/regional/index.html",
+    "href": "research/regional/index.html",
+    "title": "Regional Climate Change and Extremes",
+    "section": "",
+    "text": "Lorem ipsum .."
+  },
+  {
     "objectID": "people/marina/index.html",
     "href": "people/marina/index.html",
     "title": "Name",
     "section": "",
     "text": "Lorem ipsum …"
+  },
+  {
+    "objectID": "people/philine/index.html",
+    "href": "people/philine/index.html",
+    "title": "Name",
+    "section": "",
+    "text": "Lorem ipsum …"
+  },
+  {
+    "objectID": "tenders/theses/example_thesis/index.html",
+    "href": "tenders/theses/example_thesis/index.html",
+    "title": "Awesome Thesis Topic",
+    "section": "",
+    "text": "Here goes the further description of the topic."
   }
 ]
