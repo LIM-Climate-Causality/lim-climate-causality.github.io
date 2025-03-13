@@ -104,7 +104,8 @@ git push origin main
 
 The webpage will be automatically deployed with every GitHub Action (pushing). Settings for the deployment can be foundin the repo under **Settings -> Pages**.
 
+--- 
 
-### Quick Alternative
+## Quick Alternative
 
 you can also edit and commit all files in GitHubs web IDE which will update the webpage.

@@ -1,11 +1,29 @@
 ---
-title: "<span style='text-align:center;'> Page not found </span>"
+format: 
+  html:
+    css: index.css
+toc: false
+anchor-sections: false
 ---
 
+:::{.main}
+<img src="images/404.webp" style="width:300px">
 
-:::{style="text-align:center;"}
+# Oops, looks like you're lost! 🔍  
 
-We've moved some things around, but **all the content is still here!** <br>(It might just be called something different) 
+It seems you've wandered into uncharted territory—just like science, sometimes we end up where we least expect!  
+
+
+### What could have happened?  
+🔹 The page might have been moved or renamed.  
+🔹 There could be a typo in the URL.  
+🔹 The link you followed might be outdated.  
+
+### What can you do?  
+🔹 Go back to the [homepage](index.qmd)  
+🔹 Check the navigation menu to find what you’re looking for.  
+🔹 If you think something is missing, feel free to [contact us](mailto:your-email@example.com).  
+
+Happy exploring! 🚀  
 
 :::
-
