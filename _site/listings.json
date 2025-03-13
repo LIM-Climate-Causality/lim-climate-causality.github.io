@@ -1,13 +1,13 @@
 [
   {
+    "listing": "/publications/index.html",
+    "items": []
+  },
+  {
     "listing": "/tenders/index.html",
     "items": [
       "/tenders/jobs/example_job/index.html",
       "/tenders/theses/example_thesis/index.html"
     ]
-  },
-  {
-    "listing": "/publications/index.html",
-    "items": []
   }
 ]
