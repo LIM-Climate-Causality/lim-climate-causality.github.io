@@ -1,9 +1,9 @@
 ---
 format: 
   html:
-    css: index.css
+    anchor-sections: false
+    css: [index.css, theme.css]
 toc: false
-anchor-sections: false
 ---
 
 :::{.main}
