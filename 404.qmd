@@ -7,12 +7,12 @@ anchor-sections: false
 ---
 
 :::{.main}
-<img src="images/404.webp" style="width:300px">
+
+<img src="images/404.png" style="width:300px">
 
 # Oops, looks like you're lost! 🔍  
 
 It seems you've wandered into uncharted territory—just like science, sometimes we end up where we least expect!  
-
 
 ### What could have happened?  
 🔹 The page might have been moved or renamed.  
