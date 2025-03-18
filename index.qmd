@@ -20,10 +20,9 @@ The motivation of our research is to understand climate risks and reduce uncerta
 ---
 
 # Research {#research}
-This is the research section.
-
 
 ::: {.full-width}
+
 <div class="research-row">
 
 <div class="research-feature">
@@ -73,9 +72,8 @@ This is the research section.
 <h3 class="research-text">Regional Climate Change</h3>
 <p>Lorem ipsum dolor sit amet consectetur.</p>
 </div>
-
-
 </div>
+
 :::
 
 ---

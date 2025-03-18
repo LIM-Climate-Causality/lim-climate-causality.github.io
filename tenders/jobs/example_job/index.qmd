@@ -9,6 +9,7 @@ categories:
 date: 2025-06-01
 published-title: "Open From:"
 date-format: "DD / MM / YYYY"
+
 ---
 
 Here goes the further description of the job.
