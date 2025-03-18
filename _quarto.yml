@@ -4,7 +4,7 @@ project:
 website:
   title: "Climate Causality & Attribution"
   description: "Homepage of the Climate Causality & Attribution working group of the University Leipzig"
-  site-url: http://lim-climate-causality.com
+  site-url: https://lim-climate-causality.github.io/
   favicon: images/logos/logo_small.png
   navbar:
     background: "#EDEDF5" 

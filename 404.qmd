@@ -1,14 +1,15 @@
 ---
+titel: Page not found
 format: 
   html:
     anchor-sections: false
-    css: [index.css, theme.css]
+    css: [/index.css, /theme.css]
 toc: false
 ---
 
 :::{.main}
 
-<img src="images/404.png" style="width:300px">
+<img src="/images/404.png" style="width:300px">
 
 # Oops, looks like you're lost! 🔍  
 
