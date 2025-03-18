@@ -99,7 +99,7 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    // Get all dropdown toggles
+    // Get all dropdowns in the navbar
     const dropdowns = document.querySelectorAll(".navbar-nav .dropdown");
 
     dropdowns.forEach(function(dropdown) {
@@ -119,15 +119,18 @@ document.addEventListener("DOMContentLoaded", function() {
             if (menu) menu.classList.remove("show");
         });
 
-        // Keep smooth scrolling on click
+        // Smooth scrolling or redirect to homepage
         link.addEventListener("click", function(event) {
-            if (link.textContent.trim() === "Research") {
+            const sectionId = link.textContent.trim().toLowerCase(); // Convert "Research" -> "research"
+            const targetSection = document.getElementById(sectionId);
+
+            if (targetSection) {
+                // If on the same page, scroll smoothly
                 event.preventDefault();
-                document.getElementById("research").scrollIntoView({ behavior: "smooth" });
-            }
-            if (link.textContent.trim() === "Contact Us") {
-                event.preventDefault();
-                document.getElementById("contact").scrollIntoView({ behavior: "smooth" });
+                targetSection.scrollIntoView({ behavior: "smooth" });
+            } else {
+                // If on another page, navigate to homepage and scroll
+                window.location.href = `/index.html#${sectionId}`;
             }
         });
     });
@@ -321,7 +324,7 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="QUklMkNDbGltYXRlJTJDUGhE" data-listing-date-sort="1748736000000" data-listing-file-modified-sort="1742307849507" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="8">
+<div class="quarto-post image-right" data-index="0" data-categories="QUklMkNDbGltYXRlJTJDUGhE" data-listing-date-sort="1748736000000" data-listing-file-modified-sort="1742309184002" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="8">
 <div class="thumbnail">
 <p><a href="../tenders/jobs/example_job/index.html" class="no-external"></a></p><a href="../tenders/jobs/example_job/index.html" class="no-external">
 <p><img loading="lazy" src="../tenders/jobs/example_job/job_example.jpg" class="thumbnail-image"></p>
@@ -357,7 +360,7 @@ Jun 1, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="RGF0YSUyMFNjaWVuY2UlMkNDbGltYXRlJTJDTS5TYy4=" data-listing-date-sort="1738368000000" data-listing-file-modified-sort="1742307849508" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="8">
+<div class="quarto-post image-right" data-index="1" data-categories="RGF0YSUyMFNjaWVuY2UlMkNDbGltYXRlJTJDTS5TYy4=" data-listing-date-sort="1738368000000" data-listing-file-modified-sort="1742309184003" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="8">
 <div class="thumbnail">
 <p><a href="../tenders/theses/example_thesis/index.html" class="no-external"></a></p><a href="../tenders/theses/example_thesis/index.html" class="no-external">
 <p><img loading="lazy" src="../tenders/theses/example_thesis/thesis_example.jpg" class="thumbnail-image"></p>
