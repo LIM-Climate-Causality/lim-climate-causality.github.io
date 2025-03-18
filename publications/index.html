@@ -100,23 +100,38 @@ ul.task-list li input[type="checkbox"] {
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     // Get all dropdown toggles
-    const dropdowns = document.querySelectorAll(".navbar-nav .dropdown > a.dropdown-toggle");
+    const dropdowns = document.querySelectorAll(".navbar-nav .dropdown");
 
     dropdowns.forEach(function(dropdown) {
-        dropdown.addEventListener("click", function(event) {
-            // Stop default navigation if it's a dropdown title click
-            if (dropdown.textContent.trim() === "Research") {
+        const link = dropdown.querySelector("a.dropdown-toggle");
+
+        // Show dropdown on hover
+        dropdown.addEventListener("mouseenter", function() {
+            dropdown.classList.add("show");
+            const menu = dropdown.querySelector(".dropdown-menu");
+            if (menu) menu.classList.add("show");
+        });
+
+        // Hide dropdown when mouse leaves
+        dropdown.addEventListener("mouseleave", function() {
+            dropdown.classList.remove("show");
+            const menu = dropdown.querySelector(".dropdown-menu");
+            if (menu) menu.classList.remove("show");
+        });
+
+        // Keep smooth scrolling on click
+        link.addEventListener("click", function(event) {
+            if (link.textContent.trim() === "Research") {
                 event.preventDefault();
                 document.getElementById("research").scrollIntoView({ behavior: "smooth" });
             }
-            if (dropdown.textContent.trim() === "Contact Us") {
+            if (link.textContent.trim() === "Contact Us") {
                 event.preventDefault();
                 document.getElementById("contact").scrollIntoView({ behavior: "smooth" });
             }
         });
     });
 });
-
 </script>
 </head><body class="nav-fixed"><div id="progress-bar" style="width: 0%; height:4px; background-color: #712119;; position: fixed; top: 0px; z-index: 2000;"></div>
 

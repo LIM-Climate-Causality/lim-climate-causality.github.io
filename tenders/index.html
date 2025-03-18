@@ -100,23 +100,38 @@ ul.task-list li input[type="checkbox"] {
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     // Get all dropdown toggles
-    const dropdowns = document.querySelectorAll(".navbar-nav .dropdown > a.dropdown-toggle");
+    const dropdowns = document.querySelectorAll(".navbar-nav .dropdown");
 
     dropdowns.forEach(function(dropdown) {
-        dropdown.addEventListener("click", function(event) {
-            // Stop default navigation if it's a dropdown title click
-            if (dropdown.textContent.trim() === "Research") {
+        const link = dropdown.querySelector("a.dropdown-toggle");
+
+        // Show dropdown on hover
+        dropdown.addEventListener("mouseenter", function() {
+            dropdown.classList.add("show");
+            const menu = dropdown.querySelector(".dropdown-menu");
+            if (menu) menu.classList.add("show");
+        });
+
+        // Hide dropdown when mouse leaves
+        dropdown.addEventListener("mouseleave", function() {
+            dropdown.classList.remove("show");
+            const menu = dropdown.querySelector(".dropdown-menu");
+            if (menu) menu.classList.remove("show");
+        });
+
+        // Keep smooth scrolling on click
+        link.addEventListener("click", function(event) {
+            if (link.textContent.trim() === "Research") {
                 event.preventDefault();
                 document.getElementById("research").scrollIntoView({ behavior: "smooth" });
             }
-            if (dropdown.textContent.trim() === "Contact Us") {
+            if (link.textContent.trim() === "Contact Us") {
                 event.preventDefault();
                 document.getElementById("contact").scrollIntoView({ behavior: "smooth" });
             }
         });
     });
 });
-
 </script>
 </head><body class="nav-fixed"><div id="progress-bar" style="width: 0%; height:4px; background-color: #712119;; position: fixed; top: 0px; z-index: 2000;"></div>
 
@@ -306,7 +321,7 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="QUklMkNDbGltYXRlJTJDUGhE" data-listing-date-sort="1748736000000" data-listing-file-modified-sort="1742306938904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="8">
+<div class="quarto-post image-right" data-index="0" data-categories="QUklMkNDbGltYXRlJTJDUGhE" data-listing-date-sort="1748736000000" data-listing-file-modified-sort="1742307849507" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="8">
 <div class="thumbnail">
 <p><a href="../tenders/jobs/example_job/index.html" class="no-external"></a></p><a href="../tenders/jobs/example_job/index.html" class="no-external">
 <p><img loading="lazy" src="../tenders/jobs/example_job/job_example.jpg" class="thumbnail-image"></p>
@@ -342,7 +357,7 @@ Jun 1, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="RGF0YSUyMFNjaWVuY2UlMkNDbGltYXRlJTJDTS5TYy4=" data-listing-date-sort="1738368000000" data-listing-file-modified-sort="1742306938904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="8">
+<div class="quarto-post image-right" data-index="1" data-categories="RGF0YSUyMFNjaWVuY2UlMkNDbGltYXRlJTJDTS5TYy4=" data-listing-date-sort="1738368000000" data-listing-file-modified-sort="1742307849508" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="8">
 <div class="thumbnail">
 <p><a href="../tenders/theses/example_thesis/index.html" class="no-external"></a></p><a href="../tenders/theses/example_thesis/index.html" class="no-external">
 <p><img loading="lazy" src="../tenders/theses/example_thesis/thesis_example.jpg" class="thumbnail-image"></p>
