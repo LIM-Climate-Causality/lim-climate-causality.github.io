@@ -137,3 +137,18 @@ The motivation of our research is to understand climate risks and reduce uncerta
 
 
 # Contact Us {#contact}
+
+::: {.contact-container}
+📍 **Address**  
+Example University  
+Department of Environmental Science  
+123 Research Street, 04109 Leipzig, Germany  
+
+✉️ **Email**  
+[contact@example.com](mailto:contact@example.com)  
+
+🔗 **Follow Us**  
+[<i class="fa-brands fa-linkedin"></i> LinkedIn](https://linkedin.com) |  
+[<i class="fa-brands fa-github"></i> GitHub](https://github.com) |  
+[<i class="fa-brands fa-twitter"></i> Twitter](https://twitter.com)  
+:::

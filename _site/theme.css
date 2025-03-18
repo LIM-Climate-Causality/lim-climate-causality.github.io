@@ -360,3 +360,31 @@
 .pub-links i {
     margin-right: 5px;
 }
+
+
+/* Contact Section Styling */
+.contact-container {
+    width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border-left: 5px solid #712119;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    font-size: 1.1rem;
+}
+
+.contact-container a {
+    color: #712119;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.contact-container a:hover {
+    text-decoration: underline;
+}
+
+.contact-container i {
+    color: #712119;
+    margin-right: 5px;
+}
