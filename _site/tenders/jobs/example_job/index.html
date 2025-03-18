@@ -68,7 +68,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    // Get all dropdown toggles
+    // Get all dropdowns in the navbar
     const dropdowns = document.querySelectorAll(".navbar-nav .dropdown");
 
     dropdowns.forEach(function(dropdown) {
@@ -88,15 +88,18 @@ document.addEventListener("DOMContentLoaded", function() {
             if (menu) menu.classList.remove("show");
         });
 
-        // Keep smooth scrolling on click
+        // Smooth scrolling or redirect to homepage
         link.addEventListener("click", function(event) {
-            if (link.textContent.trim() === "Research") {
+            const sectionId = link.textContent.trim().toLowerCase(); // Convert "Research" -> "research"
+            const targetSection = document.getElementById(sectionId);
+
+            if (targetSection) {
+                // If on the same page, scroll smoothly
                 event.preventDefault();
-                document.getElementById("research").scrollIntoView({ behavior: "smooth" });
-            }
-            if (link.textContent.trim() === "Contact Us") {
-                event.preventDefault();
-                document.getElementById("contact").scrollIntoView({ behavior: "smooth" });
+                targetSection.scrollIntoView({ behavior: "smooth" });
+            } else {
+                // If on another page, navigate to homepage and scroll
+                window.location.href = `/index.html#${sectionId}`;
             }
         });
     });
