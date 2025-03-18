@@ -38,6 +38,47 @@
     color: darkgray !important; /* Change on hover */
 }    
 
+/* Style the dropdown menu */
+.navbar-nav .dropdown-menu {
+    background-color: #712119; /* Change background color */
+    border: none; /* Remove borders */
+    border-radius: 10px; /* Slightly rounded corners */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+    min-width: 180px; /* Ensure enough width */
+}
+
+/* Style the dropdown links */
+.navbar-nav .dropdown-menu a {
+    color: #EDEDF5; /* Light text color */
+    padding: 10px 15px; /* Comfortable spacing */
+    border-radius: 10px;
+    font-size: 1rem; /* Adjust text size */
+    display: block;
+    text-decoration: none; /* Remove underline */
+    transition: background 0.3s ease-in-out;
+}
+
+/* Hover effect */
+.navbar-nav .dropdown-menu a:hover {
+    background-color: #9A2E33; /* Slightly lighter red on hover */
+    color: white; /* Ensure contrast */
+}
+
+/* Ensure dropdown opens smoothly */
+.navbar-nav .dropdown-menu {
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(10px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+/* Show dropdown when hovering */
+.navbar-nav .dropdown.show .dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
 /* Category elements */
 
 .quarto-categories {
