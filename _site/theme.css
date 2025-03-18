@@ -42,11 +42,30 @@
 
 .quarto-category {
     background-color: #712119;  /* Change background */
-    color: white !important;    /* Change text color */
-    padding: 4px 8px;           /* Adjust padding */
-    border-radius: 5px;         /* Make rounded */
+    color: #EDEDF5 !important;    /* Change text color */
 }
 
 .quarto-category:hover {
     background-color: #a83232;  /* Change color on hover */
 }
+
+
+.listing-categories .listing-category {
+    background-color: #712119;  /* Your preferred color */
+    color: #EDEDF5 !important;    /* Text color */
+    text-transform: uppercase;  /* Optional: Make text uppercase */
+    font-weight: bold;          /* Optional: Make text bold */
+}
+
+
+.listing-categories .listing-category:hover {
+    background-color: #a83232;  /* Brighter shade on hover */
+}
+
+
+.listing-categories .listing-category a {
+    text-decoration: none;
+    color: inherit; /* Ensures it follows the main text color */
+}
+
+

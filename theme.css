@@ -1,3 +1,5 @@
+/* Navbar */
+
 .navbar {
     display: flex;
     justify-content: center;
@@ -35,3 +37,35 @@
 .navbar-nav .nav-link:focus {
     color: darkgray !important; /* Change on hover */
 }    
+
+/* Category elements */
+
+.quarto-category {
+    background-color: #712119;  /* Change background */
+    color: #EDEDF5 !important;    /* Change text color */
+}
+
+.quarto-category:hover {
+    background-color: #a83232;  /* Change color on hover */
+}
+
+
+.listing-categories .listing-category {
+    background-color: #712119;  /* Your preferred color */
+    color: #EDEDF5 !important;    /* Text color */
+    text-transform: uppercase;  /* Optional: Make text uppercase */
+    font-weight: bold;          /* Optional: Make text bold */
+}
+
+
+.listing-categories .listing-category:hover {
+    background-color: #a83232;  /* Brighter shade on hover */
+}
+
+
+.listing-categories .listing-category a {
+    text-decoration: none;
+    color: inherit; /* Ensures it follows the main text color */
+}
+
+
