@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -87,16 +86,34 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 </script>
+</head><body class="nav-fixed fullcontent"><div id="progress-bar" style="width: 0%; height:4px; background-color: #712119;; position: fixed; top: 0px; z-index: 2000;"></div>
+
+<script id="progressbar" type="text/javascript">
+
+document.addEventListener("DOMContentLoaded", function() {
+
+    const bar = document.querySelector('#progress-bar');
+    const post = document.querySelector('#quarto-content');
+    const html = document.documentElement;
+    
+    const height = post.scrollHeight + post.offsetTop;
+    
+    window.addEventListener('scroll', () => {
+        bar.style.width = (html.scrollTop / (height- html.clientHeight)) * 100 + '%';
+    });
+});
+</script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
 
 <link rel="stylesheet" href="theme.css">
 <link rel="stylesheet" href="custom_theme.scss">
-</head>
 
-<body class="nav-fixed fullcontent">
+
+
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <div id="quarto-announcement" data-announcement-id="975842a8df70b1858a36e0ea51f36b25" class="alert alert-secondary hidden"><i class="bi bi-lightbulb-fill quarto-announcement-icon"></i><div class="quarto-announcement-content">
 <p>New open positions available! <a href="./tenders/index.html">Click here to check them out</a>.</p>
 </div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
@@ -162,12 +179,12 @@ document.addEventListener("DOMContentLoaded", function() {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block"></header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
@@ -175,7 +192,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <section id="impressum" class="level1">
 <h1>Impressum</h1>
 <section id="information-according-to-5-tmg" class="level2">
-<h2 class="anchored" data-anchor-id="information-according-to-5-tmg">Information according to § 5 TMG</h2>
+<h2 data-anchor-id="information-according-to-5-tmg">Information according to § 5 TMG</h2>
 <p><strong>[University Name]</strong><br>
 [Department / Research Group Name]<br>
 [University Address]<br>
@@ -187,7 +204,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <hr>
 </section>
 <section id="responsible-persons" class="level2">
-<h2 class="anchored" data-anchor-id="responsible-persons">Responsible Persons</h2>
+<h2 data-anchor-id="responsible-persons">Responsible Persons</h2>
 <p><strong>[Name of Responsible Person]</strong><br>
 (Position, e.g., Group Leader, Professor)<br>
 ✉️ Email: [Email Address]</p>
@@ -197,46 +214,46 @@ document.addEventListener("DOMContentLoaded", function() {
 <hr>
 </section>
 <section id="disclaimer" class="level2">
-<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<h2 data-anchor-id="disclaimer">Disclaimer</h2>
 <section id="liability-for-content" class="level3">
-<h3 class="anchored" data-anchor-id="liability-for-content">Liability for Content</h3>
+<h3 data-anchor-id="liability-for-content">Liability for Content</h3>
 <p>The contents of our pages have been created with the utmost care. However, we cannot guarantee the accuracy, completeness, or timeliness of the content. As a service provider, we are responsible for our own content on these pages according to general laws (§ 7 Abs.1 TMG).</p>
 <p>However, according to §§ 8 to 10 TMG, we are not obligated to monitor transmitted or stored third-party information or investigate circumstances indicating illegal activity.</p>
 <p>Obligations to remove or block the use of information under general law remain unaffected. However, liability in this regard is only possible from the time of knowledge of a specific legal violation. If we become aware of such legal violations, we will remove this content immediately.</p>
 </section>
 <section id="liability-for-links" class="level3">
-<h3 class="anchored" data-anchor-id="liability-for-links">Liability for Links</h3>
+<h3 data-anchor-id="liability-for-links">Liability for Links</h3>
 <p>Our website contains links to external websites of third parties, over whose content we have no influence. Therefore, we cannot assume any liability for these external contents. The respective provider or operator of the linked pages is always responsible for their content.</p>
 <p>The linked pages were checked for possible legal violations at the time of linking. No illegal content was recognizable at that time. However, continuous monitoring of the linked pages is not reasonable without specific evidence of a legal violation. If we become aware of any legal violations, we will remove such links immediately.</p>
 <hr>
 </section>
 </section>
 <section id="copyright" class="level2">
-<h2 class="anchored" data-anchor-id="copyright">Copyright</h2>
+<h2 data-anchor-id="copyright">Copyright</h2>
 <p>The content and works created by the site operators on these pages are subject to German copyright law. The reproduction, editing, distribution, and any kind of exploitation outside the limits of copyright law require the written consent of the respective author or creator.</p>
 <p>Insofar as the content on this site was not created by the operator, the copyrights of third parties are respected. In particular, third-party content is marked as such. Should you nevertheless become aware of a copyright infringement, please inform us accordingly. If we become aware of legal violations, we will remove such content immediately.</p>
 <hr>
 </section>
 <section id="data-protection" class="level2">
-<h2 class="anchored" data-anchor-id="data-protection">Data Protection</h2>
+<h2 data-anchor-id="data-protection">Data Protection</h2>
 <p>For information on data protection, please visit our <a href="privacy.qmd">Privacy Policy</a>.</p>
 <hr>
 </section>
 <section id="responsible-for-content-according-to-18-abs.-2-mstv" class="level2">
-<h2 class="anchored" data-anchor-id="responsible-for-content-according-to-18-abs.-2-mstv">Responsible for Content according to § 18 Abs. 2 MStV:</h2>
+<h2 data-anchor-id="responsible-for-content-according-to-18-abs.-2-mstv">Responsible for Content according to § 18 Abs. 2 MStV:</h2>
 <p><strong>[Name of Responsible Person]</strong><br>
 [Address]<br>
 ✉️ Email: [Email Address]</p>
 <hr>
 </section>
 <section id="legal-contact" class="level2">
-<h2 class="anchored" data-anchor-id="legal-contact">Legal Contact</h2>
+<h2 data-anchor-id="legal-contact">Legal Contact</h2>
 <p>If you have any legal inquiries regarding this website, please contact us at:<br>
 📧 [Email Address]</p>
 <hr>
 </section>
 <section id="version-updates" class="level2">
-<h2 class="anchored" data-anchor-id="version-updates">Version &amp; Updates</h2>
+<h2 data-anchor-id="version-updates">Version &amp; Updates</h2>
 <p>This Impressum was last updated on <strong>[Last Update Date]</strong>. Changes may be made at any time.</p>
 
 
@@ -264,13 +281,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
