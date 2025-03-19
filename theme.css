@@ -364,25 +364,35 @@
 /* Grid layout for publications */
 .publications-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Even smaller min width */
-    gap: 10px; /* Smaller gap */
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
     margin-top: 10px;
 }
 
 /* Individual publication card */
 .publication-card {
     background: #EDEDF5;
-    border-radius: 6px; /* Smaller border-radius */
-    padding: 8px; /* Reduced padding */
-    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.08); /* Softer shadow */
+    border-radius: 6px;
+    padding: 8px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.08);
     transition: transform 0.2s ease-in-out;
-    font-size: 12px; /* Even smaller font */
+    font-size: 14px; /* Slightly increased font size */
+}
+
+/* Smaller heading font */
+.publication-card h3 {
+    font-size: 16px; /* Reduced heading size */
+    font-weight: bold;
+}
+
+/* Normal text slightly bigger */
+.publication-card p {
+    font-size: 13px;
 }
 
 .publication-card:hover {
-    transform: scale(1.01); /* Minimal hover effect */
+    transform: scale(1.01);
 }
-
 /* Links inside publication cards */
 .pub-links {
     margin-top: 10px;
