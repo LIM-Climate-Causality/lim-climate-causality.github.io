@@ -18,7 +18,35 @@
     "href": "people/fiona/index.html",
     "title": "Name",
     "section": "",
-    "text": "Lorem ipsum …"
+    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+  },
+  {
+    "objectID": "people/fiona/index.html#bio",
+    "href": "people/fiona/index.html#bio",
+    "title": "Name",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+  },
+  {
+    "objectID": "people/fiona/index.html#research-interests",
+    "href": "people/fiona/index.html#research-interests",
+    "title": "Name",
+    "section": "Research Interests",
+    "text": "Research Interests\nasdfassdf"
+  },
+  {
+    "objectID": "people/fiona/index.html#curriculum-vitae",
+    "href": "people/fiona/index.html#curriculum-vitae",
+    "title": "Name",
+    "section": "Curriculum Vitae",
+    "text": "Curriculum Vitae\n\n\n\n2023 - Present\n\n\n\nResearch Scientist\n\n\nXYZ University\n\n\n\n\n\n2020 - 2023\n\n\n\nPhD in Environmental Science\n\n\nABC Institute\n\n\n\n\n\n2018 - 2020\n\n\n\nMaster’s in Data Science\n\n\nDEF University"
+  },
+  {
+    "objectID": "people/fiona/index.html#publications",
+    "href": "people/fiona/index.html#publications",
+    "title": "Name",
+    "section": "Publications",
+    "text": "Publications\n\n\n\nTitle of the Paper\n\n\nAuthor(s): Name, Name, Name\n\n\nJournal of Amazing Research, 2023\n\n\n DOI  PDF  Code\n\n\n\n\nAnother Research Paper\n\n\nAuthor(s): Name, Name, Name\n\n\nAnother Cool Journal, 2022\n\n\n DOI  PDF  Code"
   },
   {
     "objectID": "research/causality/index.html",
@@ -159,6 +187,13 @@
     "title": "Name",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+  },
+  {
+    "objectID": "people/marina/index.html#research-interests",
+    "href": "people/marina/index.html#research-interests",
+    "title": "Name",
+    "section": "Research Interests",
+    "text": "Research Interests\nasdfassdf"
   },
   {
     "objectID": "people/marina/index.html#curriculum-vitae",
