@@ -1,5 +1,5 @@
 ---
-title: Marina Friedel
+title: Dr. Marina Friedel
 description: Postdoctoral Researcher
 image: images/people/marina.jpg
 categories:
