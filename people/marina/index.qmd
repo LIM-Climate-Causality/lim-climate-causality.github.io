@@ -40,8 +40,7 @@ I am a trained physicist with a background in cosmology and medical physics, but
 
 My research focuses on large-scale atmospheric dynamics and their influence on regional climate, with a particular emphasis on droughts. I aim to uncover the causal chains behind extreme events, employing statistical methods and machine learning to improve our understanding of these phenomena and refine model projections of extreme events at a regional scale, providing actionable data to support climate adaptation and resilience strategies. Additionally, I am interested in interactions between the ozone layer and climate, examining both interannual variability and long-term trends.
 
-## Curriculum Vitae <span id="cv-arrow" class="cv-toggle" data-bs-toggle="collapse" data-bs-target="#cv-timeline">▶</span>
-
+## Curriculum Vitae <span class="cv-toggle" data-bs-toggle="collapse" data-bs-target="#cv-timeline" aria-expanded="false">▶</span>
 
 <div id="cv-timeline" class="collapse">
 <div class="timeline">
