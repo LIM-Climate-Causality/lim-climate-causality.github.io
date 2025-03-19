@@ -275,9 +275,13 @@
     width: 100%; /* Make the image take full width */
     height: 200px; /* Adjust as needed */
     object-fit: cover; /* Ensures the image covers the whole area */
-    border-top-left-radius: 26px; /* Match parent border radius */
-    border-top-right-radius: 26px;
+    border-radius: 26px; /* Match parent border radius */
+    transition: transform 0.3s ease-in-out ;
     display: block;
+}
+
+.research-image:hover {
+    transform: scale(1.1); /* Slight zoom effect */
 }
 
 /* -- Responsive adjustments -- */
