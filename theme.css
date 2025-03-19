@@ -170,11 +170,11 @@
 
 .timeline-content h3 {
     margin: 0;
-    color: #333333;
+    color: #555555;
 }
 
 .timeline-content p {
-    color: #333333;
+    color: #555555;
 }
 
 .timeline-item::before {
@@ -187,17 +187,50 @@
     border-radius: 50%;
 }
 
-/* Profile image */
-
-.profile-image {
-    width: 300px; /* Adjust size */
-
-    border-radius: 50%; /* Make it round */
-    object-fit: contain;
-    margin-bottom: 15px;
-    margin-top: 75px;
+/* Profile Container */
+.profile-container {
+    display: flex;
+    align-items: flex-start; /* Align items at the top */
+    gap: 30px; /* Space between image and text */
+    max-width: 800px;
+    margin: 0 auto; /* Centering the block */
 }
 
+/* Ensure image + social icons stay on one side */
+.profile-image-container {
+    flex: 0 0 300px; /* Fixed width */
+    text-align: center;
+}
+
+/* Profile Image */
+.profile-image {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 50%;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+
+/* Bio Content */
+.bio-content {
+    flex: 1; /* Takes up remaining space */
+    text-align: justify;
+}
+
+/* Responsive Design for small screens */
+@media (max-width: 700px) {  /* Adjusted breakpoint */
+    .profile-container {
+        flex-direction: column;
+        align-items: center; /* Center everything */
+        text-align: center;
+    }
+
+    .bio-content {
+        text-align: left;
+        width: 100%; /* Use full width */
+    }
+}
 
 /* Override for full-width sections like Research */
 .full-width main {
