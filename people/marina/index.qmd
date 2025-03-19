@@ -8,23 +8,26 @@ categories:
 ---
 
 
-<div style="float: right">
-<img src="/images/people/marina.jpg" alt="Profile Image" class="profile-image">
+<div class="profile-container">
+<div class="profile-image-container">
+<img src="/images/people/marina.jpg" class="profile-image">
 <div class="social-icons">
 <a href="https://linkedin.com" target="_blank"><i class="fa-solid fa-envelope"></i></a>
 <a href="https://github.com" target="_blank"><i class="fa-brands fa-github"></i></a>
 </div>
 </div>
 
-### Bio 
+<div class="bio-content">
 
----
+## Bio  
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
 
----
+</div>
+</div>
 
-### Curriculum Vitae
+
+## Curriculum Vitae
 
 <div class="timeline">
 <div class="timeline-item">
@@ -53,9 +56,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 </div>
 
 
-### Publications
-
----
+## Publications
 
 
 <div class="publications-grid">
