@@ -372,14 +372,15 @@
 /* Individual publication card */
 .publication-card {
     background: #EDEDF5;
-    border-radius: 10px;
-    padding: 15px;
-    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px; /* Slightly smaller border-radius */
+    padding: 10px; /* Reduced padding */
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.1); /* Lighter shadow */
     transition: transform 0.2s ease-in-out;
+    font-size: 14px; /* Smaller font */
 }
 
 .publication-card:hover {
-    transform: scale(1.03);
+    transform: scale(1.02); /* Slightly less scaling on hover */
 }
 
 /* Links inside publication cards */
