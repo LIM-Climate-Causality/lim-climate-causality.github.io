@@ -190,6 +190,24 @@
     border-radius: 50%;
 }
 
+
+.cv-toggle {
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 10px;
+    transition: transform 0.3s ease;
+    display: inline-block; /* Prevents weird spacing issues */
+}
+
+.cv-toggle[aria-expanded="true"]::before {
+    content: "▼"; /* Downward when expanded */
+}
+
+.cv-toggle[aria-expanded="false"]::before,
+.cv-toggle:not([aria-expanded])::before {
+    content: "▶"; /* Right when collapsed */
+}
+
 /* Profile Container */
 .profile-container {
     display: flex;
