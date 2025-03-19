@@ -376,18 +376,16 @@
     padding: 8px;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.08);
     transition: transform 0.2s ease-in-out;
-    font-size: 14px; /* Slightly increased font size */
+    font-size: 16px; 
 }
 
-/* Smaller heading font */
 .publication-card h3 {
-    font-size: 16px; /* Reduced heading size */
+    font-size: 18px; 
     font-weight: bold;
 }
 
-/* Normal text slightly bigger */
 .publication-card p {
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .publication-card:hover {
