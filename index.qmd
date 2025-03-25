@@ -96,9 +96,7 @@ The motivation of our research is to understand climate risks and reduce uncerta
 <h3>Dr. Marina Friedel</h3>
 <p>Post-doc</p>
 <div class="social-icons">
-<a href="https://twitter.com" target="_blank"><i class="fa-brands fa-gitlab"></i></a>
-<a href="https://facebook.com" target="_blank"><i class="fab fa-facebook"></i></a>
-<a href="https://linkedin.com" target="_blank"><i class="fa-solid fa-envelope"></i></a>
+
 </div>
 </div>
 
@@ -110,8 +108,7 @@ The motivation of our research is to understand climate risks and reduce uncerta
 <h3>Philine Lou Bommer</h3>
 <p>PhD Researcher</p>
 <div class="social-icons">
-<a href="https://linkedin.com" target="_blank"><i class="fab fa-linkedin"></i></a>
-<a href="https://facebook.com" target="_blank"><i class="fa-brands fa-stack-overflow"></i></a>
+
 </div>
 </div>
 
@@ -123,9 +120,7 @@ The motivation of our research is to understand climate risks and reduce uncerta
 <h3>Fiona Spuler</h3>
 <p>PhD Researcher</p>
 <div class="social-icons">
-<a href="https://twitter.com" target="_blank"><i class="fa-brands fa-github"></i></a>
-<a href="https://facebook.com" target="_blank"><i class="fa-brands fa-rebel"></i></a>
-<a href="https://linkedin.com" target="_blank"><i class="fab fa-linkedin"></i></a>
+
 </div>
 </div>
 
