@@ -14,6 +14,8 @@
     
     margin: 0;
     padding: 0;
+
+    margin-bottom: 20px; /* Adjust this value to reduce space below the image */
 }
 
 /* Default: Center all elements */
