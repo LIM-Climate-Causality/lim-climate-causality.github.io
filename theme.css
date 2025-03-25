@@ -17,7 +17,7 @@ h1, h2, h3 {
 
 .navbar {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     width: 100%;
 }
@@ -38,7 +38,7 @@ h1, h2, h3 {
 
 .navbar-nav {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     width: 100%;
 }    
 
