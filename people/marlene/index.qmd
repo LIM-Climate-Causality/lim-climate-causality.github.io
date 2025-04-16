@@ -1,0 +1,143 @@
+---
+title: Jun. Prof. Marlene Kretschmer
+description: Junior Professor
+image: images/people/marlene.jpg
+categories:
+    - Large-scale atmospheric dynamics 
+    - Causal Inference
+    - Regional climate change
+    - Subseasonal to decadal predictions
+    - Machine learning
+---
+
+
+<div class="profile-container">
+<div class="profile-image-container">
+<img src="/images/people/marlene.jpg" class="profile-image">
+<div class="social-icons">
+  <a href="mailto:marlene.kretschmer@uni-leipzig.de" target="_blank">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+  <a href="https://orcid.org/0000-0002-2756-9526" target="_blank">
+    <i class="fa-brands fa-orcid"></i>
+  </a>
+  <a href="https://www.physes.uni-leipzig.de/en/institut-fuer-meteorologie/forschung/arbeitsgruppe-klimakausalitaet/team" target="_blank">
+    <i class="fa-solid fa-building-columns"></i>
+  </a>
+  <a href="https://bsky.app/profile/marleneclimate.bsky.social" target="_blank">
+    <i class="fa-brands fa-bluesky"></i>
+  </a>
+</div>
+</div>
+
+<div class="bio-content">
+
+## Bio  
+
+I studied mathematics before completing a PhD in climate physics at the Potsdam Institute for Climate Impact Research. I then worked as a postdoctoral researcher in the Department of Meteorology at the University of Reading (UK). Since 2022, I have been a Junior Professor of Climate Causality at Leipzig University. Outside of work, I enjoy sports and spending time with my children.
+
+</div>
+</div>
+
+## Research Interests
+
+My research aims to understand the large-scale drivers of regional weather and climate, including extreme events, and how this knowledge can enhance predictions from subseasonal timescales to projections extending to the end of the century. I have worked extensively on stratosphere–troposphere coupling and Northern Hemisphere midlatitude climate. More recently, I have been exploring tropical teleconnections and Southern Hemisphere climate dynamics. I am particularly interested in applying causal inference and machine learning algorithms to identify key drivers and teleconnections in large climate model simulations and observational datasets. My approach integrates data-driven methods with physical understanding to improve climate prediction and interpretation. I also value interdisciplinary collaboration, particularly in connecting atmospheric sciences with ecosystem research, the social sciences, and explainable AI.
+## Curriculum Vitae <span class="cv-toggle" data-bs-toggle="collapse" data-bs-target="#cv-timeline" aria-expanded="false"></span>
+
+<div id="cv-timeline" class="collapse">
+<div class="timeline">
+<div class="timeline-item">
+<div class="timeline-date">October 2022 - Present</div>
+<div class="timeline-content">
+<h3>Junior Professor for Climate</h3>
+<p>Leipzig University, Institute for Meteorology, Germany</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">October 2019 - September 2022</div>
+<div class="timeline-content">
+<h3>Research Scientist</h3>
+<p>Reading University, Department for Meteorology, UK</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">May 2014 - April 2018</div>
+<div class="timeline-content">
+<h3>PhD in Climate Physics</h3>
+<p>Potsdam Institute for Climate Impact Research, Germany</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">October 2008 - January 2014</div>
+<div class="timeline-content">
+<h3>Diploma in Mathematics</h3>
+<p>Humboldt University Berlin, Germany</p>
+</div>
+</div>
+</div>
+</div>
+
+
+## Selected Publications
+
+
+<div class="publications-grid">
+
+<div class="publication-card">
+<h3>Identifying probabilistic weather regimes targeted to a local-scale impact variable</h3>
+<p><b>Author(s):</b> F. Spuler et al.</p>
+<p><i>Environmental Data Science, 2024</i></p>
+<div class="pub-links">
+<a href="https://doi.org/10.1017/eds.2024.29"></i> DOI</a>
+</div>
+</div>
+
+<div class="publication-card">
+<h3>A shifting climate: New paradigms and challenges for (early career) scientists in extreme weather research</h3>
+<p><b>Author(s):</b> M. Kretschmer et al.</p>
+<p><i>Atmospheric Science Letters, 2024</i></p>
+<div class="pub-links">
+<a href="https://doi.org/10.1002/asl.1268"></i> DOI</a>
+</div>
+</div>
+
+<div class="publication-card">
+<h3>Finding the right XAI Method — A Guide for the Evaluation and Ranking of Explainable AI Methods in Climate Science</h3>
+<p><b>Author(s):</b> P. L. Bommer et al.</p>
+<p><i>Artificial Intelligence for the Earth Systems, 2024</i></p>
+<div class="pub-links">
+<a href="https://doi.org/10.1175/aies-d-23-0074.1"></i> DOI</a>
+</div>
+</div>
+
+<div class="publication-card">
+<h3>Quantifying Causal Pathways of Teleconnections</h3>
+<p><b>Author(s):</b> Kretschmer et al.</p>
+<p><i>Bulletin of the American Meteorological Society, 2021</i></p>
+<div class="pub-links">
+<a href="https://doi.org/10.1175/BAMS-D-20-0117.1"></i> DOI</a>
+</div>
+</div>
+
+<div class="publication-card">
+<h3>The role of Barents–Kara sea ice loss in projected polar vortex changes</h3>
+<p><b>Author(s):</b> Kretschmer et al.</p>
+<p><i>Weather and Climate Dynamics, 2020</i></p>
+<div class="pub-links">
+<a href="https://wcd.copernicus.org/articles/1/715/2020/"></i> DOI</a>
+</div>
+</div>
+
+<div class="publication-card">
+<h3>Using Causal Effect Networks to Analyze Different Arctic Drivers of Midlatitude Winter Circulation</h3>
+<p><b>Author(s):</b> Kretschmer et al.</p>
+<p><i>Journal of Climate, 2016</i></p>
+<div class="pub-links">
+<a href="https://doi.org/10.1175/jcli-d-15-0654.1"></i> DOI</a>
+</div>
+</div>
+
+</div>
