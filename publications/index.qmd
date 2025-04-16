@@ -1,25 +1,39 @@
 ---
-title: "My Publications"
-description: "Find publications of the Climate Causality & Attribution group here"
-output: 
-  html_document:
-    toc: true
+title: "Publications"
+format:
+  html:
+    toc: false
 ---
 
-## Introduction
+## Published Papers
 
-Welcome to my publications page! Below is a list of my academic papers with citation information.
+Find recent publications co-authored by members of the Climate Causality & Attribution group here. The members of the group are highlighted in bold in the author list. For papers related to specific research topics or highlighted by members of the group, please consult the pages of individual researchers.
 
 ```{r}
+#| echo: false
+#| warning: false
+#| message: false
+ 
 # Install required packages if not already installed
 if (!requireNamespace("dplyr", quietly = TRUE)) install.packages("dplyr")
 if (!requireNamespace("scholar", quietly = TRUE)) install.packages("scholar")
+if (!requireNamespace("stringr", quietly = TRUE)) install.packages("stringr")
 
 library(dplyr)
 library(scholar)
+library(stringr)
 
 # Define your Google Scholar IDs
-researcher_ids <- c('ehVPFfQAAAAJ&hl=en', 'viviYAMAAAAJ&hl=de')
+researcher_ids <- c('ehVPFfQAAAAJ&hl=en', 'viviYAMAAAAJ&hl=de', 'IZC7zeUAAAAJ&hl=en', 'LVRfN6QAAAAJ&hl=de', 'j3grcqMAAAAJ&hl=es', 'dYLtLFIAAAAJ&hl=de')
+
+names_to_bold <- c("FR Spuler", "F Spuler", "M Kretschmer", "J Mindlin", "S Sippel", "M Friedel", "J Carvalho-Oliveira")
+
+bold_names <- function(author_string, names_vector) {
+  for (name in names_vector) {
+    author_string <- str_replace_all(author_string, fixed(name), paste0("**", name, "**"))
+  }
+  return(author_string)
+}
 
 # Fetch publications for each scholar ID
 all_pubs <- lapply(researcher_ids, function(id) {
@@ -35,8 +49,12 @@ combined_pubs <- bind_rows(all_pubs)
 filtered_pubs <- combined_pubs %>%
   filter(cites > 0) %>%
   filter(year>2021) %>%
-  filter(!is.na(journal) & journal != "")
+  filter(!is.na(journal) & journal != "") %>%
+  select(-c(cites, cid, pubid, scholar_id)) %>%
+  arrange(desc(year)) %>%
+  distinct() %>%
+  mutate(author = sapply(author, bold_names, names_vector = names_to_bold))
 
 # Display the filtered data as a table
 knitr::kable(filtered_pubs, caption = "Publications")
-
+```
