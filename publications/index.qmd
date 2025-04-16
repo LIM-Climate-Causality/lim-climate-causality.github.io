@@ -18,6 +18,8 @@ Find recent publications co-authored by members of the Climate Causality & Attri
 if (!requireNamespace("dplyr", quietly = TRUE)) install.packages("dplyr")
 if (!requireNamespace("scholar", quietly = TRUE)) install.packages("scholar")
 if (!requireNamespace("stringr", quietly = TRUE)) install.packages("stringr")
+if (!requireNamespace("knitr", quietly = TRUE)) install.packages("knitr")
+if (!requireNamespace("rmarkdown", quietly = TRUE)) install.packages("rmarkdown")
 
 library(dplyr)
 library(scholar)
