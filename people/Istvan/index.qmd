@@ -1,0 +1,83 @@
+---
+title: István Dunkl
+description: Postdoctoral Researcher
+image: images/people/istvan.jpg
+categories:
+ -	Biogeochemistry
+ -	Storyline attribution
+ -	Hydroclimate
+ -	Global carbon cycle
+---
+
+
+<div class="profile-container">
+<div class="profile-image-container">
+<img src="/images/people/florian.jpg" class="profile-image">
+<div class="social-icons">
+  <a href="mailto:istvan.dunkl@uni-leipzig.de" target="_blank">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+</div>
+</div>
+
+<div class="bio-content">
+
+## Bio  
+
+I am a researcher with a diverse academic background that includes organic agriculture, soil science, population ecology, and ecological modeling. I completed my PhD in Earth System Science, where I worked on the predictability of the terrestrial carbon cycle. In my free time, I am passionate about urban transformation, crafting, and open-source initiatives.
+
+</div>
+</div>
+
+## Research Interests
+
+My work at Leipzig University is focused on the attribution of trends and anomalies in the water and carbon cycle. We have set up a storyline attribution framework based on nudging the Community Earth System Model 2 to circulation patterns from reanalysis data. I’m especially interested in the interactions between dynamical and thermodynamical conditions and the indirect effects of CO2 fertilization on climate. Our long-term goal is to build a framework for the timely attribution of land carbon cycle anomalies.
+
+
+## Selected Publications
+
+
+<div class="publications-grid">
+
+<div class="publication-card">
+<h3>Compensatory effects conceal large uncertainties in the modelled processes behind the relationship between the El Niño–Southern Oscillation (ENSO) and CO2</h3>
+<p><b>Author(s):</b> István Dunkl,
+Ana Bastos,
+Tatiana, Ilyina
+</p>
+<p><i>Earth System Dynamics, 2025</i></p>
+<div class="pub-links">
+<a href="http://dx.doi.org/10.5194/esd-16-151-2025"></i> DOI</a>
+</div>
+</div>
+
+<div class="publication-card">
+<h3>Gross primary productivity and the predictability of CO2: more uncertainty in what we predict than how well we predict it</h3>
+<p><b>Author(s):</b> István Dunkl,
+Nicole Lovenduski,
+Alessio Collalti,
+Vivek K. Arora,
+Tatiana Ilyina,
+Victor Brovkin
+</p>
+<p><i>Biogeosciences, 2023</i></p>
+<div class="pub-links">
+<a href="http://dx.doi.org/10.5194/bg-20-3523-2023"></i> DOI</a>
+</div>
+</div>
+
+<div class="publication-card">
+<h3>Process-based analysis of terrestrial carbon flux predictability</h3>
+<p><b>Author(s):</b> István Dunkl,
+Aaron Spring,
+Pierre Friedlingstein,
+Victor Brovkin
+</p>
+<p><i>Earth System Dynamics, 2021</i></p>
+<div class="pub-links">
+<a href="http://dx.doi.org/10.5194/esd-12-1413-2021"></i> DOI</a>
+</div>
+</div>
+
+
+</div>
