@@ -1,14 +1,42 @@
 ---
-title: Publications
-description: Find publications of the Climate Causality & Attribution group here.
-listing: 
-    contents: 
-        - publications/example_publication/index.qmd
-    sort: date desc
-    sort-ui: true
-    filter-ui: true
-    categories: true
-    
+title: "My Publications"
+description: "Find publications of the Climate Causality & Attribution group here"
+output: 
+  html_document:
+    toc: true
 ---
 
----
+## Introduction
+
+Welcome to my publications page! Below is a list of my academic papers with citation information.
+
+```{r}
+# Install required packages if not already installed
+if (!requireNamespace("dplyr", quietly = TRUE)) install.packages("dplyr")
+if (!requireNamespace("scholar", quietly = TRUE)) install.packages("scholar")
+
+library(dplyr)
+library(scholar)
+
+# Define your Google Scholar IDs
+researcher_ids <- c('ehVPFfQAAAAJ&hl=en', 'viviYAMAAAAJ&hl=de')
+
+# Fetch publications for each scholar ID
+all_pubs <- lapply(researcher_ids, function(id) {
+  pubs <- get_publications(id)
+  pubs$scholar_id <- id  # Add ID as a column for reference
+  return(pubs)
+})
+
+# Combine into one data frame
+combined_pubs <- bind_rows(all_pubs)
+
+# Filter
+filtered_pubs <- combined_pubs %>%
+  filter(cites > 0) %>%
+  filter(year>2021) %>%
+  filter(!is.na(journal) & journal != "")
+
+# Display the filtered data as a table
+knitr::kable(filtered_pubs, caption = "Publications")
+
