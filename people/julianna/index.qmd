@@ -1,0 +1,120 @@
+---
+title: Julianna Carvalho Oliveira
+description: Postdoctoral Researcher
+image: images/people/florian.jpg
+categories:
+    -	Climate Predictability
+    -   Machine Learning
+---
+
+
+<div class="profile-container">
+<div class="profile-image-container">
+<img src="/images/people/florian.jpg" class="profile-image">
+<div class="social-icons">
+  <a href="mailto:julianna.carvalho_oliveira@uni-leipzig.de" target="_blank">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+
+  <a href="https://www.linkedin.com/in/j-carvalho-oliveira/ " target="_blank">
+    <i class="fa-brands fa-linkedin"></i>
+  </a>
+</div>
+</div>
+
+<div class="bio-content">
+
+## Bio  
+
+I am a Brazilian climate scientist with a background in oceanography and a passion for understanding the climate system and contributing to practical solutions for sustainable development and climate change resilience. I’ve previously worked as a Climate Risk Analyst in the finance and insurance sector, supporting disaster risk reduction efforts. Outside of research, I enjoy outdoor activities—especially sport climbing.
+
+</div>
+</div>
+
+## Research Interests
+
+My research focuses on the variability and predictability of the European climate, with a particular emphasis on summer extremes. I combine causality inference techniques and machine learning to improve the credibility of climate predictions. I'm especially interested in the role of large-scale atmospheric patterns, land–atmosphere interactions, and how these insights can inform early warning systems, climate services, and adaptation strategies. I am currently a researcher on the Horizon Europe project EXPECT: Towards an Integrated Capability to Explain and Predict Regional Climate, which aims to advance understanding and prediction of regional climate variability and extremes.
+
+## Curriculum Vitae <span class="cv-toggle" data-bs-toggle="collapse" data-bs-target="#cv-timeline" aria-expanded="false"></span>
+
+<div id="cv-timeline" class="collapse">
+<div class="timeline">
+<div class="timeline-item">
+<div class="timeline-date">April 2024 - Present</div>
+<div class="timeline-content">
+<h3>Postdoctoral Researcher</h3>
+<p>Leipzig University, Institute for Meteorology, Germany</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">August 2023 - March 2024</div>
+<div class="timeline-content">
+<h3>Project Manager/Researcher</h3>
+<p>Frankfurt School of Finance and Management, Germany</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">January 2023 - June 2023</div>
+<div class="timeline-content">
+<h3>Postdoctoral Researcher</h3>
+<p>University of Hamburg, Germany</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">September 2018 - August 2023</div>
+<div class="timeline-content">
+<h3>PhD researcher</h3>
+<p>University of Hamburg, Germany</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">August 2015 - July 2017</div>
+<div class="timeline-content">
+<h3>Master Student</h3>
+<p>University of Southampton, UK</p>
+</div>
+</div>
+
+</div>
+</div>
+
+
+## Selected Publications
+
+
+<div class="publications-grid">
+
+<div class="publication-card">
+<h3>Causal relationships and predictability of the summer East Atlantic teleconnection
+</h3>
+<p><b>Author(s):</b> Julianna Carvalho-Oliveira, Giorgia Di Capua, Leonard F. Borchert, Reik V. Donner, and Johanna Baehr</p>
+<p><i>Weather and Climate Dynamics, 2024</i></p>
+<div class="pub-links">
+<a href="https://wcd.copernicus.org/articles/5/1561/2024/wcd-5-1561-2024.html"></i> DOI</a>
+</div>
+</div>
+
+<div class="publication-card">
+<h3>Self-Organizing Maps Identify Windows of Opportunity for Seasonal European Summer Predictions</h3>
+<p><b>Author(s):</b> Julianna Carvalho-Oliveira,  Leonard F. Borchert, Eduardo Zorita, and Johanna Baehr</p>
+<p><i>Frontiers in Climate, 2022</i></p>
+<div class="pub-links">
+<a href="https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2022.844634/full"></i> DOI</a>
+</div>
+</div>
+
+<div class="publication-card">
+<h3>Subtle influence of the Atlantic Meridional Overturning Circulation (AMOC) on seasonal sea surface temperature (SST) hindcast skill in the North Atlantic</h3>
+<p><b>Author(s):</b> Julianna Carvalho-Oliveira,  Leonard F. Borchert, Aurelie Duchez, Mikhail Dobrynin, and Johanna Baehr</p>
+<p><i>Weather and Climate Dynamics, 2021</i></p>
+<div class="pub-links">
+<a href="https://wcd.copernicus.org/articles/2/739/2021/wcd-2-739-2021.html"></i> DOI</a>
+</div>
+</div>
+
+
+</div>

@@ -1,0 +1,135 @@
+---
+title: Dr. Peter Pfleiderer
+description: Postdoctoral Researcher
+image: images/people/marina.jpg
+categories:
+    - Weather extremes
+    - atmospheric circulation (and changes)
+    - Extreme event attribution
+---
+
+
+<div class="profile-container">
+<div class="profile-image-container">
+<img src="/images/people/peter.jpg" class="profile-image">
+<div class="social-icons">
+  <a href="mailto:peter.pfleiderer@uni-leipzig.de" target="_blank">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+  <a href="https://orcid.org/my-orcid?orcid=0000-0002-1493-4598" target="_blank">
+    <i class="fa-brands fa-orcid"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/peter-pfleiderer-533a44259/" target="_blank">
+    <i class="fa-brands fa-linkedin"></i>
+  </a>
+  <a href="https://bsky.app/profile/klimapeter.bsky.social" target="_blank">
+    <i class="fa-brands fa-bluesky"></i>
+  </a>
+  <a href="https://github.com/peterpeterp" target="_blank">
+    <i class="fa-brands fa-github"></i>
+  </a>
+</div>
+</div>
+
+<div class="bio-content">
+
+## Bio  
+
+At the end of my physics studies I decided to focus on topics that are relevant to a wider public and specialized on climate dynamcis. Since then, I have been researching how various weather extremes change in a warming climate focusing on weather extremes that can become particularly harmful to ecological systems and societies. Being confronted with impacts of climate change on a daily basis while whitnessing that greenhouse gas emissions are still rising can be frustrating but this is outweighed by the enjoyable atmosphere in the climate research community and my interest in the climate system such that I would like to stay in the field for longer.
+
+</div>
+</div>
+
+## Research Interests
+
+I’m mainly interested in weather extremes that have lead to ecological or societal impacts and I study how (or wether) these weather extremes changes in a warming climate. The main challenge in weather extremes research is that these events are by definition rare while our observational record is rather short. Besides the weather events themselves I’m also intersted in methodological developments to overcome this challenge including stistical approaches being applied to the observational record as well as specific climate simulation experiments to efficiently generate large numbers of extreme events in a given climate state.
+## Curriculum Vitae <span class="cv-toggle" data-bs-toggle="collapse" data-bs-target="#cv-timeline" aria-expanded="false"></span>
+
+<div id="cv-timeline" class="collapse">
+<div class="timeline">
+<div class="timeline-item">
+<div class="timeline-date">2024 - Present</div>
+<div class="timeline-content">
+<h3>Postdoctoral Researcher</h3>
+<p>Leipzig University, Institute for Meteorology, Germany</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2022 - 2023</div>
+<div class="timeline-content">
+<h3>Postdoctoral Researcher</h3>
+<p>Climate Analytics Berlin, Germany</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2021 - 2022</div>
+<div class="timeline-content">
+<h3>Postdoctoral Researcher</h3>
+<p>University of Hamburg, Germany</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2017 - 2021</div>
+<div class="timeline-content">
+<h3>PhD in Geography</h3>
+<p>Humboldt University, Berlin, Germany</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2016 - 2017</div>
+<div class="timeline-content">
+<h3>Researcher Analyst</h3>
+<p>Climate Analytics Berlin, Germany</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2010 - 2016</div>
+<div class="timeline-content">
+<h3>Bachelor and Master's in Physics</h3>
+<p>Freie Universität Berlin, Germany</p>
+</div>
+</div>
+
+</div>
+</div>
+
+
+## Selected Publications
+
+
+<div class="publications-grid">
+
+<div class="publication-card">
+<h3>Weakening of springtime Arctic ozone depletion with climate change</h3>
+<p><b>Author(s):</b> M. Friedel et al.</p>
+<p><i>Atmospheric Chemistry and Physics, 2023</i></p>
+<div class="pub-links">
+<a href="https://doi.org/10.5194/acp-23-10235-2023"></i> DOI</a>
+</div>
+</div>
+
+<div class="publication-card">
+<h3>Springtime arctic ozone depletion forces northern hemisphere climate anomalies</h3>
+<p><b>Author(s):</b> M. Friedel et al.</p>
+<p><i>Nature Geoscience, 2022</i></p>
+<div class="pub-links">
+<a href="https://doi.org/10.1038/s41561-022-00974-7"></i> DOI</a>
+</div>
+</div>
+
+<div class="publication-card">
+<h3>Effects of Arctic ozone on the stratospheric spring onset and its surface impact</h3>
+<p><b>Author(s):</b> M. Friedel et al.</p>
+<p><i>Atmospheric Chemistry and Physics, 2022</i></p>
+<div class="pub-links">
+<a href="https://doi.org/10.5194/acp-22-13997-2022"></i> DOI</a>
+</div>
+</div>
+
+
+</div>
