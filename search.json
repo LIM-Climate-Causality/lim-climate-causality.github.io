@@ -14,81 +14,88 @@
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAwesome Job\n\n\n\n\n\n\nAI\n\n\nClimate\n\n\nPhD\n\n\n\nAbstract of a really awesome job.\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nAwesome Thesis Topic\n\n\n\n\n\n\nData Science\n\n\nClimate\n\n\nM.Sc.\n\n\n\nAbstract of a really awesome thesis topic.\n\n\n\n\n\nFeb 1, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "people/fiona/index.html",
-    "href": "people/fiona/index.html",
-    "title": "Name",
+    "objectID": "people/marlene/index.html",
+    "href": "people/marlene/index.html",
+    "title": "Jun. Prof. Marlene Kretschmer",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+    "text": "I studied mathematics before completing a PhD in climate physics at the Potsdam Institute for Climate Impact Research. I then worked as a postdoctoral researcher in the Department of Meteorology at the University of Reading (UK). Since 2022, I have been a Junior Professor of Climate Causality at Leipzig University. Outside of work, I enjoy sports and spending time with my children."
   },
   {
-    "objectID": "people/fiona/index.html#bio",
-    "href": "people/fiona/index.html#bio",
-    "title": "Name",
+    "objectID": "people/marlene/index.html#bio",
+    "href": "people/marlene/index.html#bio",
+    "title": "Jun. Prof. Marlene Kretschmer",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+    "text": "I studied mathematics before completing a PhD in climate physics at the Potsdam Institute for Climate Impact Research. I then worked as a postdoctoral researcher in the Department of Meteorology at the University of Reading (UK). Since 2022, I have been a Junior Professor of Climate Causality at Leipzig University. Outside of work, I enjoy sports and spending time with my children."
   },
   {
-    "objectID": "people/fiona/index.html#research-interests",
-    "href": "people/fiona/index.html#research-interests",
-    "title": "Name",
+    "objectID": "people/marlene/index.html#research-interests",
+    "href": "people/marlene/index.html#research-interests",
+    "title": "Jun. Prof. Marlene Kretschmer",
     "section": "Research Interests",
-    "text": "Research Interests\nasdfassdf"
+    "text": "Research Interests\nMy research aims to understand the large-scale drivers of regional weather and climate, including extreme events, and how this knowledge can enhance predictions from subseasonal timescales to projections extending to the end of the century. I have worked extensively on stratosphere–troposphere coupling and Northern Hemisphere midlatitude climate. More recently, I have been exploring tropical teleconnections and Southern Hemisphere climate dynamics. I am particularly interested in applying causal inference and machine learning algorithms to identify key drivers and teleconnections in large climate model simulations and observational datasets. My approach integrates data-driven methods with physical understanding to improve climate prediction and interpretation. I also value interdisciplinary collaboration, particularly in connecting atmospheric sciences with ecosystem research, the social sciences, and explainable AI. ## Curriculum Vitae \n\n\n\n\nOctober 2022 - Present\n\n\n\nJunior Professor for Climate\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nOctober 2019 - September 2022\n\n\n\nResearch Scientist\n\n\nReading University, Department for Meteorology, UK\n\n\n\n\n\nMay 2014 - April 2018\n\n\n\nPhD in Climate Physics\n\n\nPotsdam Institute for Climate Impact Research, Germany\n\n\n\n\n\nOctober 2008 - January 2014\n\n\n\nDiploma in Mathematics\n\n\nHumboldt University Berlin, Germany"
   },
   {
-    "objectID": "people/fiona/index.html#curriculum-vitae",
-    "href": "people/fiona/index.html#curriculum-vitae",
-    "title": "Name",
-    "section": "Curriculum Vitae",
-    "text": "Curriculum Vitae\n\n\n\n2023 - Present\n\n\n\nResearch Scientist\n\n\nXYZ University\n\n\n\n\n\n2020 - 2023\n\n\n\nPhD in Environmental Science\n\n\nABC Institute\n\n\n\n\n\n2018 - 2020\n\n\n\nMaster’s in Data Science\n\n\nDEF University"
+    "objectID": "people/marlene/index.html#selected-publications",
+    "href": "people/marlene/index.html#selected-publications",
+    "title": "Jun. Prof. Marlene Kretschmer",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\n\n\nIdentifying probabilistic weather regimes targeted to a local-scale impact variable\n\n\nAuthor(s): F. Spuler et al.\n\n\nEnvironmental Data Science, 2024\n\n\n DOI\n\n\n\n\nA shifting climate: New paradigms and challenges for (early career) scientists in extreme weather research\n\n\nAuthor(s): M. Kretschmer et al.\n\n\nAtmospheric Science Letters, 2024\n\n\n DOI\n\n\n\n\nFinding the right XAI Method — A Guide for the Evaluation and Ranking of Explainable AI Methods in Climate Science\n\n\nAuthor(s): P. L. Bommer et al.\n\n\nArtificial Intelligence for the Earth Systems, 2024\n\n\n DOI\n\n\n\n\nQuantifying Causal Pathways of Teleconnections\n\n\nAuthor(s): Kretschmer et al.\n\n\nBulletin of the American Meteorological Society, 2021\n\n\n DOI\n\n\n\n\nThe role of Barents–Kara sea ice loss in projected polar vortex changes\n\n\nAuthor(s): Kretschmer et al.\n\n\nWeather and Climate Dynamics, 2020\n\n\n DOI\n\n\n\n\nUsing Causal Effect Networks to Analyze Different Arctic Drivers of Midlatitude Winter Circulation\n\n\nAuthor(s): Kretschmer et al.\n\n\nJournal of Climate, 2016\n\n\n DOI"
   },
   {
-    "objectID": "people/fiona/index.html#publications",
-    "href": "people/fiona/index.html#publications",
-    "title": "Name",
-    "section": "Publications",
-    "text": "Publications\n\n\n\nTitle of the Paper\n\n\nAuthor(s): Name, Name, Name\n\n\nJournal of Amazing Research, 2023\n\n\n DOI  PDF  Code\n\n\n\n\nAnother Research Paper\n\n\nAuthor(s): Name, Name, Name\n\n\nAnother Cool Journal, 2022\n\n\n DOI  PDF  Code"
+    "objectID": "people/marina/index.html",
+    "href": "people/marina/index.html",
+    "title": "Dr. Marina Friedel",
+    "section": "",
+    "text": "I am a trained physicist with a background in cosmology and medical physics, but my passion for tackling global challenges led me into climate science during my PhD at ETH Zurich. Beyond research, I am passionate about science communication, making complex topics accessible to a broader audience. In my free time, I seek out the outdoors whenever possible or enjoy a good book with a great cup of coffee."
   },
   {
-    "objectID": "research/causality/index.html",
-    "href": "research/causality/index.html",
-    "title": "Causal Methods in Climate Science",
+    "objectID": "people/marina/index.html#bio",
+    "href": "people/marina/index.html#bio",
+    "title": "Dr. Marina Friedel",
+    "section": "",
+    "text": "I am a trained physicist with a background in cosmology and medical physics, but my passion for tackling global challenges led me into climate science during my PhD at ETH Zurich. Beyond research, I am passionate about science communication, making complex topics accessible to a broader audience. In my free time, I seek out the outdoors whenever possible or enjoy a good book with a great cup of coffee."
+  },
+  {
+    "objectID": "people/marina/index.html#research-interests",
+    "href": "people/marina/index.html#research-interests",
+    "title": "Dr. Marina Friedel",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research focuses on large-scale atmospheric dynamics and their influence on regional climate, with a particular emphasis on droughts. I aim to uncover the causal chains behind extreme events, employing statistical methods and machine learning to improve our understanding of these phenomena and refine model projections of extreme events at a regional scale, providing actionable data to support climate adaptation and resilience strategies. Additionally, I am interested in interactions between the ozone layer and climate, examining both interannual variability and long-term trends."
+  },
+  {
+    "objectID": "people/marina/index.html#curriculum-vitae",
+    "href": "people/marina/index.html#curriculum-vitae",
+    "title": "Dr. Marina Friedel",
+    "section": "Curriculum Vitae ",
+    "text": "Curriculum Vitae \n\n\n\n\nJuly 2024 - Present\n\n\n\nResearch Scientist\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nJune 2023 - October 2023\n\n\n\nResearch Scientist\n\n\nETH Zurich, Institute for Atmospheric and Climate Science, Switzerland\n\n\n\n\n\nOctober 2019 - May 2023\n\n\n\nPhD in Environmental System Science\n\n\nETH Zurich, Institute for Atmospheric and Climate Science, Switzerland\n\n\n\n\n\nOctober 2013 - May 2019\n\n\n\nBachelor and Master in Physics\n\n\nUniversity of Tubingen, Germany"
+  },
+  {
+    "objectID": "people/marina/index.html#selected-publications",
+    "href": "people/marina/index.html#selected-publications",
+    "title": "Dr. Marina Friedel",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\n\n\nWeakening of springtime Arctic ozone depletion with climate change\n\n\nAuthor(s): M. Friedel et al.\n\n\nAtmospheric Chemistry and Physics, 2023\n\n\n DOI\n\n\n\n\nSpringtime arctic ozone depletion forces northern hemisphere climate anomalies\n\n\nAuthor(s): M. Friedel et al.\n\n\nNature Geoscience, 2022\n\n\n DOI\n\n\n\n\nEffects of Arctic ozone on the stratospheric spring onset and its surface impact\n\n\nAuthor(s): M. Friedel et al.\n\n\nAtmospheric Chemistry and Physics, 2022\n\n\n DOI"
+  },
+  {
+    "objectID": "research/regional/index.html",
+    "href": "research/regional/index.html",
+    "title": "Regional Climate Change and Extremes",
     "section": "",
     "text": "Lorem ipsum .."
   },
   {
-    "objectID": "research/detection_and_attribution/index.html",
-    "href": "research/detection_and_attribution/index.html",
-    "title": "Detection and Attribution of Climate Change Signals",
+    "objectID": "research/machine_learning/index.html",
+    "href": "research/machine_learning/index.html",
+    "title": "Machine Learning and Artificial Intelligence for Climate Science",
     "section": "",
     "text": "Lorem ipsum .."
   },
   {
-    "objectID": "research/prediction/index.html",
-    "href": "research/prediction/index.html",
-    "title": "Subseasonal to decadal climate predictions",
+    "objectID": "research/teleconnections/index.html",
+    "href": "research/teleconnections/index.html",
+    "title": "Causal teleconnections and internal variability",
     "section": "",
     "text": "Lorem ipsum .."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
-    "section": "",
-    "text": "About\nThe motivation of our research is to understand climate risks and reduce uncertainties in regional predictions and projections of extreme weather and climate events. This requires an improved causal understanding of the physical drivers and consequences of extreme events. Our research includes several sub-aspects:\n\n\n\nResearch\n\n\n\n  \n\nTeleconnections\n\n\n\n\n\n  \n\nDetection and Attribution\n\n\n\n\n\n  \n\nCausal Data Science\n\n\n\n\n\n  \n\nPrediction\n\n\n\n\n\n  \n\nMachine Learning\n\n\n\n\n\n  \n\nRegional Climate Change\n\n\n\n\n\n\n\n\n\nPeople\n\n\n\nThe Climate Causality and Climate Attribution Groups of the Leipzig Institute for Meteorology during their group retreat at the Baltic sea in July 2024.\n\n\n\n\n\n\n\n  \n\nDr. Marina Friedel\n\n\nPost-doc\n\n\n\n\n\n\n\n  \n\nPhiline Lou Bommer\n\n\nPhD Researcher\n\n\n\n\n\n\n\n  \n\nFiona Spuler\n\n\nPhD Researcher\n\n\n\n\n\n\n\n\n\n\n\nContact Us\n\n📍 Address\nExample University\nDepartment of Environmental Science\n123 Research Street, 04109 Leipzig, Germany\n✉️ Email\ncontact@example.com\n🔗 Follow Us\n LinkedIn |\n GitHub |\n Twitter"
-  },
-  {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Publications",
-    "section": "",
-    "text": "No matching items"
-  },
-  {
-    "objectID": "publications/example_publication/index.html",
-    "href": "publications/example_publication/index.html",
-    "title": "Awesome Paper",
-    "section": "",
-    "text": "Here goes the further description of the paper."
   },
   {
     "objectID": "impressum.html",
@@ -154,60 +161,81 @@
     "text": "This Impressum was last updated on [Last Update Date]. Changes may be made at any time."
   },
   {
-    "objectID": "research/teleconnections/index.html",
-    "href": "research/teleconnections/index.html",
-    "title": "Causal teleconnections and internal variability",
+    "objectID": "publications/example_publication/index.html",
+    "href": "publications/example_publication/index.html",
+    "title": "Awesome Paper",
+    "section": "",
+    "text": "Here goes the further description of the paper."
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "About\nThe motivation of our research is to understand climate risks and reduce uncertainties in regional predictions and projections of extreme weather and climate events. This requires an improved causal understanding of the physical drivers and consequences of extreme events. Our research includes several sub-aspects:\n\n\n\nResearch\n\n\n\n  \n\nTeleconnections\n\n\n\n\n\n  \n\nDetection and Attribution\n\n\n\n\n\n  \n\nCausal Data Science\n\n\n\n\n\n  \n\nPrediction\n\n\n\n\n\n  \n\nMachine Learning\n\n\n\n\n\n  \n\nRegional Climate Change\n\n\n\n\n\n\n\n\n\nPeople\n\n\n\nThe Climate Causality and Climate Attribution Groups of the Leipzig Institute for Meteorology during their group retreat at the Baltic sea in July 2024.\n\n\n\n\n\n\n\n  \n\nDr. Marina Friedel\n\n\nPost-doc\n\n\n\n\n\n\n\n  \n\nPhiline Lou Bommer\n\n\nPhD Researcher\n\n\n\n\n\n\n\n  \n\nFiona Spuler\n\n\nPhD Researcher\n\n\n\n\n\n\n\n\n\n\n\nContact Us\n\n📍 Address\nExample University\nDepartment of Environmental Science\n123 Research Street, 04109 Leipzig, Germany\n✉️ Email\ncontact@example.com\n🔗 Follow Us\n LinkedIn |\n GitHub |\n Twitter"
+  },
+  {
+    "objectID": "research/prediction/index.html",
+    "href": "research/prediction/index.html",
+    "title": "Subseasonal to decadal climate predictions",
     "section": "",
     "text": "Lorem ipsum .."
   },
   {
-    "objectID": "research/machine_learning/index.html",
-    "href": "research/machine_learning/index.html",
-    "title": "Machine Learning and Artificial Intelligence for Climate Science",
+    "objectID": "research/detection_and_attribution/index.html",
+    "href": "research/detection_and_attribution/index.html",
+    "title": "Detection and Attribution of Climate Change Signals",
     "section": "",
     "text": "Lorem ipsum .."
   },
   {
-    "objectID": "research/regional/index.html",
-    "href": "research/regional/index.html",
-    "title": "Regional Climate Change and Extremes",
+    "objectID": "research/causality/index.html",
+    "href": "research/causality/index.html",
+    "title": "Causal Methods in Climate Science",
     "section": "",
     "text": "Lorem ipsum .."
   },
   {
-    "objectID": "people/marina/index.html",
-    "href": "people/marina/index.html",
-    "title": "Dr. Marina Friedel",
+    "objectID": "people/fiona/index.html",
+    "href": "people/fiona/index.html",
+    "title": "Name",
     "section": "",
-    "text": "I am a trained physicist with a background in cosmology and medical physics, but my passion for tackling global challenges led me into climate science during my PhD at ETH Zurich. Beyond research, I am passionate about science communication, making complex topics accessible to a broader audience. In my free time, I seek out the outdoors whenever possible or enjoy a good book with a great cup of coffee."
+    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
   },
   {
-    "objectID": "people/marina/index.html#bio",
-    "href": "people/marina/index.html#bio",
-    "title": "Dr. Marina Friedel",
+    "objectID": "people/fiona/index.html#bio",
+    "href": "people/fiona/index.html#bio",
+    "title": "Name",
     "section": "",
-    "text": "I am a trained physicist with a background in cosmology and medical physics, but my passion for tackling global challenges led me into climate science during my PhD at ETH Zurich. Beyond research, I am passionate about science communication, making complex topics accessible to a broader audience. In my free time, I seek out the outdoors whenever possible or enjoy a good book with a great cup of coffee."
+    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
   },
   {
-    "objectID": "people/marina/index.html#research-interests",
-    "href": "people/marina/index.html#research-interests",
-    "title": "Dr. Marina Friedel",
+    "objectID": "people/fiona/index.html#research-interests",
+    "href": "people/fiona/index.html#research-interests",
+    "title": "Name",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research focuses on large-scale atmospheric dynamics and their influence on regional climate, with a particular emphasis on droughts. I aim to uncover the causal chains behind extreme events, employing statistical methods and machine learning to improve our understanding of these phenomena and refine model projections of extreme events at a regional scale, providing actionable data to support climate adaptation and resilience strategies. Additionally, I am interested in interactions between the ozone layer and climate, examining both interannual variability and long-term trends."
+    "text": "Research Interests\nasdfassdf"
   },
   {
-    "objectID": "people/marina/index.html#curriculum-vitae",
-    "href": "people/marina/index.html#curriculum-vitae",
-    "title": "Dr. Marina Friedel",
-    "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\nJuly 2024 - Present\n\n\n\nResearch Scientist\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nJune 2023 - October 2023\n\n\n\nResearch Scientist\n\n\nETH Zurich, Institute for Atmospheric and Climate Science, Switzerland\n\n\n\n\n\nOctober 2019 - May 2023\n\n\n\nPhD in Environmental System Science\n\n\nETH Zurich, Institute for Atmospheric and Climate Science, Switzerland\n\n\n\n\n\nOctober 2013 - May 2019\n\n\n\nBachelor and Master in Physics\n\n\nUniversity of Tubingen, Germany"
+    "objectID": "people/fiona/index.html#curriculum-vitae",
+    "href": "people/fiona/index.html#curriculum-vitae",
+    "title": "Name",
+    "section": "Curriculum Vitae",
+    "text": "Curriculum Vitae\n\n\n\n2023 - Present\n\n\n\nResearch Scientist\n\n\nXYZ University\n\n\n\n\n\n2020 - 2023\n\n\n\nPhD in Environmental Science\n\n\nABC Institute\n\n\n\n\n\n2018 - 2020\n\n\n\nMaster’s in Data Science\n\n\nDEF University"
   },
   {
-    "objectID": "people/marina/index.html#selected-publications",
-    "href": "people/marina/index.html#selected-publications",
-    "title": "Dr. Marina Friedel",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\n\n\nWeakening of springtime Arctic ozone depletion with climate change\n\n\nAuthor(s): M. Friedel et al.\n\n\nAtmospheric Chemistry and Physics, 2023\n\n\n DOI\n\n\n\n\nSpringtime arctic ozone depletion forces northern hemisphere climate anomalies\n\n\nAuthor(s): M. Friedel et al.\n\n\nNature Geoscience, 2022\n\n\n DOI\n\n\n\n\nEffects of Arctic ozone on the stratospheric spring onset and its surface impact\n\n\nAuthor(s): M. Friedel et al.\n\n\nAtmospheric Chemistry and Physics, 2022\n\n\n DOI"
+    "objectID": "people/fiona/index.html#publications",
+    "href": "people/fiona/index.html#publications",
+    "title": "Name",
+    "section": "Publications",
+    "text": "Publications\n\n\n\nTitle of the Paper\n\n\nAuthor(s): Name, Name, Name\n\n\nJournal of Amazing Research, 2023\n\n\n DOI  PDF  Code\n\n\n\n\nAnother Research Paper\n\n\nAuthor(s): Name, Name, Name\n\n\nAnother Cool Journal, 2022\n\n\n DOI  PDF  Code"
   },
   {
     "objectID": "people/philine/index.html",
