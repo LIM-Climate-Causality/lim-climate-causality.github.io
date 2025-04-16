@@ -1,1 +1,1 @@
-Sitemap: https://LIM-Climate-Causality.github.io/lim-climate-causality.github.io/sitemap.xml
+Sitemap: https://lim-climate-causality.github.io/sitemap.xml
