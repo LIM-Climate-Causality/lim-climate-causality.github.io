@@ -85,37 +85,5 @@ My research focuses on attributing anthropogenic forcings to heat extremes. In p
 </div>
 
 
-## Selected Publications
-
-
-<div class="publications-grid">
-
-<div class="publication-card">
-<h3>Weakening of springtime Arctic ozone depletion with climate change</h3>
-<p><b>Author(s):</b> M. Friedel et al.</p>
-<p><i>Atmospheric Chemistry and Physics, 2023</i></p>
-<div class="pub-links">
-<a href="https://doi.org/10.5194/acp-23-10235-2023"></i> DOI</a>
-</div>
-</div>
-
-<div class="publication-card">
-<h3>Springtime arctic ozone depletion forces northern hemisphere climate anomalies</h3>
-<p><b>Author(s):</b> M. Friedel et al.</p>
-<p><i>Nature Geoscience, 2022</i></p>
-<div class="pub-links">
-<a href="https://doi.org/10.1038/s41561-022-00974-7"></i> DOI</a>
-</div>
-</div>
-
-<div class="publication-card">
-<h3>Effects of Arctic ozone on the stratospheric spring onset and its surface impact</h3>
-<p><b>Author(s):</b> M. Friedel et al.</p>
-<p><i>Atmospheric Chemistry and Physics, 2022</i></p>
-<div class="pub-links">
-<a href="https://doi.org/10.5194/acp-22-13997-2022"></i> DOI</a>
-</div>
-</div>
-
 
 </div>
