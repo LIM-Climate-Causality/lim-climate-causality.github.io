@@ -42,6 +42,7 @@ I studied mathematics before completing a PhD in climate physics at the Potsdam 
 ## Research Interests
 
 My research aims to understand the large-scale drivers of regional weather and climate, including extreme events, and how this knowledge can enhance predictions from subseasonal timescales to projections extending to the end of the century. I have worked extensively on stratosphere–troposphere coupling and Northern Hemisphere midlatitude climate. More recently, I have been exploring tropical teleconnections and Southern Hemisphere climate dynamics. I am particularly interested in applying causal inference and machine learning algorithms to identify key drivers and teleconnections in large climate model simulations and observational datasets. My approach integrates data-driven methods with physical understanding to improve climate prediction and interpretation. I also value interdisciplinary collaboration, particularly in connecting atmospheric sciences with ecosystem research, the social sciences, and explainable AI.
+
 ## Curriculum Vitae <span class="cv-toggle" data-bs-toggle="collapse" data-bs-target="#cv-timeline" aria-expanded="false"></span>
 
 <div id="cv-timeline" class="collapse">
