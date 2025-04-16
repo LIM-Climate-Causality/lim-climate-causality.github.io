@@ -149,9 +149,16 @@
   {
     "objectID": "publications/index.html",
     "href": "publications/index.html",
-    "title": "Publications",
+    "title": "My Publications",
     "section": "",
-    "text": "No matching items"
+    "text": "Welcome to my publications page! Below is a list of my academic papers with citation information."
+  },
+  {
+    "objectID": "publications/index.html#introduction",
+    "href": "publications/index.html#introduction",
+    "title": "My Publications",
+    "section": "",
+    "text": "Welcome to my publications page! Below is a list of my academic papers with citation information."
   },
   {
     "objectID": "publications/example_publication/index.html",

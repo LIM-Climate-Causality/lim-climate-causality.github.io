@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Find publications of the Climate Causality &amp; Attribution group here.">
+<meta name="description" content="Find publications of the Climate Causality &amp; Attribution group here">
 
-<title>Publications – Climate Causality &amp; Attribution</title>
+<title>My Publications – Climate Causality &amp; Attribution</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../images/logos/logo_small.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,35 +66,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     // Get all dropdowns in the navbar
@@ -136,7 +105,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 </script>
-</head><body class="nav-fixed"><div id="progress-bar" style="width: 0%; height:4px; background-color: #712119;; position: fixed; top: 0px; z-index: 2000;"></div>
+</head><body class="nav-fixed fullcontent"><div id="progress-bar" style="width: 0%; height:4px; background-color: #712119;; position: fixed; top: 0px; z-index: 2000;"></div>
 
 <script id="progressbar" type="text/javascript">
 
@@ -155,35 +124,6 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../theme.css">
 <link rel="stylesheet" href="../custom_theme.scss">
@@ -267,10 +207,10 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Publications</h1>
+      <h1 class="title">My Publications</h1>
                   <div>
         <div class="description">
-          Find publications of the Climate Causality &amp; Attribution group here.
+          Find publications of the Climate Causality &amp; Attribution group here
         </div>
       </div>
                 </div>
@@ -288,9 +228,7 @@ window.Quarto = {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -298,25 +236,39 @@ window.Quarto = {
 
 
 
-<hr>
+<section id="introduction" class="level2">
+<h2 data-anchor-id="introduction">Introduction</h2>
+<p>Welcome to my publications page! Below is a list of my academic papers with citation information.</p>
+</section>
+<section id="install-required-packages-if-not-already-installed" class="level1">
+<h1>Install required packages if not already installed</h1>
+<p>if (!requireNamespace(“dplyr”, quietly = TRUE)) install.packages(“dplyr”) if (!requireNamespace(“scholar”, quietly = TRUE)) install.packages(“scholar”)</p>
+<p>library(dplyr) library(scholar)</p>
+</section>
+<section id="define-your-google-scholar-ids" class="level1">
+<h1>Define your Google Scholar IDs</h1>
+<p>researcher_ids &lt;- c(‘ehVPFfQAAAAJ&amp;hl=en’, ‘viviYAMAAAAJ&amp;hl=de’)</p>
+</section>
+<section id="fetch-publications-for-each-scholar-id" class="level1">
+<h1>Fetch publications for each scholar ID</h1>
+<p>all_pubs &lt;- lapply(researcher_ids, function(id) { pubs &lt;- get_publications(id) pubs$scholar_id &lt;- id # Add ID as a column for reference return(pubs) })</p>
+</section>
+<section id="combine-into-one-data-frame" class="level1">
+<h1>Combine into one data frame</h1>
+<p>combined_pubs &lt;- bind_rows(all_pubs)</p>
+</section>
+<section id="filter" class="level1">
+<h1>Filter</h1>
+<p>filtered_pubs &lt;- combined_pubs %&gt;% filter(cites &gt; 0) %&gt;% filter(year&gt;2021) %&gt;% filter(!is.na(journal) &amp; journal != ““)</p>
+</section>
+<section id="display-the-filtered-data-as-a-table" class="level1">
+<h1>Display the filtered data as a table</h1>
+<p>knitr::kable(filtered_pubs, caption = “Publications”)</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
