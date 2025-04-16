@@ -16,19 +16,21 @@ website:
       - href: index.qmd#about
         text: "About"
       - text: "Research"
-        menu:
-        - href: research/projects/index.qmd
-          text: "Projects"
-        - href: research/software/index.qmd
-          text: "Software"
+      - href: index.qmd#research
+        text: "Research"
       - href: index.qmd#people
         text: "People"
-      - href: publications/index.qmd
-        text: "Publications"
+      - text: Publications
+        menu: 
+          - href: publications/software/index.qmd
+            text: Software
       - text: "Contact Us"
         menu: 
           - href: tenders/index.qmd
             text: "Open Positions"
+
+      - href: https://github.com
+        icon: github
 
   page-footer:
     background: "#712119"
