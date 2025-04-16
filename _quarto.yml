@@ -15,13 +15,14 @@ website:
     right:
       - href: index.qmd#about
         text: "About"
-      - text: "Research"
       - href: index.qmd#research
         text: "Research"
       - href: index.qmd#people
         text: "People"
       - text: Publications
         menu: 
+          - href: publications/index.qmd
+            text: Papers
           - href: publications/software/index.qmd
             text: Software
       - text: "Contact Us"
