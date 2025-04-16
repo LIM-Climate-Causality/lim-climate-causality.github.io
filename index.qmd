@@ -190,7 +190,7 @@ The motivation of our research is to understand climate risks and reduce uncerta
 <a href="people/na/index.qmd">
 <img src="images/people/na.jpg" alt="Dr. Na Li">
 </a>
-<h3>Na<br>Li</h3>
+<h3>Dr. Na<br>Li</h3>
 <p>Post-Doc</p>
 <div class="social-icons">
 
