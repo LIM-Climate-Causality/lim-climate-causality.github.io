@@ -284,7 +284,7 @@
     "href": "people/marlene/index.html#research-interests",
     "title": "Jun. Prof. Marlene Kretschmer",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research aims to understand the large-scale drivers of regional weather and climate, including extreme events, and how this knowledge can enhance predictions from subseasonal timescales to projections extending to the end of the century. I have worked extensively on stratosphere–troposphere coupling and Northern Hemisphere midlatitude climate. More recently, I have been exploring tropical teleconnections and Southern Hemisphere climate dynamics. I am particularly interested in applying causal inference and machine learning algorithms to identify key drivers and teleconnections in large climate model simulations and observational datasets. My approach integrates data-driven methods with physical understanding to improve climate prediction and interpretation. I also value interdisciplinary collaboration, particularly in connecting atmospheric sciences with ecosystem research, the social sciences, and explainable AI. ## Curriculum Vitae \n\n\n\n\nOctober 2022 - Present\n\n\n\nJunior Professor for Climate\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nOctober 2019 - September 2022\n\n\n\nResearch Scientist\n\n\nReading University, Department for Meteorology, UK\n\n\n\n\n\nMay 2014 - April 2018\n\n\n\nPhD in Climate Physics\n\n\nPotsdam Institute for Climate Impact Research, Germany\n\n\n\n\n\nOctober 2008 - January 2014\n\n\n\nDiploma in Mathematics\n\n\nHumboldt University Berlin, Germany"
+    "text": "Research Interests\nMy research aims to understand the large-scale drivers of regional weather and climate, including extreme events, and how this knowledge can enhance predictions from subseasonal timescales to projections extending to the end of the century. I have worked extensively on stratosphere–troposphere coupling and Northern Hemisphere midlatitude climate. More recently, I have been exploring tropical teleconnections and Southern Hemisphere climate dynamics. I am particularly interested in applying causal inference and machine learning algorithms to identify key drivers and teleconnections in large climate model simulations and observational datasets. My approach integrates data-driven methods with physical understanding to improve climate prediction and interpretation. I also value interdisciplinary collaboration, particularly in connecting atmospheric sciences with ecosystem research, the social sciences, and explainable AI."
   },
   {
     "objectID": "people/marlene/index.html#selected-publications",
@@ -404,5 +404,12 @@
     "title": "Awesome Job",
     "section": "",
     "text": "Here goes the further description of the job."
+  },
+  {
+    "objectID": "people/marlene/index.html#curriculum-vitae",
+    "href": "people/marlene/index.html#curriculum-vitae",
+    "title": "Jun. Prof. Marlene Kretschmer",
+    "section": "Curriculum Vitae ",
+    "text": "Curriculum Vitae \n\n\n\n\nOctober 2022 - Present\n\n\n\nJunior Professor for Climate\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nOctober 2019 - September 2022\n\n\n\nResearch Scientist\n\n\nReading University, Department for Meteorology, UK\n\n\n\n\n\nMay 2014 - April 2018\n\n\n\nPhD in Climate Physics\n\n\nPotsdam Institute for Climate Impact Research, Germany\n\n\n\n\n\nOctober 2008 - January 2014\n\n\n\nDiploma in Mathematics\n\n\nHumboldt University Berlin, Germany"
   }
 ]
