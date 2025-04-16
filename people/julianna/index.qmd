@@ -1,7 +1,7 @@
 ---
 title: Julianna Carvalho Oliveira
 description: Postdoctoral Researcher
-image: images/people/florian.jpg
+image: images/people/julianna.jpg
 categories:
     -	Climate Predictability
     -   Machine Learning
@@ -10,7 +10,7 @@ categories:
 
 <div class="profile-container">
 <div class="profile-image-container">
-<img src="/images/people/florian.jpg" class="profile-image">
+<img src="/images/people/julianna.jpg" class="profile-image">
 <div class="social-icons">
   <a href="mailto:julianna.carvalho_oliveira@uni-leipzig.de" target="_blank">
     <i class="fa-solid fa-envelope"></i>
