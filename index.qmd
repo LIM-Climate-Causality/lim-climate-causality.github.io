@@ -105,7 +105,7 @@ The motivation of our research is to understand climate risks and reduce uncerta
 <a href="people/ernest/index.qmd">
 <img src="images/people/richard.jpg" alt="Richard Alawode ">
 </a>
-<h3> Richard<br>Alawode </h3>
+<h3>Richard<br>Alawode</h3>
 <p>PhD Researcher</p>
 <div class="social-icons">
 
@@ -130,7 +130,7 @@ The motivation of our research is to understand climate risks and reduce uncerta
 <a href="people/istvan/index.qmd">
 <img src="images/people/istvan.jpg" alt="Dr. István Dunkl">
 </a>
-<h3>István<br>Dunkl</h3>
+<h3>Dr. István<br>Dunkl</h3>
 <p>Post-Doc</p>
 <div class="social-icons">
 
@@ -166,8 +166,32 @@ The motivation of our research is to understand climate risks and reduce uncerta
 <a href="people/marlene/index.qmd">
 <img src="images/people/marlene.jpg" alt="Jun-Prof. Dr. Marlene Kretschmer">
 </a>
-<h3>Marlene<br>Kretschmer</h3>
+<h3>Jun-Prof. Dr. Marlene<br>Kretschmer</h3>
 <p>Junior Professor</p>
+<div class="social-icons">
+
+</div>
+</div>
+
+<!-- Sujata -->
+<div class="team-member">
+<a href="people/sujata/index.qmd">
+<img src="images/people/sujata.jpg" alt="Sujata Kulkarni">
+</a>
+<h3>Sujata<br>Kulkarni</h3>
+<p>PhD Researcher</p>
+<div class="social-icons">
+
+</div>
+</div>
+
+<!-- Na -->
+<div class="team-member">
+<a href="people/na/index.qmd">
+<img src="images/people/na.jpg" alt="Dr. Na Li">
+</a>
+<h3>Na<br>Li</h3>
+<p>Post-Doc</p>
 <div class="social-icons">
 
 </div>
@@ -180,6 +204,30 @@ The motivation of our research is to understand climate risks and reduce uncerta
 </a>
 <h3>Frieder<br>Loer</h3>
 <p>PhD Researcher</p>
+<div class="social-icons">
+
+</div>
+</div>
+
+<!-- Julius -->
+<div class="team-member">
+<a href="people/julius/index.qmd">
+<img src="images/people/julius.jpg" alt="Julius Mex">
+</a>
+<h3>Julius<br>Mex</h3>
+<p>Research Fellow</p>
+<div class="social-icons">
+
+</div>
+</div>
+
+<!-- Julia -->
+<div class="team-member">
+<a href="people/julia/index.qmd">
+<img src="images/people/julia.jpg" alt="Dr. Julia Mindlin">
+</a>
+<h3>Dr. Julia<br>Mindlin</h3>
+<p>Post-Doc</p>
 <div class="social-icons">
 
 </div>
@@ -209,25 +257,13 @@ The motivation of our research is to understand climate risks and reduce uncerta
 </div>
 </div>
 
-<!-- Julius -->
+<!-- Sebastian -->
 <div class="team-member">
-<a href="people/julius/index.qmd">
-<img src="images/people/julius.jpg" alt="Julius Mex">
+<a href="people/sebastian/index.qmd">
+<img src="images/people/sebastian.jpg" alt="Jun.-Prof. Dr. Sebastian Sippel">
 </a>
-<h3>Julius<br>Mex</h3>
-<p>Research Fellow</p>
-<div class="social-icons">
-
-</div>
-</div>
-
-<!-- Julia -->
-<div class="team-member">
-<a href="people/julia/index.qmd">
-<img src="images/people/julia.jpg" alt="Dr. Julia Mindlin">
-</a>
-<h3>Dr. Julia<br>Mindlin</h3>
-<p>Post-Doc</p>
+<h3>Jun.-Prof. Dr. Sebastian<br>Sippel</h3>
+<p>Junior Professor</p>
 <div class="social-icons">
 
 </div>
