@@ -1,0 +1,70 @@
+---
+title: Julius Mex
+description: Research Fellow
+image: images/people/julius.jpg
+
+---
+
+
+<div class="profile-container">
+<div class="profile-image-container">
+<img src="/images/people/julius.jpg" class="profile-image">
+<div class="social-icons">
+  <a href="mailto:Julius.mex@uni-leipzig.de" target="_blank">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+  <a href="https://orcid.org/0009-0005-3186-2812" target="_blank">
+    <i class="fa-brands fa-orcid"></i>
+  </a>
+</div>
+</div>
+
+<div class="bio-content">
+
+
+</div>
+</div>
+
+## Research Interests
+
+My research aims to understand the large scale drivers of regional climate change and the interaction of the forced response with internal variability. In my work I make use of the physical climate storyline approach and extend it to include internal variability to understand, constrain and explain uncertainty in climate projections.
+
+## Curriculum Vitae <span class="cv-toggle" data-bs-toggle="collapse" data-bs-target="#cv-timeline" aria-expanded="false"></span>
+
+<div id="cv-timeline" class="collapse">
+<div class="timeline">
+<div class="timeline-item">
+<div class="timeline-date">2024 - Present</div>
+<div class="timeline-content">
+<h3>Research Assistant</h3>
+<p>Leipzig University, Institute for Meteorology, Germany</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2021 - 2024 </div>
+<div class="timeline-content">
+<h3>Master in Climate Science</h3>
+<p>Ecole Normale Superieure Paris</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2023</div>
+<div class="timeline-content">
+<h3>Visiting Student in Climate Physics</h3>
+<p>University of Bologna</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2018 - 2021</div>
+<div class="timeline-content">
+<h3>Bachelor in Physics</h3>
+<p>University of Cambridge</p>
+</div>
+</div>
+</div>
+</div>
+
+
