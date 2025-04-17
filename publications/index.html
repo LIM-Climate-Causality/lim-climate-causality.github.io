@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Find publications of the Climate Causality &amp; Attribution group here">
 
-<title>My Publications – Climate Causality &amp; Attribution</title>
+<title>Publications – Climate Causality &amp; Attribution</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -206,13 +205,8 @@ document.addEventListener("DOMContentLoaded", function() {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">My Publications</h1>
-                  <div>
-        <div class="description">
-          Find publications of the Climate Causality &amp; Attribution group here
-        </div>
-      </div>
-                </div>
+      <h1 class="title">Publications</h1>
+                      </div>
   </div>
     
   
@@ -235,34 +229,433 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-<section id="introduction" class="level2">
-<h2 data-anchor-id="introduction">Introduction</h2>
-<p>Welcome to my publications page! Below is a list of my academic papers with citation information.</p>
-</section>
-<section id="install-required-packages-if-not-already-installed" class="level1">
-<h1>Install required packages if not already installed</h1>
-<p>if (!requireNamespace(“dplyr”, quietly = TRUE)) install.packages(“dplyr”) if (!requireNamespace(“scholar”, quietly = TRUE)) install.packages(“scholar”)</p>
-<p>library(dplyr) library(scholar)</p>
-</section>
-<section id="define-your-google-scholar-ids" class="level1">
-<h1>Define your Google Scholar IDs</h1>
-<p>researcher_ids &lt;- c(‘ehVPFfQAAAAJ&amp;hl=en’, ‘viviYAMAAAAJ&amp;hl=de’)</p>
-</section>
-<section id="fetch-publications-for-each-scholar-id" class="level1">
-<h1>Fetch publications for each scholar ID</h1>
-<p>all_pubs &lt;- lapply(researcher_ids, function(id) { pubs &lt;- get_publications(id) pubs$scholar_id &lt;- id # Add ID as a column for reference return(pubs) })</p>
-</section>
-<section id="combine-into-one-data-frame" class="level1">
-<h1>Combine into one data frame</h1>
-<p>combined_pubs &lt;- bind_rows(all_pubs)</p>
-</section>
-<section id="filter" class="level1">
-<h1>Filter</h1>
-<p>filtered_pubs &lt;- combined_pubs %&gt;% filter(cites &gt; 0) %&gt;% filter(year&gt;2021) %&gt;% filter(!is.na(journal) &amp; journal != ““)</p>
-</section>
-<section id="display-the-filtered-data-as-a-table" class="level1">
-<h1>Display the filtered data as a table</h1>
-<p>knitr::kable(filtered_pubs, caption = “Publications”)</p>
+<section id="published-papers" class="level2">
+<h2 data-anchor-id="published-papers">Published Papers</h2>
+<p>Recent publications co-authored by members of the Climate Causality &amp; Attribution group. The members of the group are highlighted in bold in the author list. For papers related to specific research topics or highlighted by members of the group, please consult the pages of individual researchers.</p>
+<div class="cell">
+<div class="cell-output-display">
+<table class="caption-top table table-sm table-striped small">
+<caption>Publications</caption>
+<colgroup>
+<col style="width: 47%">
+<col style="width: 27%">
+<col style="width: 16%">
+<col style="width: 7%">
+<col style="width: 1%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">title</th>
+<th style="text-align: left;">author</th>
+<th style="text-align: left;">journal</th>
+<th style="text-align: left;">number</th>
+<th style="text-align: right;">year</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Learning predictable and informative dynamical drivers of extreme precipitation using variational autoencoders</td>
+<td style="text-align: left;"><strong>FR Spuler</strong>, <strong>M Kretschmer</strong>, MA Balmaseda, Y Kovalchuk, TG Shepherd</td>
+<td style="text-align: left;">EGUsphere</td>
+<td style="text-align: left;">2025, 1-31</td>
+<td style="text-align: right;">2025</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Balancing Earth science careers in an unequal world</td>
+<td style="text-align: left;">N Testani, LM Cappelletti, LB Díaz, C Prudente, V Rabanal, <strong>J Mindlin</strong>, …</td>
+<td style="text-align: left;">Communications Earth &amp; Environment</td>
+<td style="text-align: left;">6 (1), 22</td>
+<td style="text-align: right;">2025</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">State of wildfires 2023–2024</td>
+<td style="text-align: left;">MW Jones, DI Kelley, CA Burton, F Di Giuseppe, MLF Barbosa, …</td>
+<td style="text-align: left;">Earth System Science Data</td>
+<td style="text-align: left;">16 (8), 3601-3685</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ibicus: a new open-source Python package and comprehensive interface for statistical bias adjustment and evaluation in climate modelling (v1.0.1)</td>
+<td style="text-align: left;"><strong>FR Spuler</strong>, JB Wessel, E Comyn-Platt, J Varndell, C Cagnazzo</td>
+<td style="text-align: left;">Geoscientific Model Development</td>
+<td style="text-align: left;">17 (3), 1249-1269</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Identifying probabilistic weather regimes targeted to a local-scale impact variable</td>
+<td style="text-align: left;"><strong>FR Spuler</strong>, <strong>M Kretschmer</strong>, Y Kovalchuk, MA Balmaseda, TG Shepherd</td>
+<td style="text-align: left;">Environmental Data Science</td>
+<td style="text-align: left;">3, e25</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Global impacts of an extreme solar particle event under different geomagnetic field strengths</td>
+<td style="text-align: left;">P Arsenović, E Rozanov, I Usoskin, C Turney, T Sukhodolov, …</td>
+<td style="text-align: left;">Proceedings of the National Academy of Sciences</td>
+<td style="text-align: left;">121 (28), e2321770121</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Biodiversity and climate extremes: Known interactions and research gaps</td>
+<td style="text-align: left;">MD Mahecha, A Bastos, FJ Bohn, N Eisenhauer, H Feilhauer, T Hickler, …</td>
+<td style="text-align: left;">Earth’s Future</td>
+<td style="text-align: left;">12 (6), e2023EF003963</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Could an extremely cold central European winter such as 1963 happen again despite climate change?</td>
+<td style="text-align: left;"><strong>S Sippel</strong>, C Barnes, C Cadiou, E Fischer, S Kew, <strong>M Kretschmer</strong>, S Philip, …</td>
+<td style="text-align: left;">Weather and Climate Dynamics</td>
+<td style="text-align: left;">5 (3), 943-957</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A belowground perspective on the nexus between biodiversity change, climate change, and human well‐being</td>
+<td style="text-align: left;">N Eisenhauer, K Frank, A Weigelt, B Bartkowski, R Beugnon, K Liebal, …</td>
+<td style="text-align: left;">Journal of Sustainable Agriculture and Environment</td>
+<td style="text-align: left;">3 (2)</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Early-twentieth-century cold bias in ocean surface temperature observations</td>
+<td style="text-align: left;"><strong>S Sippel</strong>, EC Kent, N Meinshausen, D Chan, C Kadow, R Neukom, …</td>
+<td style="text-align: left;">Nature</td>
+<td style="text-align: left;">635 (8039), 618-624</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Broadening the scope of anthropogenic influence in extreme event attribution</td>
+<td style="text-align: left;">A Jézéquel, A Bastos, D Faranda, J Kimutai, N Le Grix, AM Wilson, …</td>
+<td style="text-align: left;">Environmental Research: Climate</td>
+<td style="text-align: left;">3 (4), 042003</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">AI for Extreme Event Modeling and Understanding: Methodologies and Challenges</td>
+<td style="text-align: left;">G Camps-Valls, MÁ Fernández-Torres, KH Cohrs, A Höhl, A Castelletti, …</td>
+<td style="text-align: left;">arXiv preprint arXiv:</td>
+<td style="text-align: left;">:2406.20080</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Enhanced global carbon cycle sensitivity to tropical temperature linked to internal climate variability</td>
+<td style="text-align: left;">N Li, <strong>S Sippel</strong>, N Linscheid, C Rödenbeck, AJ Winkler, M Reichstein, …</td>
+<td style="text-align: left;">Science Advances</td>
+<td style="text-align: left;">10 (39), eadl6155</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Increasing extreme precipitation variability plays a key role in future record-shattering event probability</td>
+<td style="text-align: left;">I de Vries, <strong>S Sippel</strong>, J Zeder, E Fischer, R Knutti</td>
+<td style="text-align: left;">Communications Earth &amp; Environment</td>
+<td style="text-align: left;">5 (1), 482</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Finding the right XAI method—A guide for the evaluation and ranking of explainable AI methods in climate science</td>
+<td style="text-align: left;">PL Bommer, <strong>M Kretschmer</strong>, A Hedström, D Bareeva, MMC Höhne</td>
+<td style="text-align: left;">Artificial Intelligence for the Earth Systems</td>
+<td style="text-align: left;">3 (3), e230074</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Artificial intelligence for climate prediction of extremes: State of the art, challenges, and future perspectives</td>
+<td style="text-align: left;">S Materia, LP García, C van Straaten, S O, A Mamalakis, L Cavicchia, …</td>
+<td style="text-align: left;">Wiley Interdisciplinary Reviews: Climate Change</td>
+<td style="text-align: left;">15 (6), e914</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Regional climate change: consensus, discrepancies, and ways forward</td>
+<td style="text-align: left;">TA Shaw, PA Arias, M Collins, D Coumou, A Diedhiou, CI Garfinkel, …</td>
+<td style="text-align: left;">Frontiers in climate</td>
+<td style="text-align: left;">6, 1391634</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Northern Hemisphere stratosphere‐troposphere circulation change in CMIP6 models: 2. Mechanisms and sources of the spread</td>
+<td style="text-align: left;">AY Karpechko, Z Wu, IR Simpson, <strong>M Kretschmer</strong>, H Afargan‐Gerstman, …</td>
+<td style="text-align: left;">Journal of Geophysical Research: Atmospheres</td>
+<td style="text-align: left;">129 (13), e2024JD040823</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">On the link between weather regimes and energy shortfall during winter for 28 European countries</td>
+<td style="text-align: left;">E Rouges, <strong>M Kretschmer</strong>, TG Shepherd</td>
+<td style="text-align: left;">EarthArXiv</td>
+<td style="text-align: left;"></td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Weakening of springtime Arctic ozone depletion with climate change</td>
+<td style="text-align: left;"><strong>M Friedel</strong>, G Chiodo, T Sukhodolov, J Keeble, T Peter, S Seeber, …</td>
+<td style="text-align: left;">Atmospheric Chemistry and Physics</td>
+<td style="text-align: left;">23 (17), 10235-10254</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">The influence of future changes in springtime Arctic ozone on stratospheric and surface climate</td>
+<td style="text-align: left;">G Chiodo, <strong>M Friedel</strong>, S Seeber, D Domeisen, A Stenke, T Sukhodolov, …</td>
+<td style="text-align: left;">Atmospheric Chemistry and Physics</td>
+<td style="text-align: left;">23 (18), 10451-10472</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Stratospherically induced tropospheric circulation changes under the extreme conditions of the No-Montreal-Protocol scenario</td>
+<td style="text-align: left;">F Zilker, T Sukhodolov, G Chiodo, <strong>M Friedel</strong>, T Egorova, E Rozanov, …</td>
+<td style="text-align: left;">EGUsphere</td>
+<td style="text-align: left;">2023, 1-29</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Stratospherically induced circulation changes under the extreme conditions of the no-Montreal-Protocol scenario</td>
+<td style="text-align: left;">F Zilker, T Sukhodolov, G Chiodo, <strong>M Friedel</strong>, T Egorova, E Rozanov, …</td>
+<td style="text-align: left;">Atmospheric Chemistry and Physics</td>
+<td style="text-align: left;">23 (20), 13387-13411</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">The influence of future changes in springtime Arctic ozone on stratospheric and surface climate</td>
+<td style="text-align: left;"><strong>M Friedel</strong>, G Chiodo, S Seeber, A Stenke</td>
+<td style="text-align: left;">ETH Zurich</td>
+<td style="text-align: left;"></td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Timeslice simulations for the year 2075 simulated with SOCOL-MPIOM and WACCM4</td>
+<td style="text-align: left;"><strong>M Friedel</strong>, G Chiodo, S Seeber</td>
+<td style="text-align: left;">ETH Zurich</td>
+<td style="text-align: left;"></td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Heat extremes in Western Europe increasing faster than simulated due to atmospheric circulation trends</td>
+<td style="text-align: left;">R Vautard, J Cattiaux, T Happé, J Singh, R Bonnet, C Cassou, D Coumou, …</td>
+<td style="text-align: left;">Nature Communications</td>
+<td style="text-align: left;">14 (1), 6803</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Storylines for unprecedented heatwaves based on ensemble boosting</td>
+<td style="text-align: left;">EM Fischer, U Beyerle, L Bloin-Wibe, C Gessner, V Humphrey, F Lehner, …</td>
+<td style="text-align: left;">Nature communications</td>
+<td style="text-align: left;">14 (1), 4643</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A joint framework for studying compound ecoclimatic events</td>
+<td style="text-align: left;">A Bastos, <strong>S Sippel</strong>, D Frank, MD Mahecha, S Zaehle, J Zscheischler, …</td>
+<td style="text-align: left;">Nature Reviews Earth &amp; Environment</td>
+<td style="text-align: left;">4 (5), 333-350</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">The effect of a short observational record on the statistics of temperature extremes</td>
+<td style="text-align: left;">J Zeder, <strong>S Sippel</strong>, OC Pasche, S Engelke, EM Fischer</td>
+<td style="text-align: left;">Geophysical Research Letters</td>
+<td style="text-align: left;">50 (16), e2023GL104090</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Circulation dampened heat extremes intensification over the Midwest USA and amplified over Western Europe</td>
+<td style="text-align: left;">J Singh, <strong>S Sippel</strong>, EM Fischer</td>
+<td style="text-align: left;">Communications Earth &amp; Environment</td>
+<td style="text-align: left;">4 (1), 432</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Robust global detection of forced changes in mean and extreme precipitation despite observational disagreement on the magnitude of change</td>
+<td style="text-align: left;">IE de Vries, <strong>S Sippel</strong>, AG Pendergrass, R Knutti</td>
+<td style="text-align: left;">Earth System Dynamics</td>
+<td style="text-align: left;">14 (1), 81-100</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Identifying climate models based on their daily output using machine learning</td>
+<td style="text-align: left;">L Brunner, <strong>S Sippel</strong></td>
+<td style="text-align: left;">Environmental Data Science</td>
+<td style="text-align: left;">2, e22</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Heat extremes in Western Europe are increasing faster than simulated due to missed atmospheric circulation changes</td>
+<td style="text-align: left;">R Vautard, J Cattiaux, T Happé, J Singh, R Bonnet, C Cassou, D Coumou, …</td>
+<td style="text-align: left;">Review, https://doi. org/</td>
+<td style="text-align: left;">/10.21203/rs 3</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">An extreme cold Central European winter such as 1963 is unlikely but still possible despite climate change</td>
+<td style="text-align: left;"><strong>S Sippel</strong>, C Barnes, C Cadiou, E Fischer, S Kew, <strong>M Kretschmer</strong>, S Philip, …</td>
+<td style="text-align: left;">EGUsphere</td>
+<td style="text-align: left;">2023, 1-24</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Artificial intelligence for prediction of climate extremes: State of the art, challenges and future perspectives</td>
+<td style="text-align: left;">S Materia, LP García, C van Straaten, A Mamalakis, L Cavicchia, …</td>
+<td style="text-align: left;">arXiv preprint arXiv:</td>
+<td style="text-align: left;">:2310.01944</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Seasonal seed scenario planning: co-design of a generic framework for matching seed supply and demand using seasonal climate forecasts</td>
+<td style="text-align: left;">J Steinke, B Ortiz-Crespo, J van Etten, GD Borman, M Hassena, …</td>
+<td style="text-align: left;">Climate Services</td>
+<td style="text-align: left;">32, 100410</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Assembling the climate story: use of storyline approaches in climate‐related science</td>
+<td style="text-align: left;">E Baulenas, G Versteeg, M Terrado, <strong>J Mindlin</strong>, D Bojovic</td>
+<td style="text-align: left;">Global Challenges</td>
+<td style="text-align: left;">7 (7), 2200183</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Plausible Drying and Wetting Scenarios for Summer in Southeastern South America</td>
+<td style="text-align: left;"><strong>J Mindlin</strong>, CS Vera, TG Shepherd, M Osman</td>
+<td style="text-align: left;">Journal of Climate</td>
+<td style="text-align: left;">36 (22), 7973-7991</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Attributing Extreme Weather Events and Mean Climate Change using Dynamical and Event Storylines</td>
+<td style="text-align: left;">L van Garderen, F Feser, <strong>J Mindlin</strong>, T Shepherd</td>
+<td style="text-align: left;">EGU General Assembly Conference Abstracts, EGU-</td>
+<td style="text-align: left;">-17183</td>
+<td style="text-align: right;">2023</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">The economics of climate change with endogenous preferences</td>
+<td style="text-align: left;">L Mattauch, C Hepburn, <strong>F Spuler</strong>, N Stern</td>
+<td style="text-align: left;">Resource and Energy Economics</td>
+<td style="text-align: left;">69, 101312</td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Springtime arctic ozone depletion forces northern hemisphere climate anomalies</td>
+<td style="text-align: left;"><strong>M Friedel</strong>, G Chiodo, A Stenke, DIV Domeisen, S Fueglistaler, JG Anet, …</td>
+<td style="text-align: left;">Nature Geoscience</td>
+<td style="text-align: left;">15 (7), 541-547</td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Effects of Arctic ozone on the stratospheric spring onset and its surface impact</td>
+<td style="text-align: left;"><strong>M Friedel</strong>, G Chiodo, A Stenke, DIV Domeisen, T Peter</td>
+<td style="text-align: left;">Atmospheric Chemistry and Physics</td>
+<td style="text-align: left;">22 (21), 13997-14017</td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Exploring the link between austral stratospheric polar vortex anomalies and surface climate in chemistry-climate models</td>
+<td style="text-align: left;">N Bergner, <strong>M Friedel</strong>, DIV Domeisen, D Waugh, G Chiodo</td>
+<td style="text-align: left;">Atmospheric Chemistry and Physics</td>
+<td style="text-align: left;">22 (21), 13915-13934</td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Model results for” Robust effect of springtime Arctic ozone depletion on surface climate”, part 2: Data for SOCOL-MPIOM</td>
+<td style="text-align: left;"><strong>M Friedel</strong>, G Chiodo</td>
+<td style="text-align: left;">ETH Zurich</td>
+<td style="text-align: left;"></td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Ozone depletion over the Arctic affects spring climate in the Northern Hemisphere</td>
+<td style="text-align: left;"><strong>M Friedel</strong>, G Chiodo</td>
+<td style="text-align: left;">Nature Geoscience</td>
+<td style="text-align: left;">15 (7), 518-519</td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">On the Robustness of the Surface Response to Austral Stratospheric Polar Vortex Extremes.</td>
+<td style="text-align: left;">N Bergner, <strong>M Friedel</strong>, DIV Domeisen, D Waugh, G Chiodo</td>
+<td style="text-align: left;">Atmospheric Chemistry &amp; Physics Discussions</td>
+<td style="text-align: left;"></td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Climatic and soil factors explain the two-dimensional spectrum of global plant trait variation</td>
+<td style="text-align: left;">JS Joswig, C Wirth, MC Schuman, J Kattge, B Reu, IJ Wright, SD Sippel, …</td>
+<td style="text-align: left;">Nature ecology &amp; evolution</td>
+<td style="text-align: left;">6 (1), 36-50</td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Physics-aware nonparametric regression models for Earth data analysis</td>
+<td style="text-align: left;">J Cortés-Andrés, G Camps-Valls, <strong>S Sippel</strong>, E Székely, D Sejdinovic, …</td>
+<td style="text-align: left;">Environmental Research Letters</td>
+<td style="text-align: left;">17 (5), 054034</td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Interannual global carbon cycle variations linked to atmospheric circulation variability</td>
+<td style="text-align: left;">N Li, <strong>S Sippel</strong>, AJ Winkler, MD Mahecha, M Reichstein, A Bastos</td>
+<td style="text-align: left;">Earth System Dynamics</td>
+<td style="text-align: left;">13 (4), 1505-1533</td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Reconstruction of zonal precipitation from sparse historical observations using climate model information and statistical learning</td>
+<td style="text-align: left;">M Egli, <strong>S Sippel</strong>, AG Pendergrass, I de Vries, R Knutti</td>
+<td style="text-align: left;">Geophysical Research Letters</td>
+<td style="text-align: left;">49 (23), e2022GL099826</td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Northern hemisphere stratosphere‐troposphere circulation change in CMIP6 models: 1. Inter‐model spread and scenario sensitivity</td>
+<td style="text-align: left;">AY Karpechko, H Afargan‐Gerstman, AH Butler, DIV Domeisen, …</td>
+<td style="text-align: left;">Journal of Geophysical Research: Atmospheres</td>
+<td style="text-align: left;">127 (18), e2022JD036992</td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Stratospheric wave reflection events modulate North American weather regimes and cold spells</td>
+<td style="text-align: left;">G Messori, <strong>M Kretschmer</strong>, SH Lee, V Matthias</td>
+<td style="text-align: left;">Weather and Climate Dynamics Discussions</td>
+<td style="text-align: left;">2022, 1-29</td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">The role of the timing of sudden stratospheric warmings for precipitation and temperature anomalies in Europe</td>
+<td style="text-align: left;">E Monnin, <strong>M Kretschmer</strong>, I Polichtchouk</td>
+<td style="text-align: left;">International Journal of Climatology</td>
+<td style="text-align: left;">42 (6), 3448-3462</td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">The “polar vortex” winter of 2013/2014</td>
+<td style="text-align: left;">J Cohen, L Agel, M Barlow, JC Furtado, <strong>M Kretschmer</strong>, V Wendt</td>
+<td style="text-align: left;">Journal of Geophysical Research: Atmospheres</td>
+<td style="text-align: left;">127 (17), e2022JD036493</td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A storyline attribution of the 2011/2012 drought in Southeastern South America</td>
+<td style="text-align: left;">L van Garderen, <strong>J Mindlin</strong></td>
+<td style="text-align: left;">Weather</td>
+<td style="text-align: left;">77 (6), 212-218</td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Are we at risk of losing the current generation of climate researchers to data science?</td>
+<td style="text-align: left;">S Jain, <strong>J Mindlin</strong>, G Koren, C Gulizia, C Steadman, GS Langendijk, …</td>
+<td style="text-align: left;">AGU Advances</td>
+<td style="text-align: left;">3 (4), e2022AV000676</td>
+<td style="text-align: right;">2022</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Self-organizing maps identify windows of opportunity for seasonal European summer predictions</td>
+<td style="text-align: left;"><strong>J Carvalho-Oliveira</strong>, LF Borchert, E Zorita, J Baehr</td>
+<td style="text-align: left;">Frontiers in Climate</td>
+<td style="text-align: left;">4, 844634</td>
+<td style="text-align: right;">2022</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
 
 
 </section>
