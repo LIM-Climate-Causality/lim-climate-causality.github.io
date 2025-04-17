@@ -21,9 +21,6 @@ jobs:
         run: |
           Rscript -e "install.packages('rmarkdown')"
           Rscript -e "install.packages('knitr')"
-          Rscript -e "install.packages('dplyr')"
-          Rscript -e "install.packages('scholar')"
-          Rscript -e "install.packages('stringr')"
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
