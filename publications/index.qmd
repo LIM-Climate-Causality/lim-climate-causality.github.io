@@ -15,48 +15,19 @@ Find recent publications co-authored by members of the Climate Causality & Attri
 #| message: false
  
 # Install required packages if not already installed
-if (!requireNamespace("dplyr", quietly = TRUE)) install.packages("dplyr")
-if (!requireNamespace("scholar", quietly = TRUE)) install.packages("scholar")
-if (!requireNamespace("stringr", quietly = TRUE)) install.packages("stringr")
+#if (!requireNamespace("dplyr", quietly = TRUE)) install.packages("dplyr")
+#if (!requireNamespace("scholar", quietly = TRUE)) install.packages("scholar")
+#if (!requireNamespace("stringr", quietly = TRUE)) install.packages("stringr")
 if (!requireNamespace("knitr", quietly = TRUE)) install.packages("knitr")
 if (!requireNamespace("rmarkdown", quietly = TRUE)) install.packages("rmarkdown")
 
-library(dplyr)
-library(scholar)
-library(stringr)
+#library(dplyr)
+#library(scholar)
+#library(stringr)
 
-# Define your Google Scholar IDs
-researcher_ids <- c('ehVPFfQAAAAJ&hl=en', 'viviYAMAAAAJ&hl=de', 'IZC7zeUAAAAJ&hl=en', 'LVRfN6QAAAAJ&hl=de', 'j3grcqMAAAAJ&hl=es', 'dYLtLFIAAAAJ&hl=de')
+data <- read.csv('publications/publications.csv')
 
-names_to_bold <- c("FR Spuler", "F Spuler", "M Kretschmer", "J Mindlin", "S Sippel", "M Friedel", "J Carvalho-Oliveira")
-
-bold_names <- function(author_string, names_vector) {
-  for (name in names_vector) {
-    author_string <- str_replace_all(author_string, fixed(name), paste0("**", name, "**"))
-  }
-  return(author_string)
-}
-
-# Fetch publications for each scholar ID
-all_pubs <- lapply(researcher_ids, function(id) {
-  pubs <- get_publications(id)
-  pubs$scholar_id <- id  # Add ID as a column for reference
-  return(pubs)
-})
-
-# Combine into one data frame
-combined_pubs <- bind_rows(all_pubs)
-
-# Filter
-filtered_pubs <- combined_pubs %>%
-  filter(cites > 0) %>%
-  filter(year>2021) %>%
-  filter(!is.na(journal) & journal != "") %>%
-  select(-c(cites, cid, pubid, scholar_id)) %>%
-  arrange(desc(year)) %>%
-  distinct() %>%
-  mutate(author = sapply(author, bold_names, names_vector = names_to_bold))
 
 # Display the filtered data as a table
-knitr::kable(filtered_pubs, caption = "Publications")
+knitr::kable(data, caption = "Publications")
 ```
