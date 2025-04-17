@@ -7,7 +7,7 @@ format:
 
 ## Published Papers
 
-Find recent publications co-authored by members of the Climate Causality & Attribution group here. The members of the group are highlighted in bold in the author list. For papers related to specific research topics or highlighted by members of the group, please consult the pages of individual researchers.
+Recent publications co-authored by members of the Climate Causality & Attribution group. The members of the group are highlighted in bold in the author list. For papers related to specific research topics or highlighted by members of the group, please consult the pages of individual researchers.
 
 ```{r}
 #| echo: false
