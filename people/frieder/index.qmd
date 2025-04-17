@@ -4,8 +4,8 @@ description: Doctoral Researcher
 image: images/people/frieder.jpg
 categories:
    - Understanding and Attribution of Heat Waves (Air Temperature Extremes)
-  - Statistical and Machine Learning Techniques
-  - Characteristics of the Forced Response (i.e., the external and anthropogenic contributions to climate change)
+   - Statistical and Machine Learning Techniques
+   - Characteristics of the Forced Response (i.e., the external and anthropogenic contributions to climate change)
 ---
 
 
