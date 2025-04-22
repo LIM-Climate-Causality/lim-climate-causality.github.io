@@ -37,6 +37,7 @@ I am a PhD researcher with a background in physics. My academic path began in Gh
 ## Research Interests
 
 My research focuses on Arctic climate change and mid-latitude linkages. I am particularly interested in understanding how changes in Arctic Sea ice influence large-scale atmospheric circulation and contribute to extremes in mid-latitude weather. By combining climate model simulations with observational and reanalysis data, I investigate the complex interactions between Arctic Sea ice loss and atmospheric blocking to improve our understanding of the broader impacts of Arctic climate change on the global climate system and enhance the predictability of climate variability.
+
 ## Curriculum Vitae <span class="cv-toggle" data-bs-toggle="collapse" data-bs-target="#cv-timeline" aria-expanded="false"></span>
 
 <div id="cv-timeline" class="collapse">
