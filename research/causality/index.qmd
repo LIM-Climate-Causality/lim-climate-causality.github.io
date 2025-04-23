@@ -1,5 +1,5 @@
 ---
-title: Causal Methods in Climate Science
+title: Causal Data Science
 description: Lorem ipsum dolor sit amet consectetur.
 ---
 
