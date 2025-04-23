@@ -1,5 +1,5 @@
 ---
-title: Regional Climate Change and Extremes
+title: Climate Impacts
 description: Lorem ipsum dolor sit amet consectetur.
 ---
 
