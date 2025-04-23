@@ -51,8 +51,8 @@ The motivation of our research is to understand climate risks and reduce uncerta
 </div>
 
 <div class="research-feature">
-<a href="research/prediction/index.qmd">
-<img src="research/prediction/prediction.png" alt="Extreme Weather and Climate Events" class="research-image">
+<a href="research/extremes/index.qmd">
+<img src="research/extremes/prediction.png" alt="Extreme Weather and Climate Events" class="research-image">
 </a>
 <h3 class="research-text">Extreme Weather and Climate Events</h3>
 <p></p>
@@ -67,8 +67,8 @@ The motivation of our research is to understand climate risks and reduce uncerta
 </div>
 
 <div class="research-feature">
-<a href="research/regional/index.qmd">
-<img src="research/regional/regional.png" alt="Climate Impacts" class="research-image">
+<a href="research/impacts/index.qmd">
+<img src="research/impacts/regional.png" alt="Climate Impacts" class="research-image">
 </a>
 <h3 class="research-text">Climate Impacts</h3>
 <p></p>
