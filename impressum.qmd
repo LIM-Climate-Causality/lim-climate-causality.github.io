@@ -7,27 +7,41 @@ toc: false
 
 ## Information according to § 5 TMG
 
-**[University Name]**  
-[Department / Research Group Name]  
-[University Address]  
-[Postal Code, City]  
-[Country]  
+**Climate Causality and Climate Attribution Groups**
+**University of Leipzig**  
+Institute for Meteorology   
+Talstraße 35, Raum 1-13
+04103 Leipzig
+Germany 
 
-📞 **Phone:** [Phone Number]  
-✉️ **Email:** [Email Address]  
-🌐 **Website:** [Website URL]  
+📞 **Phone:** +49 341 97 - 32846
+✉️ **Email:** marlene.kretschmer@uni-leipzig.de  
+
 
 ---
 
 ## Responsible Persons
 
-**[Name of Responsible Person]**  
-(Position, e.g., Group Leader, Professor)  
-✉️ Email: [Email Address]  
+**Marlene Kretschmer**
+Junior Professor for Climate Causality
+Leipzig Institute for Meteorology
+✉️ Email: marlene.kretschmer@uni-leipzig.de
 
-For content-related inquiries, please contact:  
-**[Contact Person's Name]**  
-✉️ Email: [Email Address]  
+**Sebastian Sippel** 
+Junior Professor for Climate Attribution
+Leipzig Institute for Meteorology
+✉️ Email: sebastian.sippel@uni-leipzig.de
+
+---
+
+## Legal form and legal representation
+Leipzig University is a public body. It is legally represented by the Rector, Professor Eva Inés Obergfell.
+
+## Competent supervisory authority
+Saxon State Ministry for Science and the Arts, Wigardstraße 17, 01097 Dresden, www.smwk.sachsen.de
+
+## VAT ID number pursuant to Section 27a of the German Turnover Tax Act (UStG):
+DE 141510383
 
 ---
 
@@ -57,21 +71,22 @@ Insofar as the content on this site was not created by the operator, the copyrig
 ## Data Protection  
 For information on data protection, please visit our [Privacy Policy](privacy.qmd).  
 
----
-
-## Responsible for Content according to § 18 Abs. 2 MStV:  
-
-**[Name of Responsible Person]**  
-[Address]  
-✉️ Email: [Email Address]  
 
 ---
 
-## Legal Contact  
-If you have any legal inquiries regarding this website, please contact us at:  
-📧 [Email Address]  
+## Responsible for content pursuant to Section 18(2) of the German Interstate Treaty on Media (MStV)
+
+**Marlene Kretschmer**
+Junior Professor for Climate Causality
+Leipzig Institute for Meteorology
+✉️ Email: marlene.kretschmer@uni-leipzig.de
+
+**Sebastian Sippel** 
+Junior Professor for Climate Attribution
+Leipzig Institute for Meteorology
+✉️ Email: sebastian.sippel@uni-leipzig.de
 
 ---
 
 ## Version & Updates  
-This Impressum was last updated on **[Last Update Date]**. Changes may be made at any time.  
+This Impressum was last updated on **23/04/2025**. Changes may be made at any time.  
