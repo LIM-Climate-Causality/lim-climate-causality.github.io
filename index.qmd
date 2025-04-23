@@ -27,9 +27,9 @@ The motivation of our research is to understand climate risks and reduce uncerta
 
 <div class="research-feature">
 <a href="research/teleconnections/index.qmd">
-<img src="research/teleconnections/teleconnections.png" alt="Teleconnections" class="research-image">
+<img src="research/teleconnections/teleconnections.png" alt="Teleconnections and Regional Climate Change" class="research-image">
 </a>
-<h3 class="research-text">Teleconnections</h3>
+<h3 class="research-text">Teleconnections and Regional Climate Change</h3>
 <p>
 </p>
 </div>
@@ -44,7 +44,7 @@ The motivation of our research is to understand climate risks and reduce uncerta
 
 <div class="research-feature">
 <a href="research/causality/index.qmd">
-<img src="research/causality/causality.png" alt="Causality" class="research-image">
+<img src="research/causality/causality.png" alt="Causal Data Science" class="research-image">
 </a>
 <h3 class="research-text">Causal Data Science</h3>
 <p></p>
@@ -52,9 +52,9 @@ The motivation of our research is to understand climate risks and reduce uncerta
 
 <div class="research-feature">
 <a href="research/prediction/index.qmd">
-<img src="research/prediction/prediction.png" alt="Prediction" class="research-image">
+<img src="research/prediction/prediction.png" alt="Extreme Weather and Climate Events" class="research-image">
 </a>
-<h3 class="research-text">Prediction</h3>
+<h3 class="research-text">Extreme Weather and Climate Events</h3>
 <p></p>
 </div>
 
@@ -68,9 +68,9 @@ The motivation of our research is to understand climate risks and reduce uncerta
 
 <div class="research-feature">
 <a href="research/regional/index.qmd">
-<img src="research/regional/regional.png" alt="Regional" class="research-image">
+<img src="research/regional/regional.png" alt="Climate Impacts" class="research-image">
 </a>
-<h3 class="research-text">Regional Climate Change</h3>
+<h3 class="research-text">Climate Impacts</h3>
 <p></p>
 </div>
 </div>
