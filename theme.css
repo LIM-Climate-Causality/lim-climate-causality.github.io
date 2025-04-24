@@ -151,6 +151,27 @@ h1, h2, h3 {
     text-align: center;
 }
 
+/* Personal research tags */
+.person-tags {
+    margin-top: 10px;
+  }
+  
+.person-tags .tag {
+    display: inline-block;
+    background: #a37371;
+    border-radius: 4px;
+    padding: 4px 10px;
+    margin: 4px 6px 4px 0;
+    font-size: 0.85rem;
+    text-decoration: none;
+    color: #fff;
+    transition: background 0.2s ease-in-out;
+  }
+  
+.person-tags .tag:hover {
+    background: #c47d80;
+    color: #fff;
+  }
 
 /* Timeline */
 
