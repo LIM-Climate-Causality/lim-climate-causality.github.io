@@ -2,8 +2,8 @@
 title: Name
 description: Awesome description
 categories:
-    - Awesome skill
-    - Awesome interest
+    - Teleconnections and Regional Climate Change
+    - Machine Learning
 ---
 
 ---

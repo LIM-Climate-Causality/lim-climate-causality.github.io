@@ -3,8 +3,8 @@ title: Julianna Carvalho Oliveira
 description: Postdoctoral Researcher
 image: images/people/julianna.jpg
 categories:
-    -	Climate Predictability
-    -   Machine Learning
+    -	 Teleconnections and Regional Climate Change
+    -  Machine Learning
 ---
 
 

@@ -3,8 +3,9 @@ title: Name
 description: Post Doc
 image: images/people/marina.jpg
 categories:
-    - Awesome skill
-    - Awesome interest
+    - Teleconnections and Regional Climate Change
+    - Machine Learning
+    - Causal Data Science
 ---
 
 

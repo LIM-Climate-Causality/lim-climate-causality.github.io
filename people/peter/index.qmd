@@ -3,9 +3,10 @@ title: Dr. Peter Pfleiderer
 description: Postdoctoral Researcher
 image: images/people/marina.jpg
 categories:
-    - Weather extremes
-    - atmospheric circulation (and changes)
-    - Extreme event attribution
+    - Detection and Attribution
+    - Extreme Weather and Climate Events
+    - Climate Impacts
+    - Machine Learning
 ---
 
 

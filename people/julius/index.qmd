@@ -2,7 +2,9 @@
 title: Julius Mex
 description: Research Fellow
 image: images/people/julius.jpg
-
+categories:
+    -	 Teleconnections and Regional Climate Change
+    -  Causal Data Science
 ---
 
 

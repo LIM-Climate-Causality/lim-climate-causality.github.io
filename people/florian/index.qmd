@@ -3,8 +3,8 @@ title: Florian Kraulich
 description: Doctoral Researcher
 image: images/people/florian.jpg
 categories:
-    -	Extreme event attribution
-    -   Aerosol-climate interaction
+    - Detection and Attribution	
+    - Extreme Weather and Climate Events
 ---
 
 

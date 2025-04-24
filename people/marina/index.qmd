@@ -3,9 +3,8 @@ title: Dr. Marina Friedel
 description: Postdoctoral Researcher
 image: images/people/marina.jpg
 categories:
-    - Large-scale dynamics
-    - Regional climate change
-    - Teleconnections
+    - Teleconnections and Regional Climate Change
+    - Extreme Weather and Climate Events
     - Causal Data Science
 ---
 
