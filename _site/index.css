@@ -1,6 +1,6 @@
 /* Title image */
 .logo {
-    background-image: url("images/logos/title_image.png");
+    background-image: url("images/logos/title_image.pdf");
     background-size: cover; /* Cover the entire div */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent repetition */

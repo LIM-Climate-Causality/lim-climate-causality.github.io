@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-fd193016ac6a821e7a41ac562f59f69e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -205,7 +205,7 @@ document.addEventListener("DOMContentLoaded", function() {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block"></header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
@@ -226,9 +226,9 @@ document.addEventListener("DOMContentLoaded", function() {
 <div class="full-width">
 <div class="research-row">
 <div class="research-feature">
-<a href="./research/teleconnections/index.html"> <img src="research/teleconnections/teleconnections.png" alt="Teleconnections" class="research-image"> </a>
+<a href="./research/teleconnections/index.html"> <img src="research/teleconnections/teleconnections.png" alt="Teleconnections and Regional Climate Change" class="research-image"> </a>
 <h3 class="research-text" data-anchor-id="research">
-Teleconnections
+Teleconnections and Regional Climate Change
 </h3>
 <p>
 </p>
@@ -242,7 +242,7 @@ Detection and Attribution
 </p>
 </div>
 <div class="research-feature">
-<a href="./research/causality/index.html"> <img src="research/causality/causality.png" alt="Causality" class="research-image"> </a>
+<a href="./research/causality/index.html"> <img src="research/causality/causality.png" alt="Causal Data Science" class="research-image"> </a>
 <h3 class="research-text">
 Causal Data Science
 </h3>
@@ -250,9 +250,9 @@ Causal Data Science
 </p>
 </div>
 <div class="research-feature">
-<a href="./research/prediction/index.html"> <img src="research/prediction/prediction.png" alt="Prediction" class="research-image"> </a>
+<a href="./research/extremes/index.html"> <img src="research/extremes/prediction.png" alt="Extreme Weather and Climate Events" class="research-image"> </a>
 <h3 class="research-text">
-Prediction
+Extreme Weather and Climate Events
 </h3>
 <p>
 </p>
@@ -266,9 +266,9 @@ Machine Learning
 </p>
 </div>
 <div class="research-feature">
-<a href="./research/regional/index.html"> <img src="research/regional/regional.png" alt="Regional" class="research-image"> </a>
+<a href="./research/impacts/index.html"> <img src="research/impacts/regional.png" alt="Climate Impacts" class="research-image"> </a>
 <h3 class="research-text">
-Regional Climate Change
+Climate Impacts
 </h3>
 <p>
 </p>
@@ -290,7 +290,7 @@ Regional Climate Change
 <div class="team-container">
 <!-- Ernest -->
 <div class="team-member">
-<a href="people/ernest/index.qmd"> <img src="images/people/ernest.jpg" alt="Ernest Agyemang-Oko"> </a>
+<a href="./people/ernest/index.html"> <img src="images/people/ernest.jpg" alt="Ernest Agyemang-Oko"> </a>
 <h3 data-anchor-id="people">
 Ernest Agyemang-Oko
 </h3>
@@ -303,7 +303,7 @@ PhD Researcher
 </div>
 <!-- Richard -->
 <div class="team-member">
-<a href="people/ernest/index.qmd"> <img src="images/people/richard.jpg" alt="Richard Alawode "> </a>
+<a href="people/richard/index.qmd"> <img src="images/people/richard.jpg" alt="Richard Alawode "> </a>
 <h3>
 Richard<br>Alawode
 </h3>
@@ -407,7 +407,7 @@ Post-Doc
 </div>
 <!-- Frieder -->
 <div class="team-member">
-<a href="people/frieder/index.qmd"> <img src="images/people/frieder.jpg" alt="Frieder Loer"> </a>
+<a href="./people/frieder/index.html"> <img src="images/people/frieder.jpg" alt="Frieder Loer"> </a>
 <h3>
 Frieder<br>Loer
 </h3>
@@ -420,7 +420,7 @@ PhD Researcher
 </div>
 <!-- Julius -->
 <div class="team-member">
-<a href="people/julius/index.qmd"> <img src="images/people/julius.jpg" alt="Julius Mex"> </a>
+<a href="./people/julius/index.html"> <img src="images/people/julius.jpg" alt="Julius Mex"> </a>
 <h3>
 Julius<br>Mex
 </h3>
@@ -595,8 +595,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -707,7 +705,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
