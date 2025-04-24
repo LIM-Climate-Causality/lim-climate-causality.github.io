@@ -2,11 +2,13 @@
 title: Name
 description: Post Doc
 image: images/people/marina.jpg
-categories:
-    - Teleconnections and Regional Climate Change
-    - Machine Learning
-    - Causal Data Science
 ---
+
+<div class="person-tags">
+  <a href="/research/teleconnections/index.qmd" class="tag">Teleconnections and Regional Climate Change</a>
+  <a href="/research/machine_learning/index.qmd" class="tag">Machine Learning</a>
+  <a href="/research/extremes/index.qmd" class="tag">Extreme Weather and Climate Events</a>
+</div>
 
 
 <div class="profile-container">

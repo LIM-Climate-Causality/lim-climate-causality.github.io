@@ -2,13 +2,13 @@
 title: Ernest Agyemang-Oko
 description: Dctoral Researcher
 image: images/people/ernest.jpg
-categories:
-    - Teleconnections and Regional Climate Change 
-    - Causal Data Science
-    - Extreme Weather and Climate Impacts
-
 ---
 
+<div class="person-tags">
+  <a href="/research/teleconnections/index.qmd" class="tag">Teleconnections and Regional Climate Change</a>
+  <a href="/research/causality/index.qmd" class="tag">Causal Data Science</a>
+  <a href="/research/extremes/index.qmd" class="tag">Extreme Weather and Climate Events</a>
+</div>
 
 <div class="profile-container">
 <div class="profile-image-container">

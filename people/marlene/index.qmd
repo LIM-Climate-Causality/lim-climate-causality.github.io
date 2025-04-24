@@ -2,13 +2,15 @@
 title: Jun. Prof. Marlene Kretschmer
 description: Junior Professor
 image: images/people/marlene.jpg
-categories:
-    - Teleconnections and Regional Climate Change
-    - Causal Data Science
-    - Extreme Weather and Climate events
-    - Climate Impacts
-    - Machine learning
 ---
+
+<div class="person-tags">
+  <a href="/research/teleconnections/index.qmd" class="tag">Teleconnections and Regional Climate Change</a>
+  <a href="/research/causality/index.qmd" class="tag">Causal Data Science</a>
+  <a href="/research/extremes/index.qmd" class="tag">Extreme Weather and Climate Events</a>
+  <a href="/research/impacts/index.qmd" class="tag">Climate Impacts</a>
+  <a href="/research/machine_learning/index.qmd" class="tag">Machine Learning</a>
+</div>
 
 
 <div class="profile-container">
@@ -133,65 +135,3 @@ My research aims to understand the large-scale drivers of regional weather and c
 </a>
 </div>
 </div>
-
-
-<!-- 
-
-## Selected Publications
-
-
-<div class="publications-grid">
-<a href="https://doi.org/10.1017/eds.2024.29" target="_blank" class="publication-card">
-<div class="publication-card">
-<h3>Identifying probabilistic weather regimes targeted to a local-scale impact variable</h3>
-<p><b>Author(s):</b> F. Spuler et al.</p>
-<p><i>Environmental Data Science, 2024</i></p>
-</a>
-
-
-<div class="publication-card">
-<h3>A shifting climate: New paradigms and challenges for (early career) scientists in extreme weather research</h3>
-<p><b>Author(s):</b> M. Kretschmer et al.</p>
-<p><i>Atmospheric Science Letters, 2024</i></p>
-<div class="pub-links">
-<a href="https://doi.org/10.1002/asl.1268"></i> DOI</a>
-</div>
-</div>
-
-<div class="publication-card">
-<h3>Finding the right XAI Method — A Guide for the Evaluation and Ranking of Explainable AI Methods in Climate Science</h3>
-<p><b>Author(s):</b> P. L. Bommer et al.</p>
-<p><i>Artificial Intelligence for the Earth Systems, 2024</i></p>
-<div class="pub-links">
-<a href="https://doi.org/10.1175/aies-d-23-0074.1"></i> DOI</a>
-</div>
-</div>
-
-<div class="publication-card">
-<h3>Quantifying Causal Pathways of Teleconnections</h3>
-<p><b>Author(s):</b> Kretschmer et al.</p>
-<p><i>Bulletin of the American Meteorological Society, 2021</i></p>
-<div class="pub-links">
-<a href="https://doi.org/10.1175/BAMS-D-20-0117.1"></i> DOI</a>
-</div>
-</div>
-
-<div class="publication-card">
-<h3>The role of Barents–Kara sea ice loss in projected polar vortex changes</h3>
-<p><b>Author(s):</b> Kretschmer et al.</p>
-<p><i>Weather and Climate Dynamics, 2020</i></p>
-<div class="pub-links">
-<a href="https://wcd.copernicus.org/articles/1/715/2020/"></i> DOI</a>
-</div>
-</div>
-
-<div class="publication-card">
-<h3>Using Causal Effect Networks to Analyze Different Arctic Drivers of Midlatitude Winter Circulation</h3>
-<p><b>Author(s):</b> Kretschmer et al.</p>
-<p><i>Journal of Climate, 2016</i></p>
-<div class="pub-links">
-<a href="https://doi.org/10.1175/jcli-d-15-0654.1"></i> DOI</a>
-</div>
-</div>
-
-</div> -->

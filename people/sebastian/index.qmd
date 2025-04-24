@@ -2,13 +2,14 @@
 title: Jun. Prof. Dr. Sebastian Sippel 
 description: Tenure-Track Professor for Climate Attribution
 image: images/people/sebastian.jpg
-categories:
-    - Detection and Attribution 
-    - Extreme Weather and Climate Events
-    - Machine Learning
-    - Climate Impacts
 ---
 
+<div class="person-tags">
+  <a href="/research/detection_and_attribution/index.qmd" class="tag">Detection and Attribution</a>
+  <a href="/research/extremes/index.qmd" class="tag">Extreme Weather and Climate Events</a>
+  <a href="/research/machine_learning/index.qmd" class="tag">Machine Learning</a>
+  <a href="/research/impacts/index.qmd" class="tag">Climate Impacts</a>
+</div>
 
 <div class="profile-container">
 <div class="profile-image-container">
@@ -92,57 +93,51 @@ My research interests include improving our understanding of climate variability
 <div class="publications-grid">
 
 <div class="publication-card">
+<a href="https://www.nature.com/articles/s41586-024-08230-1" target="_blank">
 <h3>Early-twentieth-century cold bias in ocean surface temperature observations</h3>
 <p><b>Author(s):</b> Sippel, S., et al.</p>
 <p><i>Nature, 2024</i></p>
-<div class="pub-links">
-<a href="https://www.nature.com/articles/s41586-024-08230-1"></i> DOI</a>
-</div>
+</a>
 </div>
 
 <div class="publication-card">
+<a href="https://wcd.copernicus.org/articles/5/943/2024/" target="_blank">
 <h3>Could an extremely cold central European winter such as 1963 happen again despite climate change?</h3>
 <p><b>Author(s):</b> Sippel, S., et al.</p>
 <p><i>Weather and Climate Dynamics, 2024</i></p>
-<div class="pub-links">
-<a href="https://wcd.copernicus.org/articles/5/943/2024/"></i> DOI</a>
-</div>
+</a>
 </div>
 
 <div class="publication-card">
+<a href="https://www.nature.com/articles/s41558-021-01092-9" target="_blank">
 <h3>Increasing probability of record-shattering climate extremes</h3>
 <p><b>Author(s):</b> Fischer, E., Sippel, S., Knutti, R.</p>
 <p><i>Nature Climate Change, 2021</i></p>
-<div class="pub-links">
-<a href="https://www.nature.com/articles/s41558-021-01092-9"></i> DOI</a>
-</div>
+</a>
 </div>
 
 <div class="publication-card">
+<a href="https://www.nature.com/articles/s41558-019-0666-7" target="_blank">
 <h3>Climate change now detectable from any single day of weather at global scale</h3>
 <p><b>Author(s):</b> Sippel, S., et al.</p>
 <p><i>Nature Climate Change, 2021</i></p>
-<div class="pub-links">
-<a href="https://www.nature.com/articles/s41558-019-0666-7"></i> DOI</a>
-</div>
+</a>
 </div>
 
 <div class="publication-card">
+<a href="https://wcd.copernicus.org/articles/1/715/2020/" target="_blank">
 <h3>Uncovering the forced climate response from a single ensemble member using statistical learning</h3>
 <p><b>Author(s):</b> Sippel, S., et al.</p>
 <p><i>Journal of Climate, 2019</i></p>
-<div class="pub-links">
-<a href="https://wcd.copernicus.org/articles/1/715/2020/"></i> DOI</a>
-</div>
+</a>
 </div>
 
 <div class="publication-card">
+<a href="https://link.springer.com/article/10.1007/s40641-018-0103-4" target="_blank">
 <h3>Drought, heat, and the carbon cycle: a review</h3>
 <p><b>Author(s):</b> Sippel, S., et al.</p>
-<p><i>Current Climate Change Reports, 2018/i></p>
-<div class="pub-links">
-<a href="https://link.springer.com/article/10.1007/s40641-018-0103-4"></i> DOI</a>
-</div>
+<p><i>Current Climate Change Reports, 2018</i></p>
+</a>
 </div>
 
 </div>

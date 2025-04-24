@@ -2,12 +2,14 @@
 title: Dr. Peter Pfleiderer
 description: Postdoctoral Researcher
 image: images/people/marina.jpg
-categories:
-    - Detection and Attribution
-    - Extreme Weather and Climate Events
-    - Climate Impacts
-    - Machine Learning
 ---
+
+<div class="person-tags">
+  <a href="/research/detection_and_attribution/index.qmd" class="tag">Detection and Attribution</a>
+  <a href="/research/extremes/index.qmd" class="tag">Extreme Weather and Climate Events</a>
+  <a href="/research/impacts/index.qmd" class="tag">Climate Impacts</a>
+  <a href="/research/machine_learning/index.qmd" class="tag">Machine Learning</a>
+</div>
 
 
 <div class="profile-container">

@@ -200,7 +200,7 @@ The motivation of our research is to understand climate risks and reduce uncerta
 <!-- Frieder -->
 <div class="team-member">
 <a href="people/frieder/index.qmd">
-<img src="images/people/frieder.jpg" alt="Frieder Loer">
+<img src="images/people/frieder.jpeg" alt="Frieder Loer">
 </a>
 <h3>Frieder<br>Loer</h3>
 <p>PhD Researcher</p>

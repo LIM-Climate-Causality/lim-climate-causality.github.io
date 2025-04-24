@@ -2,11 +2,12 @@
 title: Florian Kraulich
 description: Doctoral Researcher
 image: images/people/florian.jpg
-categories:
-    - Detection and Attribution	
-    - Extreme Weather and Climate Events
 ---
 
+<div class="person-tags">
+  <a href="/research/detection_and_attribution/index.qmd" class="tag">Causal Data Science</a>
+  <a href="/research/extremes/index.qmd" class="tag">Extreme Weather and Climate Events</a>
+</div>
 
 <div class="profile-container">
 <div class="profile-image-container">

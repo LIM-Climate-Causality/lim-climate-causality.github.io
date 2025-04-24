@@ -2,11 +2,12 @@
 title: Dr. Na Li 
 description: Postdoctoral Researcher
 image: images/people/lina.jpg
-categories:
-    - Detection and Attribution
-    - Extreme Weather and Climate Events
 ---
 
+<div class="person-tags">
+  <a href="/research/detection_and_attribution/index.qmd" class="tag">Detection and Attribution</a>
+  <a href="/research/extremes/index.qmd" class="tag">Extreme Weather and Climate Events</a>
+</div>
 
 <div class="profile-container">
 <div class="profile-image-container">
@@ -52,21 +53,19 @@ Detection and attribution of carbon cycle variations.
 <div class="publications-grid">
 
 <div class="publication-card">
+<a href="https://doi.org/10.5194/esd-13-1505-2022" target="_blank">
 <h3>Interannual global carbon cycle variations linked to atmospheric circulation variability</h3>
 <p><b>Author(s):</b> Li, N. et al.</p>
 <p><i>Earth System Dynamics, 2022</i></p>
-<div class="pub-links">
-<a href="https://doi.org/10.5194/esd-13-1505-2022"></i> DOI</a>
-</div>
+</a>
 </div>
 
 <div class="publication-card">
+<a href="https://doi.org/10.1126/sciadv.adl6155" target="_blank">
 <h3>Enhanced global carbon cycle sensitivity to tropical tmperature linked to internal climate variability</h3>
 <p><b>Author(s):</b> Li, N. et al.</p>
 <p><i>Science Advances, 2024</i></p>
-<div class="pub-links">
-<a href="https://doi.org/10.1126/sciadv.adl6155"></i> DOI</a>
-</div>
+</a>
 </div>
 
 </div>

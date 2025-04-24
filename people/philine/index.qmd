@@ -1,10 +1,14 @@
 ---
 title: Name
 description: Awesome description
-categories:
-    - Teleconnections and Regional Climate Change
-    - Machine Learning
 ---
+
+<div class="person-tags">
+  <a href="/research/teleconnections/index.qmd" class="tag">Teleconnections and Regional Climate Change</a>
+  <a href="/research/machine_learning/index.qmd" class="tag">Machine Learning</a>
+
+</div>
+
 
 ---
 
