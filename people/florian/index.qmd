@@ -3,8 +3,8 @@ title: Florian Kraulich
 description: Doctoral Researcher
 image: images/people/florian.jpg
 categories:
-    -	Extreme event attribution
-    -   Aerosol-climate interaction
+    - Detection and Attribution	
+    - Extreme Weather and Climate Events
 ---
 
 
@@ -18,7 +18,7 @@ categories:
   <a href="https://orcid.org/0009-0005-6163-1724" target="_blank">
     <i class="fa-brands fa-orcid"></i>
   </a>
-  <a href="www.linkedin.com/in/florian-kraulich-557bb9339" target="_blank">
+  <a href="http://www.linkedin.com/in/florian-kraulich-557bb9339" target="_blank">
     <i class="fa-brands fa-linkedin"></i>
   </a>
 </div>
@@ -68,7 +68,7 @@ My research focuses on attributing anthropogenic forcings to heat extremes. In p
 <div class="timeline-item">
 <div class="timeline-date">August 2018 - December 2018</div>
 <div class="timeline-content">
-<h3>Bachelor and Master in Physics</h3>
+<h3>Study Abroad</h3>
 <p>The University Centre in Svalbard, Norway</p>
 </div>
 </div>
@@ -77,7 +77,7 @@ My research focuses on attributing anthropogenic forcings to heat extremes. In p
 <div class="timeline-date">October 2016 - October 2022</div>
 <div class="timeline-content">
 <h3>Bachelor and Master's in Meteorology</h3>
-<p>The University Centre in Svalbard, Norway</p>
+<p>Leipzig University, Germany</p>
 </div>
 </div>
 

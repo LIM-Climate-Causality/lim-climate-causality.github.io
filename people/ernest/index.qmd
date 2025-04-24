@@ -3,9 +3,9 @@ title: Ernest Agyemang-Oko
 description: Dctoral Researcher
 image: images/people/ernest.jpg
 categories:
-    - Arctic Climate Change
-    - Arctic Sea Ice Loss and Mid-Latitude Linkages
-    - Climate Dynamics
+    - Teleconnections and Regional Climate Change 
+    - Causal Data Science
+    - Extreme Weather and Climate Impacts
 
 ---
 

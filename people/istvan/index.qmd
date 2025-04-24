@@ -3,10 +3,8 @@ title: István Dunkl
 description: Postdoctoral Researcher
 image: images/people/istvan.jpg
 categories:
- -	Biogeochemistry
- -	Storyline attribution
- -	Hydroclimate
- -	Global carbon cycle
+ -	Detection and Attribution
+ -  Extreme Weather and Climate Events
 ---
 
 

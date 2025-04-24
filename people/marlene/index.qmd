@@ -3,10 +3,10 @@ title: Jun. Prof. Marlene Kretschmer
 description: Junior Professor
 image: images/people/marlene.jpg
 categories:
-    - Large-scale atmospheric dynamics 
-    - Causal Inference
-    - Regional climate change
-    - Subseasonal to decadal predictions
+    - Teleconnections and Regional Climate Change
+    - Causal Data Science
+    - Extreme Weather and Climate events
+    - Climate Impacts
     - Machine learning
 ---
 

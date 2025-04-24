@@ -3,6 +3,10 @@ title: Sujata Kulkarni
 description: Doctoral Researcher
 image: images/people/sujata.jpg
 categories:
+  - Teleconnections and Regional Climate Change
+  - Causal Data Science
+  - Extreme Weather and Climate Events
+
 
 ---
 

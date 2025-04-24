@@ -1,0 +1,72 @@
+---
+title: Dr. Na Li 
+description: Postdoctoral Researcher
+image: images/people/lina.jpg
+categories:
+    - Detection and Attribution
+    - Extreme Weather and Climate Events
+---
+
+
+<div class="profile-container">
+<div class="profile-image-container">
+<img src="/images/people/lina.jpg" class="profile-image">
+<div class="social-icons">
+  <a href="mailto:na.li@uni-leipzig.de" target="_blank">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+</div>
+</div>
+
+<div class="bio-content">
+
+## Bio  
+
+
+</div>
+</div>
+
+## Research Interests
+
+Detection and attribution of carbon cycle variations.
+
+## Curriculum Vitae <span class="cv-toggle" data-bs-toggle="collapse" data-bs-target="#cv-timeline" aria-expanded="false"></span>
+
+<div id="cv-timeline" class="collapse">
+<div class="timeline">
+<div class="timeline-item">
+<div class="timeline-date">July 2024 - Present</div>
+<div class="timeline-content">
+<h3>PhD in .. </h3>
+<p>Leipzig University, Institute for Meteorology, Germany</p>
+</div>
+</div>
+
+</div>
+</div>
+
+
+## Selected Publications
+
+
+<div class="publications-grid">
+
+<div class="publication-card">
+<h3>Interannual global carbon cycle variations linked to atmospheric circulation variability</h3>
+<p><b>Author(s):</b> Li, N. et al.</p>
+<p><i>Earth System Dynamics, 2022</i></p>
+<div class="pub-links">
+<a href="https://doi.org/10.5194/esd-13-1505-2022"></i> DOI</a>
+</div>
+</div>
+
+<div class="publication-card">
+<h3>Enhanced global carbon cycle sensitivity to tropical tmperature linked to internal climate variability</h3>
+<p><b>Author(s):</b> Li, N. et al.</p>
+<p><i>Science Advances, 2024</i></p>
+<div class="pub-links">
+<a href="https://doi.org/10.1126/sciadv.adl6155"></i> DOI</a>
+</div>
+</div>
+
+</div>
