@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-fd193016ac6a821e7a41ac562f59f69e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -243,7 +243,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <div class="profile-container">
 <div class="profile-image-container">
-<img src="../../images/people/florian.jpg" class="profile-image">
+<img src="../../images/people/istvan.jpg" class="profile-image">
 <div class="social-icons">
 <p><a href="mailto:istvan.dunkl@uni-leipzig.de" target="_blank"> <i class="fa-solid fa-envelope"></i> </a></p>
 </div>
@@ -261,6 +261,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <h2 data-anchor-id="selected-publications">Selected Publications</h2>
 <div class="publications-grid">
 <div class="publication-card">
+<a href="http://dx.doi.org/10.5194/esd-16-151-2025" target="_blank">
 <h3>
 Compensatory effects conceal large uncertainties in the modelled processes behind the relationship between the El Niño–Southern Oscillation (ENSO) and CO2
 </h3>
@@ -270,11 +271,10 @@ Compensatory effects conceal large uncertainties in the modelled processes behin
 <p>
 <i>Earth System Dynamics, 2025</i>
 </p>
-<div class="pub-links">
-<p><a href="http://dx.doi.org/10.5194/esd-16-151-2025"> DOI</a></p>
-</div>
+</a><p><a href="http://dx.doi.org/10.5194/esd-16-151-2025" target="_blank"></a></p>
 </div>
 <div class="publication-card">
+<a href="http://dx.doi.org/10.5194/bg-20-3523-2023" target="_blank">
 <h3>
 Gross primary productivity and the predictability of CO2: more uncertainty in what we predict than how well we predict it
 </h3>
@@ -284,11 +284,10 @@ Gross primary productivity and the predictability of CO2: more uncertainty in wh
 <p>
 <i>Biogeosciences, 2023</i>
 </p>
-<div class="pub-links">
-<p><a href="http://dx.doi.org/10.5194/bg-20-3523-2023"> DOI</a></p>
-</div>
+</a><p><a href="http://dx.doi.org/10.5194/bg-20-3523-2023" target="_blank"></a></p>
 </div>
 <div class="publication-card">
+<a href="http://dx.doi.org/10.5194/esd-12-1413-2021" target="_blank">
 <h3>
 Process-based analysis of terrestrial carbon flux predictability
 </h3>
@@ -298,13 +297,13 @@ Process-based analysis of terrestrial carbon flux predictability
 <p>
 <i>Earth System Dynamics, 2021</i>
 </p>
-<div class="pub-links">
-<p><a href="http://dx.doi.org/10.5194/esd-12-1413-2021"> DOI</a></p>
-</div>
+</a><div class="pub-links"><a href="http://dx.doi.org/10.5194/esd-12-1413-2021" target="_blank">
+</a><p><a href="http://dx.doi.org/10.5194/esd-12-1413-2021" target="_blank"></a></p>
 </div>
 </div>
 
 
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -383,8 +382,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -495,7 +492,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
