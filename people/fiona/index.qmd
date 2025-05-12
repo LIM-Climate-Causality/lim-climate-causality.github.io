@@ -1,11 +1,12 @@
 ---
-title: Name
-description: Post Doc
-image: images/people/marina.jpg
+title: Fiona Spuler
+description: PhD researcher
+image: images/people/fiona.jpg
 ---
 
 <div class="person-tags">
   <a href="/research/teleconnections/index.qmd" class="tag">Teleconnections and Regional Climate Change</a>
+  <a href="/research/causality/index.qmd" class="tag">Causal Data Science</a>
   <a href="/research/machine_learning/index.qmd" class="tag">Machine Learning</a>
   <a href="/research/extremes/index.qmd" class="tag">Extreme Weather and Climate Events</a>
 </div>
@@ -13,10 +14,20 @@ image: images/people/marina.jpg
 
 <div class="profile-container">
 <div class="profile-image-container">
-<img src="/images/people/marina.jpg" class="profile-image">
+<img src="/images/people/fiona.jpg" class="profile-image">
 <div class="social-icons">
-<a href="https://linkedin.com" target="_blank"><i class="fa-solid fa-envelope"></i></a>
-<a href="https://github.com" target="_blank"><i class="fa-brands fa-github"></i></a>
+  <a href="mailto:f.r.spuler@pgr.reading.ac.uk" target="_blank">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+  <a href="https://orcid.org/0009-0003-9358-0699" target="_blank">
+    <i class="fa-brands fa-orcid"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/fiona-spuler-0812a6159/" target="_blank">
+    <i class="fa-brands fa-linkedin"></i>
+  </a>
+  <a href="https://bsky.app/profile/fionaspuler.bsky.social" target="_blank">
+    <i class="fa-brands fa-bluesky"></i>
+  </a>
 </div>
 </div>
 
@@ -24,69 +35,85 @@ image: images/people/marina.jpg
 
 ## Bio  
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+My background is in Mathematical Physics, with a second degree in Environmental Science and Policy. After completing my studies, I worked in climate finance for three years, assessing the alignment of the financial markets in major European economies with climate mitigation targets and policies, and on finance for climate adaptation as part of the Mercator Fellowship on International Affairs. In 2022, I started my PhD with Marlene Kretschmer and Ted Shepherd at the University of Reading, and am currently based at the Turing Institute in London. Aside from work, I enjoy dancing, reading, organising scavenger hunts and spending time outdoors with friends.
+
 
 </div>
 </div>
 
 ## Research Interests
 
-asdfassdf 
+My research aims to understand long-range teleconnections in the climate system which can act as sources of predictability at subseasonal to seasonal timescales and can aid the dynamical interpretation of future changes. While these teleconnections are often misrepresented in physical models of the climate system, existing statistical and machine learning methods struggle to identify teleconnection signals from reanalysis data that are robust and extrapolate under climate change. Causal models can address the former issue, but so far have limited ability to jointly identify optimal and causally related reduced representation of the relevant high-dimensional processes. My research so far has explored the use of generative machine learning methods to identify physically robust dynamical drivers of extreme precipitation over Morocco. My current work focuses on extending these approaches to develop machine learning methods to jointly learn reduced representations of high-dimensional climatic processes along with their causal relationships.
 
-## Curriculum Vitae
+I am passionate about developing open-source climate information for locally-led adaptation decision-making and co-developed an open-source Python package for the bias adjustment of climate models. I also coordinate the Early Career Researcher Group in the 'My Climate Risk' Lighthouse Activity of the World Climate Research Program - reach out if you are interested to learn more!
 
+## Curriculum Vitae <span class="cv-toggle" data-bs-toggle="collapse" data-bs-target="#cv-timeline" aria-expanded="false"></span>
+
+<div id="cv-timeline" class="collapse">
 <div class="timeline">
 <div class="timeline-item">
-<div class="timeline-date">2023 - Present</div>
+<div class="timeline-date">September 2022 - Present</div>
 <div class="timeline-content">
-<h3>Research Scientist</h3>
-<p>XYZ University</p>
+<h3>PhD Student</h3>
+<p>University of Reading, Reading, UK</p>
 </div>
 </div>
 
 <div class="timeline-item">
-<div class="timeline-date">2020 - 2023</div>
+<div class="timeline-date">September 2021 - August 2022</div>
 <div class="timeline-content">
-<h3>PhD in Environmental Science</h3>
-<p>ABC Institute</p>
+<h3>Mercator Fellow on International Affairs</h3>
+<p>OASIS, Coalition on Climate Resilient Investment - London, UK; ICCCAD, Dhaka, Bangladesh; ECMWF, Summer of Weather Code, Reading, UK </p>
 </div>
 </div>
 
 <div class="timeline-item">
-<div class="timeline-date">2018 - 2020</div>
+<div class="timeline-date">October 2019 - July 2021</div>
 <div class="timeline-content">
-<h3>Master’s in Data Science</h3>
-<p>DEF University</p>
+<h3>Senior Analyst</h3>
+<p>2 Degrees Investing Initiative, Berlin, Germany and London, UK</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">October 2012 - September 2019</div>
+<div class="timeline-content">
+<h3>BSc Physics, MSc Mathematical Physics, MSc Environmental Change and Management</h3>
+<p>Georg-August Universität Göttingen, Germany; University of Edinburgh, UK; University of Oxford, UK</p>
+</div>
 </div>
 </div>
 </div>
 
 
-## Publications
+## Selected Publications
 
 
 <div class="publications-grid">
 
 <div class="publication-card">
-<h3>Title of the Paper</h3>
-<p><b>Author(s):</b> Name, Name, Name</p>
-<p><i>Journal of Amazing Research, 2023</i></p>
-<div class="pub-links">
-<a href="https://doi.org/XXXX" target="_blank"><i class="fa-solid fa-link"></i> DOI</a>
-<a href="https://arxiv.org/XXXX" target="_blank"><i class="fa-solid fa-file-pdf"></i> PDF</a>
-<a href="https://github.com/XXXX" target="_blank"><i class="fa-brands fa-github"></i> Code</a>
-</div>
+<a href="https://doi.org/10.5194/egusphere-2024-4115" target="_blank">
+<h3>Learning predictable and informative dynamical drivers of extreme precipitation using variational autoencoders</h3>
+<p><b>Author(s):</b> F. Spuler et al.</p>
+<p><i>Preprint in Weather and Climate Dynamics, 2025</i></p>
+</a>
 </div>
 
 <div class="publication-card">
-<h3>Another Research Paper</h3>
-<p><b>Author(s):</b> Name, Name, Name</p>
-<p><i>Another Cool Journal, 2022</i></p>
-<div class="pub-links">
-<a href="https://doi.org/XXXX" target="_blank"><i class="fa-solid fa-link"></i> DOI</a>
-<a href="https://arxiv.org/XXXX" target="_blank"><i class="fa-solid fa-file-pdf"></i> PDF</a>
-<a href="https://github.com/XXXX" target="_blank"><i class="fa-brands fa-github"></i> Code</a>
+<a href="https://doi.org/10.5194/gmd-17-1249-2024" target="_blank">
+<h3>ibicus: a new open-source Python package and comprehensive interface for statistical bias adjustment and evaluation in climate modelling</h3>
+<p><b>Author(s):</b> F.Spuler, J.Wessel et al.</p>
+<p><i>Geoscientific Model Development, 2024</i></p>
+</a>
 </div>
+
+<div class="publication-card">
+<a href="https://doi.org/10.1017/eds.2024.29" target="_blank">
+<h3>Identifying probabilistic weather regimes targeted to a local-scale impact variable</h3>
+<p><b>Author(s):</b> F.Spuler et al.</p>
+<p><i>Environmental Data Science, 2024</i></p>
+</a>
 </div>
+
 
 </div>
