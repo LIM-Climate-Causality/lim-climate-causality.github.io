@@ -34,4 +34,4 @@ filtered_pubs <- combined_pubs %>%
   distinct() %>% # remove any remaining duplicates
   mutate(author = sapply(author, bold_names, names_vector = names_to_bold)) # format names specified above in bold
 
-write.csv(filtered_pubs, 'Documents/GitHub/lim-climate-causality.github.io/publications/publications.csv', row.names = FALSE) # change to filepath 
+write.csv(filtered_pubs, 'publications.csv', row.names = FALSE) # change to filepath 
