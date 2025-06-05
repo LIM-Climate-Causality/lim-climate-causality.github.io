@@ -32,4 +32,7 @@ Pfleiderer, P., Schleussner, C.-F., Geiger, T., and Kretschmer, M.: Robust predi
 
 **Other Resources:**
 
-{{< youtube b_UgPiMBiy8 >}}
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/watch?v=CRrDqhA27gY" 
+  frameborder="0" allowfullscreen>
+</iframe>
