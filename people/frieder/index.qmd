@@ -1,7 +1,7 @@
 ---
 title: Frieder Loer
 description: Doctoral Researcher
-image: images/people/frieder.jpeg
+image: images/people/frieder.jpg
 ---
 
 <div class="person-tags">
@@ -12,7 +12,7 @@ image: images/people/frieder.jpeg
 
 <div class="profile-container">
 <div class="profile-image-container">
-<img src="/images/people/frieder.jpeg" class="profile-image">
+<img src="/images/people/frieder.jpg" class="profile-image">
 <div class="social-icons">
   <a href="mailto:Frieder.loer@uni-leipzig.de" target="_blank">
     <i class="fa-solid fa-envelope"></i>
