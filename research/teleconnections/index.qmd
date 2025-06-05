@@ -2,6 +2,7 @@
 title: Teleconnections and Regional Climate Change 
 ---
 
+![](/images/research/teleconnections.jpg)
 
 Adaptation to climate change requires understanding persistent changes in regional climate characteristics -such as mean conditions, extremes, or variability- within specific geographic areas over periods of decades or more. The wide range of regional climates, time scales, and adaptation needs makes this a problem of high complexity. 
 
@@ -18,9 +19,10 @@ In our research group, we focus on how variability and change in large-scale cli
 **Publications:**
 
 
-J. Mindlin, C.S. Vera, T.G. Shepherd, F.J. Doblas-Reyes, N. Gonzalez-Reviriego, M. Osman, M. Terrado, Assessment of plausible changes in Climatic Impact-Drivers relevant for the viticulture sector: A storyline approach with a climate service perspective, Climate Services, Volume 34, 2024, 100480, ISSN 2405-8807, [https://doi.org/10.1016/j.cliser.2024.100480](https://doi.org/10.1016/j.cliser.2024.100480).
+F. R. Spuler, M. Kretschmer, Y. Kovalchuk, Yevgeniya, M. Balmaseda, Magdalena Alonso T. G.  Shepherd, Identifying probabilistic weather regimes targeted to a local-scale impact variable, 2024, Environmental Data Science, 3, 2634-4602, [http://dx.doi.org/10.1017/eds.2024.29](http://dx.doi.org/10.1017/eds.2024.29).  
 
+Kretschmer, M., S. V. Adams, A. Arribas, R. Prudden, N. Robinson, E. Saggioro, and T. G. Shepherd, 2021: Quantifying Causal Pathways of Teleconnections. Bull. Amer. Meteor. Soc., 102, E2247–E2263, [https://doi.org/10.1175/BAMS-D-20-0117.1](https://doi.org/10.1175/BAMS-D-20-0117.1).
 
-F. R. Spuler, M. Kretschmer, Y. Kovalchuk, Yevgeniya, M. Balmaseda, Magdalena Alonso T. G.  Shepherd, Identifying probabilistic weather regimes targeted to a local-scale impact variable, 2024, Environmental Data Science, 3, 2634-4602, [http://dx.doi.org/10.1017/eds.2024.29](http://dx.doi.org/10.1017/eds.2024.29). 
+Mindlin, J., C. S. Vera, T. G. Shepherd, and M. Osman, 2023: Plausible Drying and Wetting Scenarios for Summer in Southeastern South America. J. Climate, 36, 7973–7991, [https://doi.org/10.1175/JCLI-D-23-0134.1](https://doi.org/10.1175/JCLI-D-23-0134.1).
   
 
