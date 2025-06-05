@@ -1,16 +1,21 @@
 ---
 title: Causal Data Science
-description: Lorem ipsum dolor sit amet consectetur.
+
 image: images/research/causality.jpg
 ---
 
 
-![Causal Data Science](images/research/causality.jpg)
+![Causal Data Science](/images/research/causality.jpg)
 
 
-Causal data science offers powerful tools to better understand the drivers of regional climate variability and extreme events. Moving beyond correlation, causal approaches help identify the mechanisms that underlie complex climate processes—an essential step toward more robust and interpretable insights. Our work integrates methods from causal inference, causal discovery, and causal representation learning to investigate cause-effect relationships in climate data.
-Causal inference techniques estimate the influence of specific drivers while accounting for confounding factors. We apply this to disentangle the roles of multiple teleconnections (e.g. ENSO, MJO) and to better understand their individual and combined contributions to regional climate impacts and extremes. These causal tools are particularly well-suited to identifying how such patterns propagate through the climate system. 
-With causal discovery, we can further uncover potential causal structures directly from observational data, revealing interactions that may not be captured in purely correlation-based approaches. 
-A newer and rapidly developing area of our research is causal representation learning, which enables us to learn structured, low-dimensional representations of climate patterns directly from high-dimensional gridded data. By integrating causal reasoning with machine learning, this approach helps isolate key modes of variability and improves the interpretability of complex datasets.
+Causal data science offers powerful tools to better understand the drivers of regional climate variability and extreme events. Moving beyond correlation, causal approaches help identify the mechanisms that underlie complex climate processes—an essential step toward more robust and interpretable insights. Our work integrates methods from **causal inference, causal discovery, and causal representation learning** to investigate cause-effect relationships in climate data.
+
+
+**Causal inference** techniques estimate the influence of specific drivers while accounting for confounding factors. We apply this to disentangle the roles of multiple teleconnections (e.g. ENSO, MJO) and to better understand their individual and combined contributions to regional climate impacts and extremes. These causal tools are particularly well-suited to identifying how such patterns propagate through the climate system. 
+
+
+With **causal discovery**, we can further uncover potential causal structures directly from observational data, revealing interactions that may not be captured in purely correlation-based approaches. 
+
+A newer and rapidly developing area of our research is **causal representation learning**, which enables us to learn structured, low-dimensional representations of climate patterns directly from high-dimensional gridded data. By integrating causal reasoning with machine learning, this approach helps isolate key modes of variability and improves the interpretability of complex datasets.
 Together, these methods form a growing toolkit for tackling pressing questions in climate science. While challenges remain, causal data science holds strong potential to complement physical models and deepen our understanding of how remote climatic drivers can shape local, and regional changes.
 
