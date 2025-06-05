@@ -1,0 +1,97 @@
+---
+title: Julia Mindlin
+description: Postdoctoral Researcher
+image: images/people/julia.jpg
+---
+
+<div class="person-tags">
+  <a href="/research/teleconnections/index.qmd" class="tag">Teleconnections and Regional Climate Change</a>
+  <a href="/research/causal/index.qmd" class="tag">Causal Data Science</a>
+</div>
+
+<div class="profile-container">
+<div class="profile-image-container">
+<img src="/images/people/julia.jpg" class="profile-image">
+<div class="social-icons">
+  <a href="mailto:julia.mindlin@uni-leipzig.de" target="_blank">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+ <a href="https://orcid.org/0000-0002-5911-9984" target="_blank">
+    <i class="fa-brands fa-orcid"></i>
+  </a>
+  <a href="https://scholar.google.com/citations?user=j3grcqMAAAAJ&hl=es" target="_blank">
+    <i class="fa-brands fa-google-scholar"></i>
+  </a>
+  <a href="https://github.com/jumin94/" target="_blank">
+    <i class="fa-brands fa-github"></i>
+  </a>
+</div>
+</div>
+
+<div class="bio-content">
+
+## Bio  
+
+My interest in science was always motivated by the thrill of learning from Nature. While doing my degree in Geophysics I discovered that physics and maths were a way of being in contact with Nature in a very fun way; learning how to link abstract reasoning, models and observations to better understand the would that we live was really fun during those years. During my PhD I decided to combine the tools that I gained with a very personal interest in understanding the uncertainties related to climate change. For me, being able to understand the response of the climate system to human activities and being able to prepare for it is really important. During my postdoc I am focusing on incorporating new analytical tools as well as trying to understand near term predictions. I really enjoy supervision and mentoring, teaching and studying. Outside work I love spending time with friends and family, playing music and doing sports.
+
+</div>
+</div>
+
+## Research Interests
+
+I’m interested in how large scale variability and change can influence regional climate. In particular, I am interested in South America because it is the region where I grew up. However, this initial interest has led to a general interest in large scale circulation dynamics of the Southern Hemisphere and its remote drivers, such as tropical modes of variability such as El Nino Southern Oscillation and the Indian Ocean Dipole and the stratosphere.
+## Curriculum Vitae <span class="cv-toggle" data-bs-toggle="collapse" data-bs-target="#cv-timeline" aria-expanded="false"></span>
+
+<div id="cv-timeline" class="collapse">
+<div class="timeline">
+<div class="timeline-item">
+<div class="timeline-date">April 2024 - Present</div>
+<div class="timeline-content">
+<h3>Postdoctoral Researcher</h3>
+<p>Leipzig University, Institute for Meteorology, Germany</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">August 2023 - Present</div>
+<div class="timeline-content">
+<h3>Assistant Professor (currently on unpaid leave)</h3>
+<p>University of Buenos Aires</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">September 2019 - March 2024</div>
+<div class="timeline-content">
+<h3>Doctoral Researcher</h3>
+<p>University de Buenos Aires, Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">April 2018 - March 2019</div>
+<div class="timeline-content">
+<h3>Undergraduate Intern</h3>
+<p>YPF S.A.</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">August 2018 - August 2019</div>
+<div class="timeline-content">
+<h3>Teachers Assistant</h3>
+<p>National University of La Plata (UNLP)</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">April 2013 - April 2019</div>
+<div class="timeline-content">
+<h3>Degree in Geophysics</h3>
+<p>National University of La Plata (UNLP)</p>
+</div>
+</div>
+
+</div>
+</div>
+
