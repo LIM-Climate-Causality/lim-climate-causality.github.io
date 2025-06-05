@@ -299,10 +299,10 @@ Leipzig Institute for Meteorology
 Talstraße 35, 04103 Leipzig, Germany  
 
 **Email**  
-[contact@example.com](mailto:contact@example.com)  
+[marlene.kretschmer@uni-leipzig.de](mailto:marlene.kretschmer@uni-leipzig.de)  
+[sebastian.sippel@uni-leipzig.de](mailto:sebastian.sippel@uni-leipzig.de)  
 
 **Follow Us**  
-[<i class="fa-brands fa-linkedin"></i> LinkedIn](https://linkedin.com) |  
-[<i class="fa-brands fa-github"></i> GitHub](https://github.com) |  
-[<i class="fa-brands fa-twitter"></i> Twitter](https://twitter.com)  
-:::
+
+[<i class="fa-brands fa-github"></i> GitHub](https://github.com/LIM-Climate-Causality) |  
+
