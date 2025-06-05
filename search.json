@@ -245,39 +245,25 @@
     "text": "Selected Publications\n\n\n\n\nWeakening of springtime Arctic ozone depletion with climate change\n\n\nAuthor(s): M. Friedel et al.\n\n\nAtmospheric Chemistry and Physics, 2023\n\n\n\n\n\n\nSpringtime arctic ozone depletion forces northern hemisphere climate anomalies\n\n\nAuthor(s): M. Friedel et al.\n\n\nNature Geoscience, 2022\n\n\n\n\n\n\nEffects of Arctic ozone on the stratospheric spring onset and its surface impact\n\n\nAuthor(s): M. Friedel et al.\n\n\nAtmospheric Chemistry and Physics, 2022"
   },
   {
-    "objectID": "people/fiona/index.html",
-    "href": "people/fiona/index.html",
-    "title": "Fiona Spuler",
+    "objectID": "people/julia/index.html",
+    "href": "people/julia/index.html",
+    "title": "Julia Mindlin",
     "section": "",
-    "text": "Teleconnections and Regional Climate Change Causal Data Science Machine Learning Extreme Weather and Climate Events"
+    "text": "Teleconnections and Regional Climate Change Causal Data Science"
   },
   {
-    "objectID": "people/fiona/index.html#bio",
-    "href": "people/fiona/index.html#bio",
-    "title": "Fiona Spuler",
+    "objectID": "people/julia/index.html#bio",
+    "href": "people/julia/index.html#bio",
+    "title": "Julia Mindlin",
     "section": "Bio",
-    "text": "Bio\nI am passionate about developing open-source climate information for locally-led adaptation decision-making through research and open-source software development. With a background in Mathematical Physics (MSc) and Environmental Change and Management (MSc), I worked in climate finance for three years, assessing the alignment of the financial markets in major European economies with climate mitigation targets, and on adaptation finance as part of the Mercator Fellowship on International Affairs. Aside from work, I enjoy dancing, reading, organising scavenger hunts and spending time outdoors with friends."
+    "text": "Bio\nMy interest in science was always motivated by the thrill of learning from Nature. While doing my degree in Geophysics I discovered that physics and maths were a way of being in contact with Nature in a very fun way; learning how to link abstract reasoning, models and observations to better understand the would that we live was really fun during those years. During my PhD I decided to combine the tools that I gained with a very personal interest in understanding the uncertainties related to climate change. For me, being able to understand the response of the climate system to human activities and being able to prepare for it is really important. During my postdoc I am focusing on incorporating new analytical tools as well as trying to understand near term predictions. I really enjoy supervision and mentoring, teaching and studying. Outside work I love spending time with friends and family, playing music and doing sports."
   },
   {
-    "objectID": "people/fiona/index.html#research-interests",
-    "href": "people/fiona/index.html#research-interests",
-    "title": "Fiona Spuler",
+    "objectID": "people/julia/index.html#research-interests",
+    "href": "people/julia/index.html#research-interests",
+    "title": "Julia Mindlin",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research aims to understand long-range teleconnections in the climate system which can act as sources of predictability at subseasonal to seasonal timescales and can aid the dynamical interpretation of future changes, by combining representation learning approaches from machine learning with causal inference methods. In my PhD, I have so far developed a generative machine learning method to identify physically robust dynamical drivers of extreme precipitation over Morocco. My current work focuses on extending this approach to develop machine learning methods to jointly learn reduced representations of high-dimensional climatic processes along with their causal relationships. My PhD is supervised by Marlene Kretschmer and Ted Shepherd, and based at the University of Reading.\nI also co-developed the open-source Python package ibicus for the bias adjustment of climate models and am interested in understanding the role of values in the way we do science. I also coordinate the Early Career Researcher Group in the ‘My Climate Risk’ Lighthouse Activity of the World Climate Research Program - reach out if you are interested to learn more."
-  },
-  {
-    "objectID": "people/fiona/index.html#curriculum-vitae",
-    "href": "people/fiona/index.html#curriculum-vitae",
-    "title": "Fiona Spuler",
-    "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\nSeptember 2022 - Present\n\n\n\nPhD Student\n\n\nUniversity of Reading, Reading, UK\n\n\n\n\n\nSeptember 2021 - August 2022\n\n\n\nMercator Fellow on International Affairs\n\n\nOASIS, Coalition on Climate Resilient Investment - London, UK; ICCCAD, Dhaka, Bangladesh; ECMWF, Summer of Weather Code, Reading, UK\n\n\n\n\n\nOctober 2019 - July 2021\n\n\n\nSenior Analyst\n\n\n2 Degrees Investing Initiative, Berlin, Germany and London, UK\n\n\n\n\n\nOctober 2012 - September 2019\n\n\n\nEducation\n\n\nBSc Physics (Georg-August Universität Göttingen, Germany); MSc Mathematical Physics (University of Edinburgh, UK); MSc Environmental Change and Management (University of Oxford, UK)"
-  },
-  {
-    "objectID": "people/fiona/index.html#selected-publications",
-    "href": "people/fiona/index.html#selected-publications",
-    "title": "Fiona Spuler",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\n\n\n\nLearning predictable and informative dynamical drivers of extreme precipitation using variational autoencoders\n\n\nAuthor(s): F. Spuler et al.\n\n\nPreprint in Weather and Climate Dynamics, 2025\n\n\n\n\n\n\nibicus: a new open-source Python package and comprehensive interface for statistical bias adjustment and evaluation in climate modelling\n\n\nAuthor(s): F.Spuler, J.Wessel et al.\n\n\nGeoscientific Model Development, 2024\n\n\n\n\n\n\nIdentifying probabilistic weather regimes targeted to a local-scale impact variable\n\n\nAuthor(s): F.Spuler et al.\n\n\nEnvironmental Data Science, 2024"
+    "text": "Research Interests\nI’m interested in how large scale variability and change can influence regional climate. In particular, I am interested in South America because it is the region where I grew up. However, this initial interest has led to a general interest in large scale circulation dynamics of the Southern Hemisphere and its remote drivers, such as tropical modes of variability such as El Nino Southern Oscillation and the Indian Ocean Dipole and the stratosphere. ## Curriculum Vitae \n\n\n\n\nApril 2024 - Present\n\n\n\nPostdoctoral Researcher\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nAugust 2023 - Present\n\n\n\nAssistant Professor (currently on unpaid leave)\n\n\nUniversity of Buenos Aires\n\n\n\n\n\nSeptember 2019 - March 2024\n\n\n\nDoctoral Researcher\n\n\nUniversity de Buenos Aires, Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)\n\n\n\n\n\nApril 2018 - March 2019\n\n\n\nUndergraduate Intern\n\n\nYPF S.A.\n\n\n\n\n\nAugust 2018 - August 2019\n\n\n\nTeachers Assistant\n\n\nNational University of La Plata (UNLP)\n\n\n\n\n\nApril 2013 - April 2019\n\n\n\nDegree in Geophysics\n\n\nNational University of La Plata (UNLP)"
   },
   {
     "objectID": "people/lina/index.html",
@@ -313,6 +299,41 @@
     "title": "Dr. Na Li",
     "section": "Selected Publications",
     "text": "Selected Publications\n\n\n\n\nInterannual global carbon cycle variations linked to atmospheric circulation variability\n\n\nAuthor(s): Li, N. et al.\n\n\nEarth System Dynamics, 2022\n\n\n\n\n\n\nEnhanced global carbon cycle sensitivity to tropical tmperature linked to internal climate variability\n\n\nAuthor(s): Li, N. et al.\n\n\nScience Advances, 2024"
+  },
+  {
+    "objectID": "people/fiona/index.html",
+    "href": "people/fiona/index.html",
+    "title": "Fiona Spuler",
+    "section": "",
+    "text": "Teleconnections and Regional Climate Change Causal Data Science Machine Learning Extreme Weather and Climate Events"
+  },
+  {
+    "objectID": "people/fiona/index.html#bio",
+    "href": "people/fiona/index.html#bio",
+    "title": "Fiona Spuler",
+    "section": "Bio",
+    "text": "Bio\nI am passionate about developing open-source climate information for locally-led adaptation decision-making through research and open-source software development. With a background in Mathematical Physics (MSc) and Environmental Change and Management (MSc), I worked in climate finance for three years, assessing the alignment of the financial markets in major European economies with climate mitigation targets, and on adaptation finance as part of the Mercator Fellowship on International Affairs. Aside from work, I enjoy dancing, reading, organising scavenger hunts and spending time outdoors with friends."
+  },
+  {
+    "objectID": "people/fiona/index.html#research-interests",
+    "href": "people/fiona/index.html#research-interests",
+    "title": "Fiona Spuler",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research aims to understand long-range teleconnections in the climate system which can act as sources of predictability at subseasonal to seasonal timescales and can aid the dynamical interpretation of future changes, by combining representation learning approaches from machine learning with causal inference methods. In my PhD, I have so far developed a generative machine learning method to identify physically robust dynamical drivers of extreme precipitation over Morocco. My current work focuses on extending this approach to develop machine learning methods to jointly learn reduced representations of high-dimensional climatic processes along with their causal relationships. My PhD is supervised by Marlene Kretschmer and Ted Shepherd, and based at the University of Reading.\nI also co-developed the open-source Python package ibicus for the bias adjustment of climate models and am interested in understanding the role of values in the way we do science. I also coordinate the Early Career Researcher Group in the ‘My Climate Risk’ Lighthouse Activity of the World Climate Research Program - reach out if you are interested to learn more."
+  },
+  {
+    "objectID": "people/fiona/index.html#curriculum-vitae",
+    "href": "people/fiona/index.html#curriculum-vitae",
+    "title": "Fiona Spuler",
+    "section": "Curriculum Vitae ",
+    "text": "Curriculum Vitae \n\n\n\n\nSeptember 2022 - Present\n\n\n\nPhD Student\n\n\nUniversity of Reading, Reading, UK\n\n\n\n\n\nSeptember 2021 - August 2022\n\n\n\nMercator Fellow on International Affairs\n\n\nOASIS, Coalition on Climate Resilient Investment - London, UK; ICCCAD, Dhaka, Bangladesh; ECMWF, Summer of Weather Code, Reading, UK\n\n\n\n\n\nOctober 2019 - July 2021\n\n\n\nSenior Analyst\n\n\n2 Degrees Investing Initiative, Berlin, Germany and London, UK\n\n\n\n\n\nOctober 2012 - September 2019\n\n\n\nEducation\n\n\nBSc Physics (Georg-August Universität Göttingen, Germany); MSc Mathematical Physics (University of Edinburgh, UK); MSc Environmental Change and Management (University of Oxford, UK)"
+  },
+  {
+    "objectID": "people/fiona/index.html#selected-publications",
+    "href": "people/fiona/index.html#selected-publications",
+    "title": "Fiona Spuler",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\n\n\n\nLearning predictable and informative dynamical drivers of extreme precipitation using variational autoencoders\n\n\nAuthor(s): F. Spuler et al.\n\n\nPreprint in Weather and Climate Dynamics, 2025\n\n\n\n\n\n\nibicus: a new open-source Python package and comprehensive interface for statistical bias adjustment and evaluation in climate modelling\n\n\nAuthor(s): F.Spuler, J.Wessel et al.\n\n\nGeoscientific Model Development, 2024\n\n\n\n\n\n\nIdentifying probabilistic weather regimes targeted to a local-scale impact variable\n\n\nAuthor(s): F.Spuler et al.\n\n\nEnvironmental Data Science, 2024"
   },
   {
     "objectID": "people/ernest/index.html",
