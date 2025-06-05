@@ -1,6 +1,5 @@
 ---
 title: Teleconnections and Regional Climate Change 
-description: One focus is better to understand the underlying large-scale physical drivers and causal mechanisms of extreme events and to quantify these so-called teleconnections. In particular, we are researching the stratospheric polar vortex, the global impacts of Arctic sea ice retreat, and how tropical and extratropical teleconnections interact to drive extreme weather. 
 ---
 
 
@@ -14,6 +13,10 @@ Adaptation to climate change requires understanding persistent changes in region
 
 
 In our research group, we focus on how variability and change in large-scale climate dynamics affect regional climates. We employ **storyline approaches, weather regimes, causal inference methods and rare event algorithms** to investigate multiple regions, which include **Europe, southern South America, the Sahel, the Somali Peninsula, and Cape Town**. Through this, we aim to better understand regional impacts of climate change and improve actionable climate information. This information is often distilled using a co-production process that integrates scientific knowledge with user context, values, and decision-making needs.
+
+
+**Publications:**
+
 
 J. Mindlin, C.S. Vera, T.G. Shepherd, F.J. Doblas-Reyes, N. Gonzalez-Reviriego, M. Osman, M. Terrado, Assessment of plausible changes in Climatic Impact-Drivers relevant for the viticulture sector: A storyline approach with a climate service perspective, Climate Services, Volume 34, 2024, 100480, ISSN 2405-8807, [https://doi.org/10.1016/j.cliser.2024.100480](https://doi.org/10.1016/j.cliser.2024.100480).
 
