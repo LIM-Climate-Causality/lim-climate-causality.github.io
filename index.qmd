@@ -60,7 +60,7 @@ The motivation of our research is to understand climate risks and reduce uncerta
 
 <div class="research-feature">
 <a href="research/machine_learning/index.qmd">
-<img src="research/machine_learning/stnn.png" alt="Machine Learning" class="research-image">
+<img src="research/machine_learning/RMM.png" alt="Machine Learning" class="research-image">
 </a>
 <h3 class="research-text">Machine Learning</h3>
 <p></p>
