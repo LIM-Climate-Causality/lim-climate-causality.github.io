@@ -3,8 +3,8 @@ title: Open Positions
 
 listing: 
     contents: 
-      <!--  - jobs/*/index.qmd  -->
-      <!--  - theses/*/index.qmd -->
+      - jobs/*/index.qmd
+      - theses/*/index.qmd 
     sort: date desc
     sort-ui: true
     filter-ui: true
