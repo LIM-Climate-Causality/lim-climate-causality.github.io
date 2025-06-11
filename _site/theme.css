@@ -257,6 +257,7 @@ h1, h2, h3 {
 .profile-image-container {
     flex: 0 0 300px; /* Fixed width */
     text-align: center;
+    border-radius: 50%;
 }
 
 /* Profile Image */

@@ -26,11 +26,13 @@ website:
           - href: publications/software/index.qmd
             text: Software
       - text: "Contact Us"
-        menu: 
+        menu:  
+          - href: index.qmd#contact
+            text: "Contact"
           - href: tenders/index.qmd
             text: "Open Positions"
 
-      - href: https://github.com
+      - href: https://github.com/LIM-Climate-Causality/lim-climate-causality.github.io
         icon: github
 
   page-footer:
@@ -38,12 +40,12 @@ website:
     left: |
       [IMPRESSUM](/impressum.qmd)
     center:
-      - href: https://github.com
+      - href: https://github.com/LIM-Climate-Causality/lim-climate-causality.github.io
         icon: github
-      - href: mailto:INSERT_MAILADDRESS
+      - href: mailto:marlene.kretschmer@uni-leipzig.de
         icon: envelope
     right:
-      - text: Copyright © Climate Causality & Attribution 2025
+      - text: Copyright © ClimCA 2025
 
 
   announcement:
