@@ -77,3 +77,118 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 Everything up-to-date
+Script started at: Sun 15 Jun 23:00:01 CEST 2025
+From github.com:LIM-Climate-Causality/lim-climate-causality.github.io
+   6b8002c..fd9b8df  main       -> origin/main
+   9b8dee1..402fd34  gh-pages   -> origin/gh-pages
+Updating 6b8002c..fd9b8df
+Fast-forward
+ _quarto.yml                                        |  12 +-
+ _site/images/logos/logo_small.png                  | Bin 1029325 -> 2278883 bytes
+ _site/images/logos/title_image.png                 | Bin 0 -> 2644315 bytes
+ _site/images/people/ernest.jpg                     | Bin 780704 -> 63658 bytes
+ _site/images/people/fiona.jpg                      | Bin 120408 -> 138281 bytes
+ _site/images/people/frieder.jpg                    | Bin 0 -> 405474 bytes
+ _site/images/people/istvan.jpg                     | Bin 0 -> 69743 bytes
+ _site/images/people/julia.jpg                      | Bin 258758 -> 56126 bytes
+ _site/images/people/julianna.jpg                   | Bin 2112091 -> 39198 bytes
+ _site/images/people/julius.jpg                     | Bin 142338 -> 510080 bytes
+ _site/images/people/lina.jpg                       | Bin 33958 -> 2331779 bytes
+ _site/images/people/marlene.jpg                    | Bin 298958 -> 204900 bytes
+ _site/images/people/peter.jpg                      | Bin 30130 -> 32438 bytes
+ _site/images/people/richard.jpg                    | Bin 273996 -> 235071 bytes
+ _site/images/people/sebastian.jpg                  | Bin 73413 -> 31308 bytes
+ _site/images/people/sujata.jpg                     | Bin 1070943 -> 84273 bytes
+ _site/images/research/causality.jpg                | Bin 0 -> 1356079 bytes
+ _site/images/research/cmmvae_architecture.png      | Bin 0 -> 599776 bytes
+ _site/images/research/teleconnections.jpg          | Bin 0 -> 200716 bytes
+ _site/impressum.html                               |   8 +-
+ _site/index.html                                   |  40 +-
+ _site/people/ernest/index.html                     |   8 +-
+ _site/people/fiona/index.html                      |  99 ++-
+ _site/people/florian/index.html                    |   8 +-
+ _site/people/frieder/index.html                    |  10 +-
+ _site/people/istvan/index.html                     |   8 +-
+ _site/people/julia/index.html                      | 791 +++++++++++++++++++++
+ _site/people/julianna/index.html                   |   8 +-
+ _site/people/julius/index.html                     |   8 +-
+ _site/people/lina/index.html                       |   8 +-
+ _site/people/marina/index.html                     |   8 +-
+ _site/people/marlene/index.html                    |   8 +-
+ _site/people/peter/index.html                      |   8 +-
+ _site/people/philine/index.html                    |   8 +-
+ _site/people/richard/index.html                    |   8 +-
+ _site/people/sebastian/index.html                  |   8 +-
+ _site/people/sujata/index.html                     |   8 +-
+ _site/publications/example_publication/index.html  |   8 +-
+ _site/publications/index.html                      | 228 +++---
+ _site/publications/software/index.html             | 699 ++++++++++++++++++
+ _site/research/causality/causality.png             | Bin 125038 -> 69601 bytes
+ _site/research/causality/index.html                |  31 +-
+ .../research/detection_and_attribution/index.html  |   8 +-
+ _site/research/extremes/index.html                 |   8 +-
+ _site/research/impacts/index.html                  |   8 +-
+ _site/research/machine_learning/RMM.png            | Bin 0 -> 224627 bytes
+ _site/research/machine_learning/index.html         |  27 +-
+ _site/research/teleconnections/index.html          |  26 +-
+ _site/search.json                                  |  82 ++-
+ ...tstrap-d86b211af3fbb4c43edf484ff02afb74.min.css |  12 +
+ ...ghlighting-2f5df379a58b258e96c21c0638c20c03.css | 205 ++++++
+ _site/sitemap.xml                                  |  54 +-
+ _site/tenders/index.html                           |  28 +-
+ _site/tenders/jobs/example_job/index.html          |   8 +-
+ _site/tenders/theses/example_thesis/index.html     |   8 +-
+ _site/theme.css                                    |   1 +
+ images/logos/logo_small.png                        | Bin 1029325 -> 2278883 bytes
+ images/logos/title_image.png                       | Bin 4125315 -> 2644315 bytes
+ images/people/ernest.jpg                           | Bin 650592 -> 63658 bytes
+ images/people/frieder.jpg                          | Bin 405474 -> 119598 bytes
+ images/people/istvan.jpg                           | Bin 0 -> 69743 bytes
+ images/people/julia.jpg                            | Bin 306833 -> 56126 bytes
+ images/people/julianna.jpg                         | Bin 2112091 -> 39198 bytes
+ images/people/julius.jpg                           | Bin 674267 -> 510080 bytes
+ images/people/marlene.jpg                          | Bin 319347 -> 204900 bytes
+ images/people/peter.jpg                            | Bin 30130 -> 32438 bytes
+ images/people/richard.jpg                          | Bin 254816 -> 235071 bytes
+ images/people/sebastian.jpg                        | Bin 243584 -> 31308 bytes
+ images/people/sebastian.png                        | Bin 241241 -> 0 bytes
+ images/people/sujata.jpg                           | Bin 1464026 -> 84273 bytes
+ index.qmd                                          |   3 +-
+ people/julia/index.qmd                             |   2 -
+ tenders/index.qmd                                  |  10 +-
+ 73 files changed, 2185 insertions(+), 335 deletions(-)
+ create mode 100644 _site/images/logos/title_image.png
+ create mode 100644 _site/images/people/frieder.jpg
+ create mode 100644 _site/images/people/istvan.jpg
+ create mode 100644 _site/images/research/causality.jpg
+ create mode 100644 _site/images/research/cmmvae_architecture.png
+ create mode 100644 _site/images/research/teleconnections.jpg
+ create mode 100644 _site/people/julia/index.html
+ create mode 100644 _site/publications/software/index.html
+ create mode 100644 _site/research/machine_learning/RMM.png
+ create mode 100644 _site/site_libs/bootstrap/bootstrap-d86b211af3fbb4c43edf484ff02afb74.min.css
+ create mode 100644 _site/site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css
+ create mode 100644 images/people/istvan.jpg
+ delete mode 100644 images/people/sebastian.png
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Warning: program compiled against libxml 210 using older 209
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   update_publications_logfile.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
