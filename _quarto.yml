@@ -25,6 +25,8 @@ website:
             text: Papers
           - href: publications/software/index.qmd
             text: Software
+      - href: index.qmd#projects
+        text: Projects
       - text: "Contact Us"
         menu:  
           - href: index.qmd#contact
