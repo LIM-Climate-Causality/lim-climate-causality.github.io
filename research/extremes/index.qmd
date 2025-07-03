@@ -2,7 +2,7 @@
 title: Extreme weather and climate events
 ---
 
-![France: The water level of the Loire is at its lowest due to the drought of 2022, as seen here in the Varades branch, in Loire-Atlantique. Photo: Franck Dubray/Ouest-France](/images/research/extremes.png)
+![France: The water level of the Loire is at its lowest due to the drought of 2022, as seen here in the Varades branch, in Loire-Atlantique. Photo: Franck Dubray/Ouest-France](/images/research/extremes.jpg)
 
 Each year, extreme weather events -from heatwaves, droughts, to heavy precipitation and storms- impact people and ecosystems around the world. At a local level, these events represent rare and unusual climatic conditions to which communities are not well adapted. As the climate warms, the frequency and intensity of of such events are changing, making it essential to understand how extremes are evolving and what we can expect in the future.
 
