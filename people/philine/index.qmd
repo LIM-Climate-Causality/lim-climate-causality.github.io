@@ -1,15 +1,121 @@
 ---
-title: Name
-description: Awesome description
+title: Philine Lou Bommer
+description: Doctoral Researcher
+image: images/people/philine.jpg
 ---
 
 <div class="person-tags">
   <a href="/research/teleconnections/index.qmd" class="tag">Teleconnections and Regional Climate Change</a>
+  <a href="/research/causality/index.qmd" class="tag">Causal Data Science</a>
   <a href="/research/machine_learning/index.qmd" class="tag">Machine Learning</a>
-
 </div>
 
 
----
+<div class="profile-container">
+<div class="profile-image-container">
+<img src="/images/people/philine.jpg" class="profile-image">
+<div class="social-icons">
+  <a href="mailto:philine.bommer@protonmail.com" target="_blank">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/philine-lou-bommer" target="_blank">
+    <i class="fa-brands fa-linkedin"></i>
+  </a>
+  <a href="https://bsky.app/profile/philinelb.bsky.social" target="_blank">
+    <i class="fa-brands fa-bluesky"></i>
+  </a>
+</div>
+</div>
 
-Lorem ipsum ...
+<div class="bio-content">
+
+## Bio  
+
+I am a PhD Candidate in the field of explainable machine learning and climate
+science. I am developing and applying new transparent deep neural
+networks and explainability algorithms to uncover new insights in the
+field of climate science. I aim to pursue a scientific career with
+societal impact to help fight climate change. When not doing research, you will find me in the climbing gym or enjoying good food and music.
+
+
+</div>
+</div>
+
+## Research Interests
+
+I am a interested in developing transparent deep learning solutions for climate- and geosciences. In that I am dedicated to develop methods that aid domain experts in gaining a better understanding of the climate and earth system as well as enable transparent and safe application of AI in the fight against climate change. Beyond that I am passionate to analyse the learning and reasoning of deep learning models both by developing practical tools but also on a theoretical level and am passionate about dynamical systems theory.
+
+## Curriculum Vitae <span class="cv-toggle" data-bs-toggle="collapse" data-bs-target="#cv-timeline" aria-expanded="false"></span>
+
+<div id="cv-timeline" class="collapse">
+<div class="timeline">
+<div class="timeline-item">
+<div class="timeline-date">Oct. 2013 - Jan. 2020</div>
+<div class="timeline-content">
+<h3>Bachelor of Science, Master of Science (Physics)
+</h3>
+<p>University of Heidelberg, Department of Computational Physics</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">Oct. 2018 - June 2020</div>
+<div class="timeline-content">
+<h3>Student Researcher at Mannheim Central Institut for Mental Health</h3>
+<p>Department of theoretical Neuroscience, Central Institut for Mental Health,  Mannheim</p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+## Selected Publications
+
+
+<div class="publications-grid">
+
+
+<div class="publication-card">
+<a href="https://arxiv.org/pdf/2504.07625" target="_blank">
+<h3>Deep Learning Meets Teleconnections: Improving S2S Predictions for European Winter Weather</h3>
+<p><b>Author(s):</b> Philine L. Bommer , Marlene Kretschmer , Fiona R. Spuler , Kirill Bykov, Marina M.C. Höhne</p>
+<p><i>Submitted to: IOP Science, Machine Learning Earth, 2025</i></p>
+</a>
+</div>
+
+
+<div class="publication-card">
+<a href="https://journals.ametsoc.org/view/journals/aies/3/3/AIES-D-23-0074.1.xml" target="_blank">
+<h3>Finding the right XAI Method — Guide for the Evaluation and Ranking of Explainable AI Methods in Climate Science.</h3>
+<p><b>Author(s):</b> Bommer P.L., Kretschmer M., Hedström A., Bareeva, D., & Höhne M.M.C.</p>
+<p><i>Artif. Intell. Earth Syst., 2024</i></p>
+</a>
+</div>
+
+<div class="publication-card">
+<a href="https://openreview.net/pdf?id=j3FK00HyfU " target="_blank">
+<h3>The Meta-Evaluation Problem in Explainable AI: Identifying Reliable Estimators with MetaQuantus. </h3>
+<p><b>Author(s):</b> Hedström A., Bommer P. L., Wickström K. K., Samek W., Lapuschkin S., & Höhne M.M.C.</p>
+<p><i>Transactions on Machine Learning Research, 2023</i></p>
+</a>
+</div>
+
+
+<div class="publication-card">
+<a href="https://proceedings.mlr.press/v162/kramer22a/kramer22a.pdf" target="_blank">
+<h3>Reconstructing Nonlinear Dynamical Systems from Multi-Modal Time Series. </h3>
+<p><b>Author(s):</b>Kramer D., Bommer P.L., Durstewitz D., Tombolini C., & Koppe G. </p>
+<p><i>International Conference on Machine Learning, 2022</i></p>
+</a>
+</div>
+
+
+<div class="publication-card">
+<a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/3d4c0a618d0acd7921493e4f30395c22-Paper-Conference.pdf" target="_blank">
+<h3>Cosy — Evaluating textual explanations of neurons. </h3>
+<p><b>Author(s):</b>Kopf L.„ Bommer P. L., Hedström A., Lapuschkin S., Höhne M.M.C., & BykovK. </p>
+<p><i>Proceedings in Neural Information Processing Systems, 2024</i></p>
+</a>
+</div>
+
