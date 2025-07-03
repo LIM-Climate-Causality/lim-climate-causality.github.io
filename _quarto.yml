@@ -64,8 +64,8 @@ format:
     code-overflow: scroll
     linkcolor: "#712119"
     include-in-header: 
-      - dropdown.js
-      - progress-bar.html
+      - path: dropdown.js
+      - path: progress-bar.html
       - text: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     title-block-banner: true
     anchor-sections: false
