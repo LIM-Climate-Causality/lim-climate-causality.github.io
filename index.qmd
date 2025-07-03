@@ -185,10 +185,10 @@ The motivation of our research is to understand climate risks and reduce uncerta
 </div>
 </div>
 
-<!-- Na -->
+<!-- Na Li -->
 <div class="team-member">
-<a href="people/na/index.qmd">
-<img src="images/people/na.jpg" alt="Dr. Na Li">
+<a href="people/lina/index.qmd">
+<img src="images/people/lina.jpg" alt="Dr. Na Li">
 </a>
 <h3>Dr. Na<br>Li</h3>
 <p>Post-Doc</p>
