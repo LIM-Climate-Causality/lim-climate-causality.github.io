@@ -1,5 +1,5 @@
 ---
-Title: Impressum
+title: Impressum
 toc: false
 ---
 
@@ -89,4 +89,4 @@ Leipzig Institute for Meteorology
 ---
 
 ## Version & Updates  
-This Impressum was last updated on **23/04/2025**. Changes may be made at any time.  
+This Impressum was last updated on **23/04/2025**. Changes may be made at any time.

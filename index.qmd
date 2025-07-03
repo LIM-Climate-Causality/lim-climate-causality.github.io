@@ -83,9 +83,7 @@ Process-based ATTribution of Extreme Temperatures to Anthropogenic drivers (PATT
 ---
 # People {#people}
 
-<!--
 ![The Climate Causality and Climate Attribution Groups of the Leipzig Institute for Meteorology during their group retreat at the Baltic sea in July 2024.](images/group_photo.jpg)
--->
 
 <br>
 
