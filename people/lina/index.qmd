@@ -1,5 +1,5 @@
 ---
-title: Dr. Na Li
+title: Dr. Na Li 
 description: Postdoctoral Researcher
 image: images/people/lina.jpg
 ---
@@ -9,12 +9,11 @@ image: images/people/lina.jpg
   <a href="/research/extremes/index.qmd" class="tag">Extreme Weather and Climate Events</a>
 </div>
 
-
 <div class="profile-container">
 <div class="profile-image-container">
 <img src="/images/people/lina.jpg" class="profile-image">
 <div class="social-icons">
-  <a href="mailto:na-li@uni-leipzig.de" target="_blank">
+  <a href="mailto:na.li@uni-leipzig.de" target="_blank">
     <i class="fa-solid fa-envelope"></i>
   </a>
 </div>
@@ -24,32 +23,22 @@ image: images/people/lina.jpg
 
 ## Bio  
 
-...
-
 
 </div>
 </div>
 
 ## Research Interests
 
-Carbon Cycle. 
+Detection and attribution of carbon cycle variations.
 
 ## Curriculum Vitae <span class="cv-toggle" data-bs-toggle="collapse" data-bs-target="#cv-timeline" aria-expanded="false"></span>
 
 <div id="cv-timeline" class="collapse">
 <div class="timeline">
 <div class="timeline-item">
-<div class="timeline-date">2025 - Present</div>
+<div class="timeline-date">July 2024 - Present</div>
 <div class="timeline-content">
-<h3>Research Scientist</h3>
-<p>Leipzig University, Institute for Meteorology, Germany</p>
-</div>
-</div>
-
-<div class="timeline-item">
-<div class="timeline-date">2025</div>
-<div class="timeline-content">
-<h3>PhD</h3>
+<h3>PhD in .. </h3>
 <p>Leipzig University, Institute for Meteorology, Germany</p>
 </div>
 </div>
@@ -73,11 +62,10 @@ Carbon Cycle.
 
 <div class="publication-card">
 <a href="https://doi.org/10.1126/sciadv.adl6155" target="_blank">
-<h3>Enhanced global carbon cycle sensitivity to tropical temperature linked to internal climate variability</h3>
+<h3>Enhanced global carbon cycle sensitivity to tropical tmperature linked to internal climate variability</h3>
 <p><b>Author(s):</b> Li, N. et al.</p>
 <p><i>Science Advances, 2024</i></p>
 </a>
 </div>
-
 
 </div>

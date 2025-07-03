@@ -11,6 +11,8 @@ format:
 
 ---
 
+---
+
 # About {#about}
 
 The motivation of our research is to understand climate risks and reduce uncertainties in regional predictions and projections of extreme weather and climate events. This requires an improved causal understanding of the physical drivers and consequences of extreme events. Our research includes several sub-aspects:
@@ -76,11 +78,7 @@ The motivation of our research is to understand climate risks and reduce uncerta
 :::
 
 ---
-# Projects {#projects}
 
-Process-based ATTribution of Extreme Temperatures to Anthropogenic drivers (PATTETA)
-
----
 # People {#people}
 
 ![The Climate Causality and Climate Attribution Groups of the Leipzig Institute for Meteorology during their group retreat at the Baltic sea in July 2024.](images/group_photo.jpg)

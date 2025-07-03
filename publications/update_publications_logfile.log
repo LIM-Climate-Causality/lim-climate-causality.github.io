@@ -192,39 +192,3 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 Everything up-to-date
-Script started at: Sun 22 Jun 23:00:01 CEST 2025
-Already up to date.
-
-Attaching package: ‘dplyr’
-
-The following objects are masked from ‘package:stats’:
-
-    filter, lag
-
-The following objects are masked from ‘package:base’:
-
-    intersect, setdiff, setequal, union
-
-Warning: program compiled against libxml 210 using older 209
-[main 5f4e9d6] Weekly publications update: 2025-06-22 23:00:09
- 1 file changed, 1 insertion(+), 1 deletion(-)
-To github.com:LIM-Climate-Causality/lim-climate-causality.github.io.git
-   943de75..5f4e9d6  main -> main
-Script started at: Sun 29 Jun 23:00:01 CEST 2025
-Already up to date.
-
-Attaching package: ‘dplyr’
-
-The following objects are masked from ‘package:stats’:
-
-    filter, lag
-
-The following objects are masked from ‘package:base’:
-
-    intersect, setdiff, setequal, union
-
-Warning: program compiled against libxml 210 using older 209
-[main 3518796] Weekly publications update: 2025-06-29 23:00:08
- 1 file changed, 1 insertion(+), 1 deletion(-)
-To github.com:LIM-Climate-Causality/lim-climate-causality.github.io.git
-   8419719..3518796  main -> main
