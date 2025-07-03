@@ -1,0 +1,56 @@
+---
+title: Johanna Beikert
+description: Research Fellow
+image: images/people/johanna.jpg
+---
+
+<div class="person-tags">
+  <a href="/research/teleconnections/index.qmd" class="tag">Teleconnections and Regional Climate Change</a>
+  <a href="/research/causality/index.qmd" class="tag">Causal Data Science</a>
+  <a href="/research/extremes/index.qmd" class="tag">Extreme Weather and Climate Events</a>
+</div>
+
+
+<div class="profile-container">
+<div class="profile-image-container">
+<img src="/images/people/johanna.jpg" class="profile-image">
+<div class="social-icons">
+  <a href="mailto:Nc97eham@studserv.uni-leipzig.de" target="_blank">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/johanna-beikert/" target="_blank">
+    <i class="fa-brands fa-linkedin"></i>
+  </a>
+</div>
+</div>
+
+<div class="bio-content">
+
+
+
+</div>
+</div>
+
+## Research Interests
+
+Link between Stratospheric Polar Vortex and Vegetation Growth in Spring. 
+
+## Curriculum Vitae <span class="cv-toggle" data-bs-toggle="collapse" data-bs-target="#cv-timeline" aria-expanded="false"></span>
+
+<div id="cv-timeline" class="collapse">
+<div class="timeline">
+<div class="timeline-item">
+<div class="timeline-date">2022 - 2025</div>
+<div class="timeline-content">
+<h3>Master in Meteorology</h3>
+<p>Leipzig University, Germany</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2018 - 2022</div>
+<div class="timeline-content">
+<h3>Bachelor in Physics</h3>
+<p>Heidelberg University, Germany</p>
+</div>
+</div>
