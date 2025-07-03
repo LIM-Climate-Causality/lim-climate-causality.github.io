@@ -2,6 +2,8 @@
 title: Extreme weather and climate events
 ---
 
+![France: The water level of the Loire is at its lowest due to the drought of 2022, as seen here in the Varades branch, in Loire-Atlantique. Photo: Franck Dubray/Ouest-France](/images/research/extremes.png)
+
 Each year, extreme weather events -from heatwaves, droughts, to heavy precipitation and storms- impact people and ecosystems around the world. At a local level, these events represent rare and unusual climatic conditions to which communities are not well adapted. As the climate warms, the frequency and intensity of of such events are changing, making it essential to understand how extremes are evolving and what we can expect in the future.
 
 The main challenge when studying weather extremes is that these events are **rare per definition** and only few of them are recorded in observations, making it hard to study processes, spatio-temporal changes and statistics related to those events. Climate models are a key tool to address this challenge. By simulating many possible versions of the climate, they generate large numbers of extreme events for analysis. However, models have limitations -especially  at regional scales- which is why a combination of models, observations, and statistical methods remain essential.
