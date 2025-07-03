@@ -28,39 +28,25 @@
     "text": "Here goes the further description of the paper."
   },
   {
-    "objectID": "people/marina/index.html",
-    "href": "people/marina/index.html",
-    "title": "Dr. Marina Friedel",
+    "objectID": "people/julius/index.html",
+    "href": "people/julius/index.html",
+    "title": "Julius Mex",
     "section": "",
-    "text": "Teleconnections and Regional Climate Change Causal Data Science Extreme Weather and Climate Events"
+    "text": "Teleconnections and Regional Climate Change Causal Data Science"
   },
   {
-    "objectID": "people/marina/index.html#bio",
-    "href": "people/marina/index.html#bio",
-    "title": "Dr. Marina Friedel",
-    "section": "Bio",
-    "text": "Bio\nI am a trained physicist with a background in cosmology and medical physics, but my passion for tackling global challenges led me into climate science during my PhD at ETH Zurich. Beyond research, I am passionate about science communication, making complex topics accessible to a broader audience. In my free time, I seek out the outdoors whenever possible or enjoy a good book with a great cup of coffee."
-  },
-  {
-    "objectID": "people/marina/index.html#research-interests",
-    "href": "people/marina/index.html#research-interests",
-    "title": "Dr. Marina Friedel",
+    "objectID": "people/julius/index.html#research-interests",
+    "href": "people/julius/index.html#research-interests",
+    "title": "Julius Mex",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research focuses on large-scale atmospheric dynamics and their influence on regional climate, with a particular emphasis on droughts. I aim to uncover the causal chains behind extreme events, employing statistical methods and machine learning to improve our understanding of these phenomena and refine model projections of extreme events at a regional scale, providing actionable data to support climate adaptation and resilience strategies. Additionally, I am interested in interactions between the ozone layer and climate, examining both interannual variability and long-term trends."
+    "text": "Research Interests\nMy research aims to understand the large scale drivers of regional climate change and the interaction of the forced response with internal variability. In my work I make use of the physical climate storyline approach and extend it to include internal variability to understand, constrain and explain uncertainty in climate projections."
   },
   {
-    "objectID": "people/marina/index.html#curriculum-vitae",
-    "href": "people/marina/index.html#curriculum-vitae",
-    "title": "Dr. Marina Friedel",
+    "objectID": "people/julius/index.html#curriculum-vitae",
+    "href": "people/julius/index.html#curriculum-vitae",
+    "title": "Julius Mex",
     "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\nJuly 2024 - Present\n\n\n\nResearch Scientist\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nJune 2023 - October 2023\n\n\n\nResearch Scientist\n\n\nETH Zurich, Institute for Atmospheric and Climate Science, Switzerland\n\n\n\n\n\nOctober 2019 - May 2023\n\n\n\nPhD in Environmental System Science\n\n\nETH Zurich, Institute for Atmospheric and Climate Science, Switzerland\n\n\n\n\n\nOctober 2013 - May 2019\n\n\n\nBachelor and Master in Physics\n\n\nUniversity of Tubingen, Germany"
-  },
-  {
-    "objectID": "people/marina/index.html#selected-publications",
-    "href": "people/marina/index.html#selected-publications",
-    "title": "Dr. Marina Friedel",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\n\n\n\nWeakening of springtime Arctic ozone depletion with climate change\n\n\nAuthor(s): M. Friedel et al.\n\n\nAtmospheric Chemistry and Physics, 2023\n\n\n\n\n\n\nSpringtime arctic ozone depletion forces northern hemisphere climate anomalies\n\n\nAuthor(s): M. Friedel et al.\n\n\nNature Geoscience, 2022\n\n\n\n\n\n\nEffects of Arctic ozone on the stratospheric spring onset and its surface impact\n\n\nAuthor(s): M. Friedel et al.\n\n\nAtmospheric Chemistry and Physics, 2022"
+    "text": "Curriculum Vitae \n\n\n\n\n2024 - Present\n\n\n\nResearch Assistant\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\n2021 - 2024\n\n\n\nMaster in Climate Science\n\n\nEcole Normale Superieure Paris\n\n\n\n\n\n2023\n\n\n\nVisiting Student in Climate Physics\n\n\nUniversity of Bologna\n\n\n\n\n\n2018 - 2021\n\n\n\nBachelor in Physics\n\n\nUniversity of Cambridge"
   },
   {
     "objectID": "people/julia/index.html",
@@ -191,9 +177,37 @@
   {
     "objectID": "people/philine/index.html",
     "href": "people/philine/index.html",
-    "title": "Name",
+    "title": "Philine Lou Bommer",
     "section": "",
-    "text": "Teleconnections and Regional Climate Change Machine Learning\n\n\nLorem ipsum …"
+    "text": "Teleconnections and Regional Climate Change Causal Data Science Machine Learning"
+  },
+  {
+    "objectID": "people/philine/index.html#bio",
+    "href": "people/philine/index.html#bio",
+    "title": "Philine Lou Bommer",
+    "section": "Bio",
+    "text": "Bio\nI am a PhD Candidate in the field of explainable machine learning and climate science. I am developing and applying new transparent deep neural networks and explainability algorithms to uncover new insights in the field of climate science. I aim to pursue a scientific career with societal impact to help fight climate change. When not doing research, you will find me in the climbing gym or enjoying good food and music."
+  },
+  {
+    "objectID": "people/philine/index.html#research-interests",
+    "href": "people/philine/index.html#research-interests",
+    "title": "Philine Lou Bommer",
+    "section": "Research Interests",
+    "text": "Research Interests\nI am a interested in developing transparent deep learning solutions for climate- and geosciences. In that I am dedicated to develop methods that aid domain experts in gaining a better understanding of the climate and earth system as well as enable transparent and safe application of AI in the fight against climate change. Beyond that I am passionate to analyse the learning and reasoning of deep learning models both by developing practical tools but also on a theoretical level and am passionate about dynamical systems theory."
+  },
+  {
+    "objectID": "people/philine/index.html#curriculum-vitae",
+    "href": "people/philine/index.html#curriculum-vitae",
+    "title": "Philine Lou Bommer",
+    "section": "Curriculum Vitae ",
+    "text": "Curriculum Vitae \n\n\n\n\nOct. 2013 - Jan. 2020\n\n\n\nBachelor of Science, Master of Science (Physics)\n\n\nUniversity of Heidelberg, Department of Computational Physics\n\n\n\n\n\nOct. 2018 - June 2020\n\n\n\nStudent Researcher at Mannheim Central Institut for Mental Health\n\n\nDepartment of theoretical Neuroscience, Central Institut for Mental Health, Mannheim"
+  },
+  {
+    "objectID": "people/philine/index.html#selected-publications",
+    "href": "people/philine/index.html#selected-publications",
+    "title": "Philine Lou Bommer",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\n\n\n\nDeep Learning Meets Teleconnections: Improving S2S Predictions for European Winter Weather\n\n\nAuthor(s): Philine L. Bommer , Marlene Kretschmer , Fiona R. Spuler , Kirill Bykov, Marina M.C. Höhne\n\n\nSubmitted to: IOP Science, Machine Learning Earth, 2025\n\n\n\n\n\n\nFinding the right XAI Method — Guide for the Evaluation and Ranking of Explainable AI Methods in Climate Science.\n\n\nAuthor(s): Bommer P.L., Kretschmer M., Hedström A., Bareeva, D., & Höhne M.M.C.\n\n\nArtif. Intell. Earth Syst., 2024\n\n\n\n\n\n\nThe Meta-Evaluation Problem in Explainable AI: Identifying Reliable Estimators with MetaQuantus.\n\n\nAuthor(s): Hedström A., Bommer P. L., Wickström K. K., Samek W., Lapuschkin S., & Höhne M.M.C.\n\n\nTransactions on Machine Learning Research, 2023\n\n\n\n\n\n\nReconstructing Nonlinear Dynamical Systems from Multi-Modal Time Series.\n\n\nAuthor(s):Kramer D., Bommer P.L., Durstewitz D., Tombolini C., & Koppe G.\n\n\nInternational Conference on Machine Learning, 2022\n\n\n\n\n\n\nCosy — Evaluating textual explanations of neurons.\n\n\nAuthor(s):Kopf L.„ Bommer P. L., Hedström A., Lapuschkin S., Höhne M.M.C., & BykovK.\n\n\nProceedings in Neural Information Processing Systems, 2024"
   },
   {
     "objectID": "people/frieder/index.html",
@@ -595,25 +609,25 @@
     "text": "Selected Publications\n\n\n\n\nIdentifying probabilistic weather regimes targeted to a local-scale impact variable\n\n\nAuthor(s): F. Spuler et al.\n\n\nEnvironmental Data Science, 2024\n\n\n\n\n\n\nA shifting climate: New paradigms and challenges for (early career) scientists in extreme weather research\n\n\nAuthor(s): M. Kretschmer et al.\n\n\nAtmospheric Science Letters, 2024\n\n\n\n\n\n\nFinding the right XAI Method — A Guide for the Evaluation and Ranking of Explainable AI Methods in Climate Science\n\n\nAuthor(s): P. L. Bommer et al.\n\n\nArtificial Intelligence for the Earth Systems, 2024\n\n\n\n\n\n\nQuantifying Causal Pathways of Teleconnections\n\n\nAuthor(s): Kretschmer et al.\n\n\nBulletin of the American Meteorological Society, 2021\n\n\n\n\n\n\nThe role of Barents–Kara sea ice loss in projected polar vortex changes\n\n\nAuthor(s): Kretschmer et al.\n\n\nWeather and Climate Dynamics, 2020\n\n\n\n\n\n\nUsing Causal Effect Networks to Analyze Different Arctic Drivers of Midlatitude Winter Circulation\n\n\nAuthor(s): Kretschmer et al.\n\n\nJournal of Climate, 2016"
   },
   {
-    "objectID": "people/julius/index.html",
-    "href": "people/julius/index.html",
-    "title": "Julius Mex",
+    "objectID": "people/johanna/index.html",
+    "href": "people/johanna/index.html",
+    "title": "Johanna Beikert",
     "section": "",
-    "text": "Teleconnections and Regional Climate Change Causal Data Science"
+    "text": "Teleconnections and Regional Climate Change Causal Data Science Extreme Weather and Climate Events"
   },
   {
-    "objectID": "people/julius/index.html#research-interests",
-    "href": "people/julius/index.html#research-interests",
-    "title": "Julius Mex",
+    "objectID": "people/johanna/index.html#research-interests",
+    "href": "people/johanna/index.html#research-interests",
+    "title": "Johanna Beikert",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research aims to understand the large scale drivers of regional climate change and the interaction of the forced response with internal variability. In my work I make use of the physical climate storyline approach and extend it to include internal variability to understand, constrain and explain uncertainty in climate projections."
+    "text": "Research Interests\nLink between Stratospheric Polar Vortex and Vegetation Growth in Spring."
   },
   {
-    "objectID": "people/julius/index.html#curriculum-vitae",
-    "href": "people/julius/index.html#curriculum-vitae",
-    "title": "Julius Mex",
+    "objectID": "people/johanna/index.html#curriculum-vitae",
+    "href": "people/johanna/index.html#curriculum-vitae",
+    "title": "Johanna Beikert",
     "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\n2024 - Present\n\n\n\nResearch Assistant\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\n2021 - 2024\n\n\n\nMaster in Climate Science\n\n\nEcole Normale Superieure Paris\n\n\n\n\n\n2023\n\n\n\nVisiting Student in Climate Physics\n\n\nUniversity of Bologna\n\n\n\n\n\n2018 - 2021\n\n\n\nBachelor in Physics\n\n\nUniversity of Cambridge"
+    "text": "Curriculum Vitae \n\n\n\n\n2022 - 2025\n\n\n\nMaster in Meteorology\n\n\nLeipzig University, Germany\n\n\n\n\n\n2018 - 2022\n\n\n\nBachelor in Physics\n\n\nHeidelberg University, Germany"
   },
   {
     "objectID": "publications/index.html",
@@ -634,7 +648,7 @@
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "About\nThe motivation of our research is to understand climate risks and reduce uncertainties in regional predictions and projections of extreme weather and climate events. This requires an improved causal understanding of the physical drivers and consequences of extreme events. Our research includes several sub-aspects:\n\n\n\nResearch\n\n\n\n  \n\nTeleconnections and Regional Climate Change\n\n\n\n\n\n  \n\nDetection and Attribution\n\n\n\n\n\n  \n\nCausal Data Science\n\n\n\n\n\n  \n\nExtreme Weather and Climate Events\n\n\n\n\n\n  \n\nMachine Learning\n\n\n\n\n\n  \n\nClimate Impacts\n\n\n\n\n\n\n\n\n\nPeople\n\n\n\nThe Climate Causality and Climate Attribution Groups of the Leipzig Institute for Meteorology during their group retreat at the Baltic sea in July 2024.\n\n\n\n\n\n\n\n  \n\nErnest Agyemang-Oko\n\n\nPhD Researcher\n\n\n\n\n\n\n\n  \n\nRichardAlawode\n\n\nPhD Researcher\n\n\n\n\n\n\n\n  \n\nPhiline Lou Bommer\n\n\nPhD Researcher\n\n\n\n\n\n\n\n  \n\nDr. IstvánDunkl\n\n\nPost-Doc\n\n\n\n\n\n\n\n  \n\nDr. MarinaFriedel\n\n\nPost-Doc\n\n\n\n\n\n\n\n  \n\nFlorianKraulich\n\n\nPhD Researcher\n\n\n\n\n\n\n\n  \n\nJun-Prof. Dr. MarleneKretschmer\n\n\nJunior Professor\n\n\n\n\n\n\n\n  \n\nSujataKulkarni\n\n\nPhD Researcher\n\n\n\n\n\n\n\n  \n\nDr. NaLi\n\n\nPost-Doc\n\n\n\n\n\n\n\n  \n\nFriederLoer\n\n\nPhD Researcher\n\n\n\n\n\n\n\n  \n\nJuliusMex\n\n\nResearch Fellow\n\n\n\n\n\n\n\n  \n\nDr. JuliaMindlin\n\n\nPost-Doc\n\n\n\n\n\n\n\n  \n\nDr. JuliannaCarvalho Oliveira\n\n\nPost-Doc\n\n\n\n\n\n\n\n  \n\nDr. PeterPfleiderer\n\n\nPost-Doc\n\n\n\n\n\n\n\n  \n\nJun.-Prof. Dr. SebastianSippel\n\n\nJunior Professor\n\n\n\n\n\n\n\n  \n\nFionaSpuler\n\n\nPhD Researcher\n\n\n\n\n\n\n\n\n\n\n\nContact Us\n\nAddress\nClimate Causality and Attribution Leipzig University\nLeipzig Institute for Meteorology\nTalstraße 35, 04103 Leipzig, Germany\nEmail\nmarlene.kretschmer@uni-leipzig.de\nsebastian.sippel@uni-leipzig.de\nFollow Us\n GitHub |"
+    "text": "About\nWe are a group of climate scientists at Leipzig University in Germany. The motivation of our research is to explain and attribute climate risks, and to reduce uncertainties in regional predictions and projections of extreme weather and climate events. This effort requires an improved causal understanding of the physical drivers and consequences of extreme events. Our research includes several sub-aspects:\n\n\n\nResearch\n\n\n\n  \n\nTeleconnections and Regional Climate Change\n\n\n\n\n\n  \n\nDetection and Attribution\n\n\n\n\n\n  \n\nCausal Data Science\n\n\n\n\n\n  \n\nExtreme Weather and Climate Events\n\n\n\n\n\n  \n\nMachine Learning\n\n\n\n\n\n  \n\nClimate Impacts\n\n\n\n\n\n\n\n\n\nPeople\n\n\n\nThe Climate Causality and Climate Attribution Groups of the Leipzig Institute for Meteorology during their group retreat at the Baltic sea in July 2024.\n\n\n\n\n\n\n\n  \n\nErnest Agyemang-Oko\n\n\nPhD Researcher\n\n\n\n\n\n\n\n  \n\nRichardAlawode\n\n\nPhD Researcher\n\n\n\n\n\n\n\n  \n\nPhiline Lou Bommer\n\n\nPhD Researcher\n\n\n\n\n\n\n\n  \n\nDr. IstvánDunkl\n\n\nPost-Doc\n\n\n\n\n\n\n\n  \n\nDr. MarinaFriedel\n\n\nPost-Doc\n\n\n\n\n\n\n\n  \n\nFlorianKraulich\n\n\nPhD Researcher\n\n\n\n\n\n\n\n  \n\nJun-Prof. Dr. MarleneKretschmer\n\n\nJunior Professor\n\n\n\n\n\n\n\n  \n\nSujataKulkarni\n\n\nPhD Researcher\n\n\n\n\n\n\n\n  \n\nDr. NaLi\n\n\nPost-Doc\n\n\n\n\n\n\n\n  \n\nFriederLoer\n\n\nPhD Researcher\n\n\n\n\n\n\n\n  \n\nJuliusMex\n\n\nResearch Fellow\n\n\n\n\n\n\n\n  \n\nDr. JuliaMindlin\n\n\nPost-Doc\n\n\n\n\n\n\n\n  \n\nDr. JuliannaCarvalho Oliveira\n\n\nPost-Doc\n\n\n\n\n\n\n\n  \n\nDr. PeterPfleiderer\n\n\nPost-Doc\n\n\n\n\n\n\n\n  \n\nJun.-Prof. Dr. SebastianSippel\n\n\nJunior Professor\n\n\n\n\n\n\n\n  \n\nFionaSpuler\n\n\nPhD Researcher\n\n\n\n\n\n\n\n  \n\nJohannaBeikert\n\n\nResearch Assistant\n\n\n\n\n\n\n\n\n\n\n\nContact Us\n\nAddress\nClimate Causality and Attribution Leipzig University\nLeipzig Institute for Meteorology\nTalstraße 35, 04103 Leipzig, Germany\nEmail\nmarlene.kretschmer@uni-leipzig.de\nsebastian.sippel@uni-leipzig.de\nFollow Us\n GitHub |"
   },
   {
     "objectID": "tenders/theses/example_thesis/index.html",
