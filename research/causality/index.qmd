@@ -5,7 +5,7 @@ image: images/research/causality.jpg
 ---
 
 
-![](/images/research/causality.jpg)
+![Relationship between Causal Representation Learning, Causal Discovery, and Causal Inference. Figure by Marlene Kretschmer.](/images/research/causality.jpg)
 
 
 Causal data science offers powerful tools to better understand the drivers of regional climate variability and extreme events. Moving beyond correlation, causal approaches help identify the mechanisms that underlie complex climate processes—an essential step toward more robust and interpretable insights. Our work integrates methods from **causal inference, causal discovery, and causal representation learning** to investigate cause-effect relationships in climate data.
