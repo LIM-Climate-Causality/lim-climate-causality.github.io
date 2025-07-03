@@ -4,7 +4,7 @@ image: images/research/cmmvae_architecture.png
 ---
 
 
-![The machine learning model used in [Spuler FR et al. 2024](https://doi.org/10.1017/eds.2024.29).](/images/research/cmmvae_architecture.png)
+![The figure shows a Variational Autoencoder, the machine learning model used in [Spuler FR et al. 2024](https://doi.org/10.1017/eds.2024.29).](/images/research/cmmvae_architecture.png)
 
 Machine learning is the science enabling computational systems to learn how to perform tasks optimally through exposure to data, without being explicitly programmed. It can describe a broad spectrum of techniques, ranging from simple models like linear regression to complex architectures such as deep neural networks. One of the main advantages of machine learning is its ability to identify hidden patterns and relationships in large, high-dimensional datasets—patterns that may not be easily detected through traditional analysis.
 
