@@ -192,3 +192,61 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 Everything up-to-date
+Script started at: Sun  6 Jul 23:00:01 CEST 2025
+From github.com:LIM-Climate-Causality/lim-climate-causality.github.io
+   9cf2893..fdabea9  main       -> origin/main
+   c57bf38..a6eb26a  gh-pages   -> origin/gh-pages
+Updating 9cf2893..fdabea9
+Fast-forward
+ _site/images/people/johanna.jpg                    | Bin 0 -> 235832 bytes
+ _site/images/people/philine.jpg                    | Bin 62661 -> 28793 bytes
+ _site/images/research/extremes.jpg                 | Bin 0 -> 213391 bytes
+ _site/index.html                                   |  28 +-
+ _site/people/johanna/index.html                    | 742 +++++++++++++++++++++
+ _site/people/lina/index.html                       |  13 +-
+ _site/people/philine/index.html                    | 143 +++-
+ _site/research/causality/index.html                |  19 +-
+ .../research/detection_and_attribution/index.html  |  29 +-
+ _site/research/extremes/index.html                 |  33 +-
+ _site/research/impacts/index.html                  |  28 +-
+ _site/research/machine_learning/index.html         |  27 +-
+ _site/research/teleconnections/index.html          |  12 +-
+ _site/search.json                                  |  71 +-
+ _site/sitemap.xml                                  |  24 +-
+ _site/tenders/index.html                           |   9 +-
+ images/people/johanna.jpg                          | Bin 0 -> 235832 bytes
+ images/people/philine.jpg                          | Bin 62661 -> 28793 bytes
+ index.qmd                                          |  15 +-
+ people/johanna/index.qmd                           |  56 ++
+ people/marina/index.qmd                            | 113 ----
+ people/philine/index.qmd                           | 114 +++-
+ research/causality/index.qmd                       |   2 +-
+ 23 files changed, 1253 insertions(+), 225 deletions(-)
+ create mode 100644 _site/images/people/johanna.jpg
+ create mode 100644 _site/images/research/extremes.jpg
+ create mode 100644 _site/people/johanna/index.html
+ create mode 100644 images/people/johanna.jpg
+ create mode 100644 people/johanna/index.qmd
+ delete mode 100644 people/marina/index.qmd
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Warning: program compiled against libxml 210 using older 209
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   update_publications_logfile.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
