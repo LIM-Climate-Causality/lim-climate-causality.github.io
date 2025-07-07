@@ -30,16 +30,3 @@ Kretschmer, M.; Adams, S.; Arribas, A.; Saggioro, E.; Prudden, R.; Robinson, N.;
 Pfleiderer, P., Schleussner, C.-F., Geiger, T., and Kretschmer, M.: Robust predictors for seasonal Atlantic hurricane activity identified with causal effect networks (2020), Weather Clim. Dynam., 1, 313–324, [https://doi.org/10.5194/wcd-1-313-2020](https://doi.org/10.5194/wcd-1-313-2020).
 
 
-**Other Resources:**
-
-
-
-::: {.center}
-<iframe width="560" height="315"
-  src="https://www.youtube.com/watch?v=CRrDqhA27gY"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
-:::

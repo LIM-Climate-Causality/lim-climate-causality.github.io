@@ -22,5 +22,3 @@ Sippel, S., Meinshausen, N., Fischer, E.M. *et al.* Climate change now detecta
 
 Heinze-Deml, C., Sippel, S., Pendergrass, A. G., Lehner, F., and Meinshausen, N.: Latent Linear Adjustment Autoencoder v1.0: a novel method for estimating and emulating dynamic precipitation at high resolution, Geosci. Model Dev., 14, 4977–4999 (2021), [https://doi.org/10.5194/gmd-14-4977-2021](https://doi.org/10.5194/gmd-14-4977-2021).
 
-
-**Other Resources:**

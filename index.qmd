@@ -288,7 +288,7 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 <img src="images/people/johanna.jpg" alt="Fiona Spuler">
 </a>
 <h3>Johanna<br>Beikert </h3>
-<p>Research Assistant</p>
+<p>Research Fellow</p>
 <div class="social-icons">
 
 </div>
