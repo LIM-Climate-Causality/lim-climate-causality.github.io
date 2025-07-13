@@ -250,3 +250,52 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 Everything up-to-date
+Script started at: Sun 13 Jul 23:00:01 CEST 2025
+From github.com:LIM-Climate-Causality/lim-climate-causality.github.io
+   a1483f5..3ce963f  main       -> origin/main
+   a6eb26a..bcebe26  gh-pages   -> origin/gh-pages
+Updating a1483f5..3ce963f
+Fast-forward
+ _site/index.html                                   |   2 +-
+ _site/people/peter/index.html                      |  81 ++++++++++++++++-----
+ _site/research/causality/causality.png             | Bin 69601 -> 607126 bytes
+ _site/research/causality/index.html                |   5 --
+ _site/research/detection_and_attribution/DA.png    | Bin 279726 -> 2054367 bytes
+ .../research/detection_and_attribution/index.html  |   8 +-
+ _site/research/extremes/prediction.png             | Bin 196232 -> 191963 bytes
+ _site/research/impacts/index.html                  |  15 +++-
+ _site/research/impacts/regional.png                | Bin 34368 -> 896011 bytes
+ _site/research/machine_learning/RMM.png            | Bin 224627 -> 562668 bytes
+ _site/research/machine_learning/index.html         |   1 -
+ _site/research/teleconnections/index.html          |   7 +-
+ _site/search.json                                  |  14 ++--
+ _site/sitemap.xml                                  |  14 ++--
+ index.qmd                                          |   2 +-
+ people/peter/index.qmd                             |  47 +++++++++---
+ research/causality/causality.png                   | Bin 69601 -> 607126 bytes
+ research/causality/index.qmd                       |  13 ----
+ research/detection_and_attribution/DA.png          | Bin 279726 -> 2054367 bytes
+ research/detection_and_attribution/index.qmd       |   5 +-
+ research/extremes/prediction.png                   | Bin 196232 -> 191963 bytes
+ research/impacts/index.qmd                         |  12 ++-
+ research/impacts/regional.png                      | Bin 34368 -> 896011 bytes
+ research/machine_learning/RMM.png                  | Bin 224627 -> 562668 bytes
+ research/machine_learning/index.qmd                |   2 -
+ research/teleconnections/index.qmd                 |   2 +-
+ 26 files changed, 153 insertions(+), 77 deletions(-)
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Warning: program compiled against libxml 210 using older 209
+[main 6c0b043] Weekly publications update: 2025-07-13 23:00:12
+ 1 file changed, 9 insertions(+), 9 deletions(-)
+To github.com:LIM-Climate-Causality/lim-climate-causality.github.io.git
+   3ce963f..6c0b043  main -> main
