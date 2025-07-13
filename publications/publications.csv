@@ -1,5 +1,6 @@
 "title","author","journal","year"
 "Learning predictable and informative dynamical drivers of extreme precipitation using variational autoencoders","**FR Spuler**, **M Kretschmer**, MA Balmaseda, Y Kovalchuk, TG Shepherd","EGUsphere",2025
+"Estimating the contribution of Arctic sea-ice loss to central Asia temperature anomalies: the case of winter 2020/2021","LR Cosford, R Ghosh, **M Kretschmer**, C Oatley, TG Shepherd","Environmental Research Letters",2025
 "Balancing Earth science careers in an unequal world","N Testani, LM Cappelletti, LB Díaz, C Prudente, V Rabanal, **J Mindlin**, ...","Communications Earth & Environment",2025
 "Reversal of the impact chain for actionable climate information","**P Pfleiderer**, TL Frölicher, CM Kropf, RD Lamboll, Q Lejeune, ...","Nature Geoscience",2025
 "State of wildfires 2023–2024","MW Jones, DI Kelley, CA Burton, F Di Giuseppe, MLF Barbosa, ...","Earth System Science Data",2024
@@ -12,10 +13,10 @@
 "Early-twentieth-century cold bias in ocean surface temperature observations","**S Sippel**, EC Kent, N Meinshausen, D Chan, C Kadow, R Neukom, ...","Nature",2024
 "Increasing extreme precipitation variability plays a key role in future record-shattering event probability","I de Vries, **S Sippel**, J Zeder, E Fischer, R Knutti","Communications Earth & Environment",2024
 "Broadening the scope of anthropogenic influence in extreme event attribution","A Jézéquel, A Bastos, D Faranda, J Kimutai, N Le Grix, AM Wilson, ...","Environmental Research: Climate",2024
-"Enhanced global carbon cycle sensitivity to tropical temperature linked to internal climate variability","N Li, **S Sippel**, N Linscheid, C Rödenbeck, AJ Winkler, M Reichstein, ...","Science Advances",2024
 "AI for Extreme Event Modeling and Understanding: Methodologies and Challenges","G Camps-Valls, MÁ Fernández-Torres, KH Cohrs, A Höhl, A Castelletti, ...","arXiv preprint arXiv:",2024
+"Enhanced global carbon cycle sensitivity to tropical temperature linked to internal climate variability","N Li, **S Sippel**, N Linscheid, C Rödenbeck, AJ Winkler, M Reichstein, ...","Science advances",2024
 "A distinct role for aerosol and GHG forcing in historical CMIP6 evapotranspiration trends","M Egli, V Humphrey, **S Sippel**, R Knutti","Earth's Future",2024
-"Finding the right XAI method—A guide for the evaluation and ranking of explainable AI methods in climate science","**PL Bommer**, **M Kretschmer**, A Hedström, D Bareeva, MMC Höhne","Artificial Intelligence for the Earth Systems",2024
+"Finding the right XAI method—a guide for the evaluation and ranking of explainable AI methods in climate science","**PL Bommer**, **M Kretschmer**, A Hedström, D Bareeva, MMC Höhne","Artificial Intelligence for the Earth Systems",2024
 "Artificial intelligence for climate prediction of extremes: State of the art, challenges, and future perspectives","S Materia, LP García, C van Straaten, S O, A Mamalakis, L Cavicchia, ...","Wiley Interdisciplinary Reviews: Climate Change",2024
 "Regional climate change: consensus, discrepancies, and ways forward","TA Shaw, PA Arias, M Collins, D Coumou, A Diedhiou, CI Garfinkel, ...","Frontiers in climate",2024
 "Northern Hemisphere stratosphere‐troposphere circulation change in CMIP6 models: 2. Mechanisms and sources of the spread","AY Karpechko, Z Wu, IR Simpson, **M Kretschmer**, H Afargan‐Gerstman, ...","Journal of Geophysical Research: Atmospheres",2024
@@ -32,23 +33,21 @@
 "The influence of future changes in springtime Arctic ozone on stratospheric and surface climate","**M Friedel**, G Chiodo, S Seeber, A Stenke","ETH Zurich",2023
 "Timeslice simulations for the year 2075 simulated with SOCOL-MPIOM and WACCM4","**M Friedel**, G Chiodo, S Seeber","ETH Zurich",2023
 "Heat extremes in Western Europe increasing faster than simulated due to atmospheric circulation trends","R Vautard, J Cattiaux, T Happé, J Singh, R Bonnet, C Cassou, D Coumou, ...","Nature Communications",2023
-"Storylines for unprecedented heatwaves based on ensemble boosting","EM Fischer, U Beyerle, L Bloin-Wibe, C Gessner, V Humphrey, F Lehner, ...","Nature communications",2023
+"Storylines for unprecedented heatwaves based on ensemble boosting","EM Fischer, U Beyerle, L Bloin-Wibe, C Gessner, V Humphrey, F Lehner, ...","Nature Communications",2023
 "A joint framework for studying compound ecoclimatic events","A Bastos, **S Sippel**, D Frank, MD Mahecha, S Zaehle, J Zscheischler, ...","Nature Reviews Earth & Environment",2023
 "The effect of a short observational record on the statistics of temperature extremes","J Zeder, **S Sippel**, OC Pasche, S Engelke, EM Fischer","Geophysical Research Letters",2023
 "Circulation dampened heat extremes intensification over the Midwest USA and amplified over Western Europe","J Singh, **S Sippel**, EM Fischer","Communications Earth & Environment",2023
 "Robust global detection of forced changes in mean and extreme precipitation despite observational disagreement on the magnitude of change","IE de Vries, **S Sippel**, AG Pendergrass, R Knutti","Earth System Dynamics",2023
 "Identifying climate models based on their daily output using machine learning","L Brunner, **S Sippel**","Environmental Data Science",2023
-"Heat extremes in Western Europe are increasing faster than simulated due to missed atmospheric circulation changes","R Vautard, J Cattiaux, T Happé, J Singh, R Bonnet, C Cassou, D Coumou, ...","Review, https://doi. org/",2023
 "An extreme cold Central European winter such as 1963 is unlikely but still possible despite climate change","**S Sippel**, C Barnes, C Cadiou, E Fischer, S Kew, **M Kretschmer**, S Philip, ...","EGUsphere",2023
 "Artificial intelligence for prediction of climate extremes: State of the art, challenges and future perspectives","S Materia, LP García, C van Straaten, A Mamalakis, L Cavicchia, ...","arXiv preprint arXiv:",2023
 "Seasonal seed scenario planning: co-design of a generic framework for matching seed supply and demand using seasonal climate forecasts","J Steinke, B Ortiz-Crespo, J van Etten, GD Borman, M Hassena, ...","Climate Services",2023
 "Evaluation of explainable AI solutions in climate science","P Bommer, **M Kretschmer**, A Hedstroem, D Bareeva, MMC Hoehne","EGU General Assembly Conference Abstracts, EGU-",2023
 "Assembling the climate story: use of storyline approaches in climate‐related science","E Baulenas, G Versteeg, M Terrado, **J Mindlin**, D Bojovic","Global Challenges",2023
-"Plausible Drying and Wetting Scenarios for Summer in Southeastern South America","**J Mindlin**, CS Vera, TG Shepherd, M Osman","Journal of Climate",2023
+"Plausible drying and wetting scenarios for summer in southeastern South America","**J Mindlin**, CS Vera, TG Shepherd, M Osman","Journal of Climate",2023
 "Attributing Extreme Weather Events and Mean Climate Change using Dynamical and Event Storylines","L van Garderen, F Feser, **J Mindlin**, T Shepherd","EGU General Assembly Conference Abstracts, EGU-",2023
 "The meta-evaluation problem in explainable AI: identifying reliable estimators with MetaQuantus","A Hedström, P Bommer, KK Wickstrøm, W Samek, S Lapuschkin, ...","arXiv preprint arXiv:",2023
 "Risks of synchronized low yields are underestimated in climate and crop model projections","K Kornhuber, C Lesk, CF Schleussner, J Jägermeyr, **P Pfleiderer**, ...","Nature Communications",2023
-"Overconfidence in climate overshoot","CF Schleussner, G Ganti, Q Lejeune, B Zhu, **P Pfleiderer**, R Prütz, P Ciais, ...","Authorea Preprints",2023
 "No going back-Limited reversibility of regional climate changes under overshoot","**P Pfleiderer**, CF Schleussner, J Sillmann","Authorea Preprints",2023
 "The economics of climate change with endogenous preferences","L Mattauch, C Hepburn, **F Spuler**, N Stern","Resource and Energy Economics",2022
 "Springtime arctic ozone depletion forces northern hemisphere climate anomalies","**M Friedel**, G Chiodo, A Stenke, DIV Domeisen, S Fueglistaler, JG Anet, ...","Nature Geoscience",2022
@@ -56,7 +55,7 @@
 "Exploring the link between austral stratospheric polar vortex anomalies and surface climate in chemistry-climate models","N Bergner, **M Friedel**, DIV Domeisen, D Waugh, G Chiodo","Atmospheric Chemistry and Physics",2022
 "Model results for"" Robust effect of springtime Arctic ozone depletion on surface climate"", part 2: Data for SOCOL-MPIOM","**M Friedel**, G Chiodo","ETH Zurich",2022
 "Ozone depletion over the Arctic affects spring climate in the Northern Hemisphere","**M Friedel**, G Chiodo","Nature Geoscience",2022
-"On the Robustness of the Surface Response to Austral Stratospheric Polar Vortex Extremes.","N Bergner, **M Friedel**, DIV Domeisen, D Waugh, G Chiodo","Atmospheric Chemistry & Physics Discussions",2022
+"On the Robustness of the Surface Response to Austral Stratospheric Polar Vortex Extremes","N Bergner, **M Friedel**, DIV Domeisen, D Waugh, G Chiodo","Atmospheric Chemistry and Physics Discussions",2022
 "Climatic and soil factors explain the two-dimensional spectrum of global plant trait variation","JS Joswig, C Wirth, MC Schuman, J Kattge, B Reu, IJ Wright, SD Sippel, ...","Nature ecology & evolution",2022
 "Physics-aware nonparametric regression models for Earth data analysis","J Cortés-Andrés, G Camps-Valls, **S Sippel**, E Székely, D Sejdinovic, ...","Environmental Research Letters",2022
 "Interannual global carbon cycle variations linked to atmospheric circulation variability","N Li, **S Sippel**, AJ Winkler, MD Mahecha, M Reichstein, A Bastos","Earth System Dynamics",2022
@@ -140,11 +139,11 @@
 "From hazard to risk","J Sillmann, S Russo, **S Sippel**, K Alnes","Bulletin of the American Meteorological Society",2018
 "Nonlinear dynamics of river runoff elucidated by horizontal visibility graphs","H Lange, **S Sippel**, OA Rosso","Chaos: An Interdisciplinary Journal of Nonlinear Science",2018
 "More-persistent weak stratospheric polar vortex states linked to cold extremes","**M Kretschmer**, D Coumou, L Agel, M Barlow, E Tziperman, J Cohen","Bulletin of the American Meteorological Society",2018
-"The different stratospheric influence on cold-extremes in Eurasia and North America","**M Kretschmer**, J Cohen, V Matthias, J Runge, D Coumou","npj Climate and Atmospheric Science",2018
+"The different stratospheric influence on cold-extremes in Eurasia and North America","**M Kretschmer**, J Cohen, V Matthias, J Runge, D Coumou","NPJ climate and atmospheric science",2018
 "Arctic change and possible influence on mid-latitude climate and weather: a US CLIVAR White Paper","J Cohen, X Zhang, J Francis, T Jung, R Kwok, J Overland, T Ballinger, ...","US CLIVAR reports",2018
 "The different stratospheric influence on cold-extremes in Eurasia and North America. npj Climate and Atmospheric Science, 1, 44","**M Kretschmer**, J Cohen, V Matthias, J Runge, D Coumou","URL https://doi. org/",2018
 "Reflective stratospheric polar vortex pattern linked to North American cold-extremes","**M Kretschmer**, J Cohen, J Runge, D Coumou","EGU General Assembly Conference Abstracts",2018
-"A climatology of the annual cycle of river discharges into the Brazilian continental shelves: from seasonal to interannual variability","J Carvalho Oliveira, W Aguiar, M Cirano, F Genz, FN Amorim","Environmental Earth Sciences",2018
+"A climatology of the annual cycle of river discharges into the Brazilian continental shelves: from seasonal to interannual variability","J Carvalho Oliveira, W Aguiar, M Cirano, F Genz, FN Amorim","Environmental earth sciences",2018
 "1.5 C hotspots: climate hazards, vulnerabilities, and impacts","CF Schleussner, D Deryng, S D'haen, W Hare, T Lissner, M Ly, A Nauels, ...","Annual Review of Environment and Resources",2018
 "Quantification of temperature persistence over the Northern Hemisphere land-area","**P Pfleiderer**, D Coumou","Climate Dynamics",2018
 "Global mean temperature indicators linked to warming levels avoiding climate risks","**P Pfleiderer**, CF Schleussner, M Mengel, J Rogelj","Environmental Research Letters",2018
@@ -159,6 +158,7 @@
 "Reverse engineering model structures for soil and ecosystem respiration: The potential of gene expression programming","I Ilie, P Dittrich, N Carvalhais, M Jung, A Heinemeyer, M Migliavacca, ...","Geoscientific Model Development",2017
 "Climate extremes and their impact on ecosystem-atmosphere interactions","SD Sippel","ETH Zurich",2017
 "Early prediction of extreme stratospheric polar vortex states based on causal precursors","**M Kretschmer**, J Runge, D Coumou","Geophysical research letters",2017
+"Detecting causal associations in large nonlinear time series datasets","J Runge, P Nowack, **M Kretschmer**, S Flaxman, D Sejdinovic","arXiv preprint arXiv:",2017
 "Disentangling Causal Pathways of the Stratospheric Polar Vortex: A Machine Learning Approach","**M Kretschmer**","Universität Potsdam",2017
 "In the observational record half a degree matters","CF Schleussner, **P Pfleiderer**, EM Fischer","Nature Climate Change",2017
 "A novel bias correction methodology for climate impact simulations","**S Sippel**, FEL Otto, M Forkel, MR Allen, BP Guillod, M Heimann, ...","Earth System Dynamics",2016
