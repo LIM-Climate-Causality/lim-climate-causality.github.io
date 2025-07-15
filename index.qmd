@@ -77,6 +77,11 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 
 :::
 
+# Projects {#projects}
+
+- Project 1
+- Project 2
+
 ---
 
 # People {#people}
@@ -300,7 +305,7 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 </div>
 </section>
 
-Former Team members:
+# Former Team members:
 
 - Nelly Pomnitz
 
