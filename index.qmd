@@ -317,6 +317,18 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 </div>
 </div>
 
+<!--Juliana -->
+<div class="team-member">
+<a href="people/juliana/index.qmd">
+<img src="images/people/juliana.jpg" alt="Juliana Neild">
+</a>
+<h3>Juliana<br>Neild </h3>
+<p>Research Assistant</p>
+<div class="social-icons">
+
+</div>
+</div>
+
 
 <!-- Team member -->
 
