@@ -2,9 +2,7 @@
 title: Climate Impacts
 ---
 
-<div style="max-width: 400px;">
-  <img src="/research/impacts/regional.png" alt="Anomalies in Leaf Area Index in the 30 days after a Sudden Stratospheric Warming event. The brown color illustrates negative anomalies, thus decreased plant growth.">
-</div>
+![Anomalies in Leaf Area Index in the 30 days after a Sudden Stratospheric Warming event. The brown color illustrates negative anomalies, thus decreased plant growth.](/research/impacts/regional.png)
 
 **The challenge**: Ultimately, climate variability and extreme weather events affect people and ecosystems through their impacts — on human health, energy systems, agriculture, and ecological functioning. Understanding and quantifying these impacts is essential for effective adaptation and risk management. However, linking climate variability and extremes to real-world impacts is scientifically challenging. Impacts depend not only on the physical hazard, but also on vulnerability and exposure, which are often independent of climate and can be difficult to quantify. Moreover, different types of variability and extremes (e.g., duration, intensity, spatial scale) can drive different kinds of impacts. Estimating those impacts can involve both statistical approaches and process-based models, each with strengths and limitations — and both requiring careful validation against observational or empirical impact data.
 
