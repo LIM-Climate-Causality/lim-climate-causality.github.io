@@ -33,7 +33,6 @@ website:
             text: "Contact"
           - href: tenders/index.qmd
             text: "Open Positions"
-
       - href: https://github.com/LIM-Climate-Causality/lim-climate-causality.github.io
         icon: github
 
@@ -50,12 +49,12 @@ website:
       - text: Copyright © ClimCA 2025
 
 
-  announcement:
-    icon: lightbulb-fill
-    dismissable: true
-    content: "New open positions available! [Click here to check them out](tenders/index.qmd)."
-    type: secondary
-    position: above-navbar
+#  announcement:
+#    icon: lightbulb-fill
+#    dismissable: true
+#    content: "New open positions available! [Click here to check them out](tenders/index.qmd)."
+#    type: secondary
+#    position: above-navbar
 
 format:
   html:

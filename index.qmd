@@ -77,10 +77,28 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 
 :::
 
+---
+
 # Projects {#projects}
 
-- Project 1
-- Project 2
+## Jun - Prof. Dr. Marlene Kretschmer
+
+<ul style="margin: 0; padding-left: 0; list-style-position: outside; text-align: left;">
+- [AC<sup>3</sup>: Arctic Amplification: Climate Relevant Atmospheric and Surface Processes and Feedback Mechanisms](https://ac3-tr.com)
+- [EXPECT: Explaining and predicting climate changes and extremes](https://expect-project.eu)
+- [XAIDA: eXtreme events: Artificial Intelligence for Detection and Attribution](https://xaida.eu)
+</ul>
+
+
+## Jun - Prof. Dr. Sebastian Sippel
+
+<ul style="margin: 0; padding-left: 0; list-style-position: outside; text-align: left;">
+- [CLIMXTREME: Climate Change and Extreme Events](https://www.climxtreme.de/index.html)
+- [XAIDA: eXtreme events: Artificial Intelligence for Detection and Attribution](https://xaida.eu)
+- [AI4PEX: Artificial Intelligence for enhanced representation of processes and extremes in Earth System Models](https://ai4pex.org)
+- [ECO-N: Economics of Connected Natural Commons](https://www.uni-leipzig.de/en/economics-of-connected-natural-commons)
+- [Heinz Maier-Leibnitz Price of the DFG](https://www.dfg.de/de/gefoerderte-projekte/preistraeger-innen/leibnitz-preis/2024)
+</ul>
 
 ---
 
@@ -305,9 +323,21 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 </div>
 </section>
 
-# Former Team members:
+# Former Group members
 
-- Nelly Pomnitz
+<!-- <ul style="margin: 0; padding-left: 10; list-style-position: outside; text-align: left;">-->
+<ul style="
+    display: inline-block;
+    margin: 0 auto;
+    padding-left: 0.3em;
+    list-style-position: outside;
+    text-align: left;
+">
+  <li>Bjarne Biskamp</li>
+  <li>Xuebang Liu</li>
+  <li>Nadine Theisen</li>
+  <li>Nelly Pomnitz</li>
+</ul> 
 
 ---
 

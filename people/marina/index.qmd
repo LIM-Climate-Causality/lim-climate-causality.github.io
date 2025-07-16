@@ -1,0 +1,113 @@
+---
+title: Dr. Marina Friedel
+description: Postdoctoral Researcher
+image: images/people/marina.jpg
+---
+
+<div class="person-tags">
+  <a href="/research/teleconnections/index.qmd" class="tag">Teleconnections and Regional Climate Change</a>
+  <a href="/research/causality/index.qmd" class="tag">Causal Data Science</a>
+  <a href="/research/extremes/index.qmd" class="tag">Extreme Weather and Climate Events</a>
+</div>
+
+
+<div class="profile-container">
+<div class="profile-image-container">
+<img src="/images/people/marina.jpg" class="profile-image">
+<div class="social-icons">
+  <a href="mailto:marina.friedel@uni-leipzig.de" target="_blank">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+  <a href="https://orcid.org/0000-0001-7739-4691" target="_blank">
+    <i class="fa-brands fa-orcid"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/marina-friedel-b71680173/" target="_blank">
+    <i class="fa-brands fa-linkedin"></i>
+  </a>
+</div>
+</div>
+
+<div class="bio-content">
+
+## Bio  
+
+I am a trained physicist with a background in cosmology and medical physics, but my passion for tackling global challenges led me into climate science during my PhD at ETH Zurich. Beyond research, I am passionate about science communication, making complex topics accessible to a broader audience. In my free time, I seek out the outdoors whenever possible or enjoy a good book with a great cup of coffee.
+
+
+</div>
+</div>
+
+## Research Interests
+
+My research focuses on large-scale atmospheric dynamics and their influence on regional climate, with a particular emphasis on droughts. I aim to uncover the causal chains behind extreme events, employing statistical methods and machine learning to improve our understanding of these phenomena and refine model projections of extreme events at a regional scale, providing actionable data to support climate adaptation and resilience strategies. Additionally, I am interested in interactions between the ozone layer and climate, examining both interannual variability and long-term trends.
+
+## Curriculum Vitae <span class="cv-toggle" data-bs-toggle="collapse" data-bs-target="#cv-timeline" aria-expanded="false"></span>
+
+<div id="cv-timeline" class="collapse">
+<div class="timeline">
+<div class="timeline-item">
+<div class="timeline-date">July 2024 - Present</div>
+<div class="timeline-content">
+<h3>Research Scientist</h3>
+<p>Leipzig University, Institute for Meteorology, Germany</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">June 2023 - October 2023</div>
+<div class="timeline-content">
+<h3>Research Scientist</h3>
+<p>ETH Zurich, Institute for Atmospheric and Climate Science, Switzerland</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">October 2019 - May 2023</div>
+<div class="timeline-content">
+<h3>PhD in Environmental System Science</h3>
+<p>ETH Zurich, Institute for Atmospheric and Climate Science, Switzerland</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">October 2013 - May 2019</div>
+<div class="timeline-content">
+<h3>Bachelor and Master in Physics</h3>
+<p>University of Tubingen, Germany</p>
+</div>
+</div>
+</div>
+</div>
+
+
+## Selected Publications
+
+
+<div class="publications-grid">
+
+<div class="publication-card">
+<a href="https://doi.org/10.5194/acp-23-10235-2023" target="_blank">
+<h3>Weakening of springtime Arctic ozone depletion with climate change</h3>
+<p><b>Author(s):</b> M. Friedel et al.</p>
+<p><i>Atmospheric Chemistry and Physics, 2023</i></p>
+</a>
+</div>
+
+<div class="publication-card">
+<a href="https://doi.org/10.1038/s41561-022-00974-7" target="_blank">
+<h3>Springtime arctic ozone depletion forces northern hemisphere climate anomalies</h3>
+<p><b>Author(s):</b> M. Friedel et al.</p>
+<p><i>Nature Geoscience, 2022</i></p>
+</a>
+</div>
+
+<div class="publication-card">
+<a href="https://doi.org/10.5194/acp-22-13997-2022" target="_blank">
+<h3>Effects of Arctic ozone on the stratospheric spring onset and its surface impact</h3>
+<p><b>Author(s):</b> M. Friedel et al.</p>
+<p><i>Atmospheric Chemistry and Physics, 2022</i></p>
+</a>
+</div>
+
+
+</div>
