@@ -41,7 +41,7 @@ My research currently focuses on using attribution methods to understand how hum
 <div id="cv-timeline" class="collapse">
 <div class="timeline">
 <div class="timeline-item">
-<div class="timeline-date">2025 - Present</div>
+<div class="timeline-date">2021 - 2024</div>
 <div class="timeline-content">
 <h3>BSc (Honours), Earth Sciences</h3>
 <p>The University of Melbourne, Australia</p>
