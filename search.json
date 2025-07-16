@@ -217,32 +217,137 @@
     "text": "Selected Publications\n\n\n\n\nWeakening of springtime Arctic ozone depletion with climate change\n\n\nAuthor(s): M. Friedel et al.\n\n\nAtmospheric Chemistry and Physics, 2023\n\n\n\n\n\n\nSpringtime arctic ozone depletion forces northern hemisphere climate anomalies\n\n\nAuthor(s): M. Friedel et al.\n\n\nNature Geoscience, 2022\n\n\n\n\n\n\nEffects of Arctic ozone on the stratospheric spring onset and its surface impact\n\n\nAuthor(s): M. Friedel et al.\n\n\nAtmospheric Chemistry and Physics, 2022"
   },
   {
-    "objectID": "people/florian/index.html",
-    "href": "people/florian/index.html",
-    "title": "Florian Kraulich",
+    "objectID": "people/julius/index.html",
+    "href": "people/julius/index.html",
+    "title": "Julius Mex",
     "section": "",
-    "text": "Causal Data Science Extreme Weather and Climate Events"
+    "text": "Teleconnections and Regional Climate Change Causal Data Science"
   },
   {
-    "objectID": "people/florian/index.html#bio",
-    "href": "people/florian/index.html#bio",
-    "title": "Florian Kraulich",
-    "section": "Bio",
-    "text": "Bio\nI am a trained meteorologist with a focus on climate. During my studies, I spent semesters abroad on Svalbard (Norway) and in Lisbon (Portugal), which deepened my interest in climate dynamics, oceanography, and Arctic amplification. In my free time, I enjoy running, spending time outdoors, and traveling."
-  },
-  {
-    "objectID": "people/florian/index.html#research-interests",
-    "href": "people/florian/index.html#research-interests",
-    "title": "Florian Kraulich",
+    "objectID": "people/julius/index.html#research-interests",
+    "href": "people/julius/index.html#research-interests",
+    "title": "Julius Mex",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research focuses on attributing anthropogenic forcings to heat extremes. In particular, I aim to quantify the effects of aerosols on heatwaves."
+    "text": "Research Interests\nMy research aims to understand the large scale drivers of regional climate change and the interaction of the forced response with internal variability. In my work I make use of the physical climate storyline approach and extend it to include internal variability to understand, constrain and explain uncertainty in climate projections."
   },
   {
-    "objectID": "people/florian/index.html#curriculum-vitae",
-    "href": "people/florian/index.html#curriculum-vitae",
-    "title": "Florian Kraulich",
+    "objectID": "people/julius/index.html#curriculum-vitae",
+    "href": "people/julius/index.html#curriculum-vitae",
+    "title": "Julius Mex",
     "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\nJanuary 2024 - Present\n\n\n\nDoctoral Researcher\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nSeptember 2023 - December 2023\n\n\n\nResearch Assistant\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nSeptember 2020 - June 2021\n\n\n\nStudy Abroad\n\n\nUniversity of Lisbon, Portugal\n\n\n\n\n\nAugust 2018 - December 2018\n\n\n\nStudy Abroad\n\n\nThe University Centre in Svalbard, Norway\n\n\n\n\n\nOctober 2016 - October 2022\n\n\n\nBachelor and Master’s in Meteorology\n\n\nLeipzig University, Germany"
+    "text": "Curriculum Vitae \n\n\n\n\n2024 - Present\n\n\n\nResearch Assistant\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\n2021 - 2024\n\n\n\nMaster in Climate Science\n\n\nEcole Normale Superieure Paris\n\n\n\n\n\n2023\n\n\n\nVisiting Student in Climate Physics\n\n\nUniversity of Bologna\n\n\n\n\n\n2018 - 2021\n\n\n\nBachelor in Physics\n\n\nUniversity of Cambridge"
+  },
+  {
+    "objectID": "people/sujata/index.html",
+    "href": "people/sujata/index.html",
+    "title": "Sujata Kulkarni",
+    "section": "",
+    "text": "Teleconnections and Regional Climate Change Causal Data Science Extreme Weather and Climate Events"
+  },
+  {
+    "objectID": "people/sujata/index.html#bio",
+    "href": "people/sujata/index.html#bio",
+    "title": "Sujata Kulkarni",
+    "section": "Bio",
+    "text": "Bio\nI am a Civil Engineer with a master’s in water resources engineering from the Indian Institute of Technology (IIT) Gandhinagar. Currently, I am pursuing my doctoral research at Dept. Of Hydrology, IIT Roorkee and am a DAAD visiting scholar at Climate Causality Group. My research focuses on the Indian summer monsoon, with a particular interest in understanding and quantifying polar-tropical teleconnection patterns to improve the predictability of monsoon variability and its extremes."
+  },
+  {
+    "objectID": "people/sujata/index.html#research-interests",
+    "href": "people/sujata/index.html#research-interests",
+    "title": "Sujata Kulkarni",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research focuses on the Indian summer monsoon and its teleconnections, particularly how Arctic amplification influences monsoon variability. I aim to uncover the underlying causal mechanisms that drive these long-range climate interactions, going beyond correlations to identify directional influences and feedback loops in the climate system. To address these questions, I apply tools from complex network science, which allow the representation of climate systems as networks of interacting components to understand emergent structures and pathways. In combination with causal inference techniques , I work to disentangle the multi-scale drivers of Indian summer monsoon and improve our ability to predict extreme events."
+  },
+  {
+    "objectID": "people/sujata/index.html#selected-publications",
+    "href": "people/sujata/index.html#selected-publications",
+    "title": "Sujata Kulkarni",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\n\n\n\nArctic sea ice variability and its multiscale association with Indian summer monsoon rainfall at different time scales\n\n\nAuthor(s): Kulkarni, S., & Agarwal, A.\n\n\nJournal of Hydrology, 2025\n\n\n\n\n\n\nTracing spatiotemporal changes in agricultural and non-agricultural trade networks of India\n\n\nAuthor(s): Kulkarni, S, and Agarwal, A. .\n\n\nPlos one 18.9 , 2023\n\n\n\n\n\n\nQuantifying the association between Arctic Sea ice extent and Indian precipitation.\n\n\nAuthor(s): Kulkarni, S., & Agarwal, A.\n\n\nInternational Journal of Climatology, 2023"
+  },
+  {
+    "objectID": "people/julia/index.html",
+    "href": "people/julia/index.html",
+    "title": "Julia Mindlin",
+    "section": "",
+    "text": "Teleconnections and Regional Climate Change Causal Data Science"
+  },
+  {
+    "objectID": "people/julia/index.html#bio",
+    "href": "people/julia/index.html#bio",
+    "title": "Julia Mindlin",
+    "section": "Bio",
+    "text": "Bio\nMy interest in science was always motivated by the thrill of learning from Nature. While doing my degree in Geophysics I discovered that physics and maths were a way of being in contact with Nature in a very fun way; learning how to link abstract reasoning, models and observations to better understand the would that we live was really fun during those years. During my PhD I decided to combine the tools that I gained with a very personal interest in understanding the uncertainties related to climate change. For me, being able to understand the response of the climate system to human activities and being able to prepare for it is really important. During my postdoc I am focusing on incorporating new analytical tools as well as trying to understand near term predictions. I really enjoy supervision and mentoring, teaching and studying. Outside work I love spending time with friends and family, playing music and doing sports."
+  },
+  {
+    "objectID": "people/julia/index.html#research-interests",
+    "href": "people/julia/index.html#research-interests",
+    "title": "Julia Mindlin",
+    "section": "Research Interests",
+    "text": "Research Interests\nI’m interested in how large scale variability and change can influence regional climate. In particular, I am interested in South America because it is the region where I grew up. However, this initial interest has led to a general interest in large scale circulation dynamics of the Southern Hemisphere and its remote drivers, such as tropical modes of variability such as El Nino Southern Oscillation and the Indian Ocean Dipole and the stratosphere."
+  },
+  {
+    "objectID": "people/julia/index.html#curriculum-vitae",
+    "href": "people/julia/index.html#curriculum-vitae",
+    "title": "Julia Mindlin",
+    "section": "Curriculum Vitae ",
+    "text": "Curriculum Vitae \n\n\n\n\nApril 2024 - Present\n\n\n\nPostdoctoral Researcher\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nAugust 2023 - Present\n\n\n\nAssistant Professor (currently on unpaid leave)\n\n\nUniversity of Buenos Aires\n\n\n\n\n\nSeptember 2019 - March 2024\n\n\n\nDoctoral Researcher\n\n\nUniversity de Buenos Aires, Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)\n\n\n\n\n\nApril 2018 - March 2019\n\n\n\nUndergraduate Intern\n\n\nYPF S.A.\n\n\n\n\n\nAugust 2018 - August 2019\n\n\n\nTeachers Assistant\n\n\nNational University of La Plata (UNLP)\n\n\n\n\n\nApril 2013 - April 2019\n\n\n\nDegree in Geophysics\n\n\nNational University of La Plata (UNLP)"
+  },
+  {
+    "objectID": "people/richard/index.html",
+    "href": "people/richard/index.html",
+    "title": "Richard Alawode",
+    "section": "",
+    "text": "Teleconnections and Regional Climate Change Extreme Weather and Climate Events Causal Data Science"
+  },
+  {
+    "objectID": "people/richard/index.html#bio",
+    "href": "people/richard/index.html#bio",
+    "title": "Richard Alawode",
+    "section": "Bio",
+    "text": "Bio\nI am a passionate Research Data Scientist with a strong foundation in environmental physics, data analysis, and climate modeling. My research interests lie at the intersection of atmospheric science, climate modeling, and data science, aiming to tackle pressing global challenges like climate change."
+  },
+  {
+    "objectID": "people/richard/index.html#research-interests",
+    "href": "people/richard/index.html#research-interests",
+    "title": "Richard Alawode",
+    "section": "Research Interests",
+    "text": "Research Interests\nI am engaged in the development of a Python-based package for climate storylines, enabling the exploration of forced responses in large-scale remote drivers such as Arctic Amplification and the stratospheric polar vortex. My work bridges scientific insights with practical tools to advance our understanding of climate systems."
+  },
+  {
+    "objectID": "people/richard/index.html#curriculum-vitae",
+    "href": "people/richard/index.html#curriculum-vitae",
+    "title": "Richard Alawode",
+    "section": "Curriculum Vitae ",
+    "text": "Curriculum Vitae \n\n\n\n\nSeptember 2024 - Present\n\n\n\nResearch Data Scientist\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nMay 2023\n\n\n\nM. Sc. in Environmental Physics\n\n\nUniversity of Bremen, Germany\n\n\n\n\n\nMarch 2022 - July 2022\n\n\n\nResearch Assistant\n\n\nGerman Aerospace Centre, Göttingen, Germany\n\n\n\n\n\n2010 - 2016\n\n\n\nBachelor Tech. in Physics with Electronics\n\n\nFederal University of Technology, Minna, Nigeria"
+  },
+  {
+    "objectID": "people/istvan/index.html",
+    "href": "people/istvan/index.html",
+    "title": "István Dunkl",
+    "section": "",
+    "text": "Detection and Attribution Extreme Weather and Climate Events"
+  },
+  {
+    "objectID": "people/istvan/index.html#bio",
+    "href": "people/istvan/index.html#bio",
+    "title": "István Dunkl",
+    "section": "Bio",
+    "text": "Bio\nI am a researcher with a diverse academic background that includes organic agriculture, soil science, population ecology, and ecological modeling. I completed my PhD in Earth System Science, where I worked on the predictability of the terrestrial carbon cycle. In my free time, I am passionate about urban transformation, crafting, and open-source initiatives."
+  },
+  {
+    "objectID": "people/istvan/index.html#research-interests",
+    "href": "people/istvan/index.html#research-interests",
+    "title": "István Dunkl",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy work at Leipzig University is focused on the attribution of trends and anomalies in the water and carbon cycle. We have set up a storyline attribution framework based on nudging the Community Earth System Model 2 to circulation patterns from reanalysis data. I’m especially interested in the interactions between dynamical and thermodynamical conditions and the indirect effects of CO2 fertilization on climate. Our long-term goal is to build a framework for the timely attribution of land carbon cycle anomalies."
+  },
+  {
+    "objectID": "people/istvan/index.html#selected-publications",
+    "href": "people/istvan/index.html#selected-publications",
+    "title": "István Dunkl",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\n\n\n\nCompensatory effects conceal large uncertainties in the modelled processes behind the relationship between the El Niño–Southern Oscillation (ENSO) and CO2\n\n\nAuthor(s): István Dunkl, Ana Bastos, Tatiana, Ilyina\n\n\nEarth System Dynamics, 2025\n\n\n\n\n\n\nGross primary productivity and the predictability of CO2: more uncertainty in what we predict than how well we predict it\n\n\nAuthor(s): István Dunkl, Nicole Lovenduski, Alessio Collalti, Vivek K. Arora, Tatiana Ilyina, Victor Brovkin\n\n\nBiogeosciences, 2023\n\n\n\n\n\n\nProcess-based analysis of terrestrial carbon flux predictability\n\n\nAuthor(s): István Dunkl, Aaron Spring, Pierre Friedlingstein, Victor Brovkin\n\n\nEarth System Dynamics, 2021"
   },
   {
     "objectID": "people/peter/index.html",
@@ -280,137 +385,60 @@
     "text": "Selected Publications\n\n\n\n\nReversal of the impact chain for actionable climate information\n\n\nAuthor(s): Pfleiderer et al.\n\n\nNature geoscience, 2025\n\n\n\n\n\n\nLimited reversal of regional climate signals in overshoot scenarios\n\n\nAuthor(s): Peter Pfleiderer, Carl-Friedrich Schleussner, Jana Sillmann\n\n\nEnvironmental Research: Climate, 2024\n\n\n\n\n\n\nExtreme Atlantic hurricane seasons made twice as likely by ocean warming\n\n\nAuthor(s): Peter Pfleiderer, Shruti Nath, Carl-Friedrich Schleussner\n\n\nWeather and Climate Dynamcis, 2022\n\n\n\n\n\n\nSimulating compound weather extremes responsible for critical crop failure with stochastic weather generators\n\n\nAuthor(s): Peter Pfleiderer et al.\n\n\nEarth System Dynamics, 2021\n\n\n\n\n\n\nSummer weather becomes more persistent in a 2 °C world\n\n\nAuthor(s): Peter Pfleiderer, Carl-Friedrich Schleussner, Kai Kornhuber, Dim Coumou\n\n\nNature Climate Change, 2019\n\n\n\n\n\n\nIncreasing risks of apple tree frost damage under climate change\n\n\nAuthor(s): Peter Pfleiderer, Inga Menke, Carl-Friedrich Schleussner\n\n\nClimatic Change, 2019"
   },
   {
-    "objectID": "people/istvan/index.html",
-    "href": "people/istvan/index.html",
-    "title": "István Dunkl",
+    "objectID": "people/florian/index.html",
+    "href": "people/florian/index.html",
+    "title": "Florian Kraulich",
+    "section": "",
+    "text": "Causal Data Science Extreme Weather and Climate Events"
+  },
+  {
+    "objectID": "people/florian/index.html#bio",
+    "href": "people/florian/index.html#bio",
+    "title": "Florian Kraulich",
+    "section": "Bio",
+    "text": "Bio\nI am a trained meteorologist with a focus on climate. During my studies, I spent semesters abroad on Svalbard (Norway) and in Lisbon (Portugal), which deepened my interest in climate dynamics, oceanography, and Arctic amplification. In my free time, I enjoy running, spending time outdoors, and traveling."
+  },
+  {
+    "objectID": "people/florian/index.html#research-interests",
+    "href": "people/florian/index.html#research-interests",
+    "title": "Florian Kraulich",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research focuses on attributing anthropogenic forcings to heat extremes. In particular, I aim to quantify the effects of aerosols on heatwaves."
+  },
+  {
+    "objectID": "people/florian/index.html#curriculum-vitae",
+    "href": "people/florian/index.html#curriculum-vitae",
+    "title": "Florian Kraulich",
+    "section": "Curriculum Vitae ",
+    "text": "Curriculum Vitae \n\n\n\n\nJanuary 2024 - Present\n\n\n\nDoctoral Researcher\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nSeptember 2023 - December 2023\n\n\n\nResearch Assistant\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nSeptember 2020 - June 2021\n\n\n\nStudy Abroad\n\n\nUniversity of Lisbon, Portugal\n\n\n\n\n\nAugust 2018 - December 2018\n\n\n\nStudy Abroad\n\n\nThe University Centre in Svalbard, Norway\n\n\n\n\n\nOctober 2016 - October 2022\n\n\n\nBachelor and Master’s in Meteorology\n\n\nLeipzig University, Germany"
+  },
+  {
+    "objectID": "people/juliana/index.html",
+    "href": "people/juliana/index.html",
+    "title": "Juliana Neild",
     "section": "",
     "text": "Detection and Attribution Extreme Weather and Climate Events"
   },
   {
-    "objectID": "people/istvan/index.html#bio",
-    "href": "people/istvan/index.html#bio",
-    "title": "István Dunkl",
+    "objectID": "people/juliana/index.html#bio",
+    "href": "people/juliana/index.html#bio",
+    "title": "Juliana Neild",
     "section": "Bio",
-    "text": "Bio\nI am a researcher with a diverse academic background that includes organic agriculture, soil science, population ecology, and ecological modeling. I completed my PhD in Earth System Science, where I worked on the predictability of the terrestrial carbon cycle. In my free time, I am passionate about urban transformation, crafting, and open-source initiatives."
+    "text": "Bio\nI recently completed an Honours degree in Earth Sciences, where my thesis focused on rapid transitions, or ‘whiplashes’, between heatwaves and extreme rainfall as temporally compounding events. I’m interested in climate and weather events that are ecologically and societally meaningful, and in attribution as a way to understand human influence on these. After initially studying a combination of ecology, chemistry, and maths, I was drawn to climate science for the way it brings together these interests whilst addressing some of the most topical real-world issues."
   },
   {
-    "objectID": "people/istvan/index.html#research-interests",
-    "href": "people/istvan/index.html#research-interests",
-    "title": "István Dunkl",
+    "objectID": "people/juliana/index.html#research-interests",
+    "href": "people/juliana/index.html#research-interests",
+    "title": "Juliana Neild",
     "section": "Research Interests",
-    "text": "Research Interests\nMy work at Leipzig University is focused on the attribution of trends and anomalies in the water and carbon cycle. We have set up a storyline attribution framework based on nudging the Community Earth System Model 2 to circulation patterns from reanalysis data. I’m especially interested in the interactions between dynamical and thermodynamical conditions and the indirect effects of CO2 fertilization on climate. Our long-term goal is to build a framework for the timely attribution of land carbon cycle anomalies."
+    "text": "Research Interests\nMy research currently focuses on using attribution methods to understand how human-induced climate change affects extreme rainfall over Central Europe, and what these events may look like in the future."
   },
   {
-    "objectID": "people/istvan/index.html#selected-publications",
-    "href": "people/istvan/index.html#selected-publications",
-    "title": "István Dunkl",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\n\n\n\nCompensatory effects conceal large uncertainties in the modelled processes behind the relationship between the El Niño–Southern Oscillation (ENSO) and CO2\n\n\nAuthor(s): István Dunkl, Ana Bastos, Tatiana, Ilyina\n\n\nEarth System Dynamics, 2025\n\n\n\n\n\n\nGross primary productivity and the predictability of CO2: more uncertainty in what we predict than how well we predict it\n\n\nAuthor(s): István Dunkl, Nicole Lovenduski, Alessio Collalti, Vivek K. Arora, Tatiana Ilyina, Victor Brovkin\n\n\nBiogeosciences, 2023\n\n\n\n\n\n\nProcess-based analysis of terrestrial carbon flux predictability\n\n\nAuthor(s): István Dunkl, Aaron Spring, Pierre Friedlingstein, Victor Brovkin\n\n\nEarth System Dynamics, 2021"
-  },
-  {
-    "objectID": "people/richard/index.html",
-    "href": "people/richard/index.html",
-    "title": "Richard Alawode",
-    "section": "",
-    "text": "Teleconnections and Regional Climate Change Extreme Weather and Climate Events Causal Data Science"
-  },
-  {
-    "objectID": "people/richard/index.html#bio",
-    "href": "people/richard/index.html#bio",
-    "title": "Richard Alawode",
-    "section": "Bio",
-    "text": "Bio\nI am a passionate Research Data Scientist with a strong foundation in environmental physics, data analysis, and climate modeling. My research interests lie at the intersection of atmospheric science, climate modeling, and data science, aiming to tackle pressing global challenges like climate change."
-  },
-  {
-    "objectID": "people/richard/index.html#research-interests",
-    "href": "people/richard/index.html#research-interests",
-    "title": "Richard Alawode",
-    "section": "Research Interests",
-    "text": "Research Interests\nI am engaged in the development of a Python-based package for climate storylines, enabling the exploration of forced responses in large-scale remote drivers such as Arctic Amplification and the stratospheric polar vortex. My work bridges scientific insights with practical tools to advance our understanding of climate systems."
-  },
-  {
-    "objectID": "people/richard/index.html#curriculum-vitae",
-    "href": "people/richard/index.html#curriculum-vitae",
-    "title": "Richard Alawode",
+    "objectID": "people/juliana/index.html#curriculum-vitae",
+    "href": "people/juliana/index.html#curriculum-vitae",
+    "title": "Juliana Neild",
     "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\nSeptember 2024 - Present\n\n\n\nResearch Data Scientist\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nMay 2023\n\n\n\nM. Sc. in Environmental Physics\n\n\nUniversity of Bremen, Germany\n\n\n\n\n\nMarch 2022 - July 2022\n\n\n\nResearch Assistant\n\n\nGerman Aerospace Centre, Göttingen, Germany\n\n\n\n\n\n2010 - 2016\n\n\n\nBachelor Tech. in Physics with Electronics\n\n\nFederal University of Technology, Minna, Nigeria"
-  },
-  {
-    "objectID": "people/julia/index.html",
-    "href": "people/julia/index.html",
-    "title": "Julia Mindlin",
-    "section": "",
-    "text": "Teleconnections and Regional Climate Change Causal Data Science"
-  },
-  {
-    "objectID": "people/julia/index.html#bio",
-    "href": "people/julia/index.html#bio",
-    "title": "Julia Mindlin",
-    "section": "Bio",
-    "text": "Bio\nMy interest in science was always motivated by the thrill of learning from Nature. While doing my degree in Geophysics I discovered that physics and maths were a way of being in contact with Nature in a very fun way; learning how to link abstract reasoning, models and observations to better understand the would that we live was really fun during those years. During my PhD I decided to combine the tools that I gained with a very personal interest in understanding the uncertainties related to climate change. For me, being able to understand the response of the climate system to human activities and being able to prepare for it is really important. During my postdoc I am focusing on incorporating new analytical tools as well as trying to understand near term predictions. I really enjoy supervision and mentoring, teaching and studying. Outside work I love spending time with friends and family, playing music and doing sports."
-  },
-  {
-    "objectID": "people/julia/index.html#research-interests",
-    "href": "people/julia/index.html#research-interests",
-    "title": "Julia Mindlin",
-    "section": "Research Interests",
-    "text": "Research Interests\nI’m interested in how large scale variability and change can influence regional climate. In particular, I am interested in South America because it is the region where I grew up. However, this initial interest has led to a general interest in large scale circulation dynamics of the Southern Hemisphere and its remote drivers, such as tropical modes of variability such as El Nino Southern Oscillation and the Indian Ocean Dipole and the stratosphere."
-  },
-  {
-    "objectID": "people/julia/index.html#curriculum-vitae",
-    "href": "people/julia/index.html#curriculum-vitae",
-    "title": "Julia Mindlin",
-    "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\nApril 2024 - Present\n\n\n\nPostdoctoral Researcher\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nAugust 2023 - Present\n\n\n\nAssistant Professor (currently on unpaid leave)\n\n\nUniversity of Buenos Aires\n\n\n\n\n\nSeptember 2019 - March 2024\n\n\n\nDoctoral Researcher\n\n\nUniversity de Buenos Aires, Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)\n\n\n\n\n\nApril 2018 - March 2019\n\n\n\nUndergraduate Intern\n\n\nYPF S.A.\n\n\n\n\n\nAugust 2018 - August 2019\n\n\n\nTeachers Assistant\n\n\nNational University of La Plata (UNLP)\n\n\n\n\n\nApril 2013 - April 2019\n\n\n\nDegree in Geophysics\n\n\nNational University of La Plata (UNLP)"
-  },
-  {
-    "objectID": "people/sujata/index.html",
-    "href": "people/sujata/index.html",
-    "title": "Sujata Kulkarni",
-    "section": "",
-    "text": "Teleconnections and Regional Climate Change Causal Data Science Extreme Weather and Climate Events"
-  },
-  {
-    "objectID": "people/sujata/index.html#bio",
-    "href": "people/sujata/index.html#bio",
-    "title": "Sujata Kulkarni",
-    "section": "Bio",
-    "text": "Bio\nI am a Civil Engineer with a master’s in water resources engineering from the Indian Institute of Technology (IIT) Gandhinagar. Currently, I am pursuing my doctoral research at Dept. Of Hydrology, IIT Roorkee and am a DAAD visiting scholar at Climate Causality Group. My research focuses on the Indian summer monsoon, with a particular interest in understanding and quantifying polar-tropical teleconnection patterns to improve the predictability of monsoon variability and its extremes."
-  },
-  {
-    "objectID": "people/sujata/index.html#research-interests",
-    "href": "people/sujata/index.html#research-interests",
-    "title": "Sujata Kulkarni",
-    "section": "Research Interests",
-    "text": "Research Interests\nMy research focuses on the Indian summer monsoon and its teleconnections, particularly how Arctic amplification influences monsoon variability. I aim to uncover the underlying causal mechanisms that drive these long-range climate interactions, going beyond correlations to identify directional influences and feedback loops in the climate system. To address these questions, I apply tools from complex network science, which allow the representation of climate systems as networks of interacting components to understand emergent structures and pathways. In combination with causal inference techniques , I work to disentangle the multi-scale drivers of Indian summer monsoon and improve our ability to predict extreme events."
-  },
-  {
-    "objectID": "people/sujata/index.html#selected-publications",
-    "href": "people/sujata/index.html#selected-publications",
-    "title": "Sujata Kulkarni",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\n\n\n\nArctic sea ice variability and its multiscale association with Indian summer monsoon rainfall at different time scales\n\n\nAuthor(s): Kulkarni, S., & Agarwal, A.\n\n\nJournal of Hydrology, 2025\n\n\n\n\n\n\nTracing spatiotemporal changes in agricultural and non-agricultural trade networks of India\n\n\nAuthor(s): Kulkarni, S, and Agarwal, A. .\n\n\nPlos one 18.9 , 2023\n\n\n\n\n\n\nQuantifying the association between Arctic Sea ice extent and Indian precipitation.\n\n\nAuthor(s): Kulkarni, S., & Agarwal, A.\n\n\nInternational Journal of Climatology, 2023"
-  },
-  {
-    "objectID": "people/julius/index.html",
-    "href": "people/julius/index.html",
-    "title": "Julius Mex",
-    "section": "",
-    "text": "Teleconnections and Regional Climate Change Causal Data Science"
-  },
-  {
-    "objectID": "people/julius/index.html#research-interests",
-    "href": "people/julius/index.html#research-interests",
-    "title": "Julius Mex",
-    "section": "Research Interests",
-    "text": "Research Interests\nMy research aims to understand the large scale drivers of regional climate change and the interaction of the forced response with internal variability. In my work I make use of the physical climate storyline approach and extend it to include internal variability to understand, constrain and explain uncertainty in climate projections."
-  },
-  {
-    "objectID": "people/julius/index.html#curriculum-vitae",
-    "href": "people/julius/index.html#curriculum-vitae",
-    "title": "Julius Mex",
-    "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\n2024 - Present\n\n\n\nResearch Assistant\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\n2021 - 2024\n\n\n\nMaster in Climate Science\n\n\nEcole Normale Superieure Paris\n\n\n\n\n\n2023\n\n\n\nVisiting Student in Climate Physics\n\n\nUniversity of Bologna\n\n\n\n\n\n2018 - 2021\n\n\n\nBachelor in Physics\n\n\nUniversity of Cambridge"
+    "text": "Curriculum Vitae \n\n\n\n\n2025 - Present\n\n\n\nBSc (Honours), Earth Sciences\n\n\nThe University of Melbourne, Australia"
   },
   {
     "objectID": "people/julianna/index.html",
