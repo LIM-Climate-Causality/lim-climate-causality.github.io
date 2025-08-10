@@ -4,6 +4,7 @@
 "Flash drought impacts on global ecosystems amplified by extreme heat","L Gu, DL Schumacher, EM Fischer, LJ Slater, J Yin, **S Sippel**, J Chen, ...","Nature Geoscience",2025
 "Combination of internal variability and forced response reconciles observed 2023–2024 warming","G Gyuleva, R Knutti, **S Sippel**","Geophysical Research Letters",2025
 "Estimating the contribution of Arctic sea-ice loss to central Asia temperature anomalies: the case of winter 2020/2021","LR Cosford, R Ghosh, **M Kretschmer**, C Oatley, TG Shepherd","Environmental Research Letters",2025
+"On the link between weather regimes and energy shortfall during winter for 28 European countries","E Rouges, **M Kretschmer**, TG Shepherd","Meteorological Applications",2025
 "Balancing Earth science careers in an unequal world","N Testani, LM Cappelletti, LB Díaz, C Prudente, V Rabanal, **J Mindlin**, ...","Communications Earth & Environment",2025
 "Reversal of the impact chain for actionable climate information","**P Pfleiderer**, TL Frölicher, CM Kropf, RD Lamboll, Q Lejeune, ...","Nature Geoscience",2025
 "State of wildfires 2023–2024","MW Jones, DI Kelley, CA Burton, F Di Giuseppe, MLF Barbosa, ...","Earth System Science Data",2024
@@ -24,7 +25,6 @@
 "Regional climate change: consensus, discrepancies, and ways forward","TA Shaw, PA Arias, M Collins, D Coumou, A Diedhiou, CI Garfinkel, ...","Frontiers in climate",2024
 "Northern Hemisphere stratosphere‐troposphere circulation change in CMIP6 models: 2. Mechanisms and sources of the spread","AY Karpechko, Z Wu, IR Simpson, **M Kretschmer**, H Afargan‐Gerstman, ...","Journal of Geophysical Research: Atmospheres",2024
 "A forensic investigation of climate model biases in teleconnections: The case of the relationship between ENSO and the northern stratospheric polar vortex","X Shen, **M Kretschmer**, TG Shepherd","Journal of Geophysical Research: Atmospheres",2024
-"On the link between weather regimes and energy shortfall during winter for 28 European countries","E Rouges, **M Kretschmer**, TG Shepherd","EarthArXiv",2024
 "Cosy: Evaluating textual explanations of neurons","L Kopf, **PL Bommer**, A Hedström, S Lapuschkin, M Höhne, K Bykov","Advances in Neural Information Processing Systems",2024
 "Overconfidence in climate overshoot","CF Schleussner, G Ganti, Q Lejeune, B Zhu, **P Pfleiderer**, R Prütz, P Ciais, ...","Nature",2024
 "Limited reversal of regional climate signals in overshoot scenarios","**P Pfleiderer**, CF Schleussner, J Sillmann","Environmental Research: Climate",2024
@@ -156,8 +156,8 @@
 "Author Correction: In the observational record half a degree matters","CF Schleussner, **P Pfleiderer**, EM Fischer","Nature Climate Change",2018
 "Refining multi-model projections of temperature extremes by evaluation against land–atmosphere coupling diagnostics","**S Sippel**, J Zscheischler, MD Mahecha, R Orth, M Reichstein, M Vogel, ...","Earth System Dynamics",2017
 "Detecting impacts of extreme events with ecological in situ monitoring networks","MD Mahecha, F Gans, **S Sippel**, JF Donges, T Kaminski, S Metzger, ...","Biogeosciences",2017
-"Contrasting and interacting changes in simulated spring and summer carbon cycle extremes in European ecosystems","**S Sippel**, M Forkel, A Rammig, K Thonicke, M Flach, M Heimann, FEL Otto, ...","Environmental Research Letters",2017
 "Multivariate anomaly detection for Earth observations: a comparison of algorithms and feature extraction techniques","M Flach, F Gans, A Brenning, J Denzler, M Reichstein, E Rodner, ...","Earth System Dynamics",2017
+"Contrasting and interacting changes in simulated spring and summer carbon cycle extremes in European ecosystems","**S Sippel**, M Forkel, A Rammig, K Thonicke, M Flach, M Heimann, FEL Otto, ...","Environmental Research Letters",2017
 "Have precipitation extremes and annual totals been increasing in the world's dry regions over the last 60 years?","**S Sippel**, J Zscheischler, M Heimann, H Lange, MD Mahecha, ...","Hydrology and Earth System Sciences",2017
 "Warm winter, wet spring, and an extreme response in ecosystem functioning on the Iberian Peninsula","**S Sippel**, TS El-Madany, M Migliavacca, MD Mahecha, A Carrara, M Flach, ...","Bulletin of the American Meteorological Society",2017
 "Reverse engineering model structures for soil and ecosystem respiration: The potential of gene expression programming","I Ilie, P Dittrich, N Carvalhais, M Jung, A Heinemeyer, M Migliavacca, ...","Geoscientific Model Development",2017
