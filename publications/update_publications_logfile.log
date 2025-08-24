@@ -404,3 +404,23 @@ Warning: program compiled against libxml 210 using older 209
  1 file changed, 2 insertions(+)
 To github.com:LIM-Climate-Causality/lim-climate-causality.github.io.git
    d8741fc..f1499f8  main -> main
+Script started at: Sun 24 Aug 23:00:01 CEST 2025
+From github.com:LIM-Climate-Causality/lim-climate-causality.github.io
+   b85bcf6..c050430  gh-pages   -> origin/gh-pages
+Already up to date.
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Warning: program compiled against libxml 210 using older 209
+[main 10b6bc4] Weekly publications update: 2025-08-24 23:00:10
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+To github.com:LIM-Climate-Causality/lim-climate-causality.github.io.git
+   43781e5..10b6bc4  main -> main
