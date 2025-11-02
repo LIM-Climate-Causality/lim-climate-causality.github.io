@@ -1,18 +1,21 @@
 "title","author","journal","year"
 "Learning predictable and informative dynamical drivers of extreme precipitation using variational autoencoders","**FR Spuler**, **M Kretschmer**, MA Balmaseda, Y Kovalchuk, TG Shepherd","Weather and Climate Dynamics",2025
 "Deep learning meets teleconnections: improving S2S predictions for European winter weather","**PL Bommer**, **M Kretschmer**, **FR Spuler**, K Bykov, MMC Höhne","Machine Learning: Earth",2025
-"State of wildfires 2024–25","DI Kelley, C Burton, F Di Giuseppe, MW Jones, MLF Barbosa, ...","Earth System Science Data Discussions",2025
+"State of Wildfires 2024–2025","DI Kelley, C Burton, F Di Giuseppe, MW Jones, MLF Barbosa, ...","Earth System Science Data",2025
 "Artificial intelligence for modeling and understanding extreme weather and climate events","G Camps-Valls, MÁ Fernández-Torres, KH Cohrs, A Höhl, A Castelletti, ...","Nature Communications",2025
 "Record-breaking extremes in a warming climate","EM Fischer, M Bador, R Huser, EJ Kendon, A Robinson, **S Sippel**","Nature Reviews Earth & Environment",2025
 "Flash drought impacts on global ecosystems amplified by extreme heat","L Gu, DL Schumacher, EM Fischer, LJ Slater, J Yin, **S Sippel**, J Chen, ...","Nature Geoscience",2025
-"Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)","RCJ Wills, C Deser, KA McKinnon, A Phillips, S Po-Chedley, **S Sippel**, ...","Authorea Preprints",2025
 "Combination of internal variability and forced response reconciles observed 2023–2024 warming","G Gyuleva, R Knutti, **S Sippel**","Geophysical Research Letters",2025
+"Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)","RCJ Wills, C Deser, KA McKinnon, A Phillips, S Po-Chedley, **S Sippel**, ...","Authorea Preprints",2025
 "On the link between weather regimes and energy shortfall during winter for 28 European countries","E Rouges, **M Kretschmer**, TG Shepherd","Meteorological Applications",2025
 "Estimating the contribution of Arctic sea-ice loss to central Asia temperature anomalies: the case of winter 2020/2021","LR Cosford, R Ghosh, **M Kretschmer**, C Oatley, TG Shepherd","Environmental Research Letters",2025
+"Quantifying the state-dependent causal effect of Barents–Kara Sea ice loss on the stratospheric polar vortex in a large ensemble simulation","X Shen, **M Kretschmer**, TG Shepherd","Climate Dynamics",2025
 "Explaining and predicting the Southern Hemisphere eddy-driven jet","**J Mindlin**, TG Shepherd, M Osman, CS Vera, **M Kretschmer**","Proceedings of the National Academy of Sciences",2025
 "Cold-air outbreaks in the continental US: Connections with stratospheric variations","L Agel, J Cohen, M Barlow, K Pfeiffer, J Francis, CI Garfinkel, ...","Science Advances",2025
 "Balancing Earth science careers in an unequal world","N Testani, LM Cappelletti, LB Díaz, C Prudente, V Rabanal, **J Mindlin**, ...","Communications Earth & Environment",2025
+"Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework","L Kopf, N Feldhus, K Bykov, **PL Bommer**, A Hedström, MMC Höhne, ...","arXiv preprint arXiv:",2025
 "Reversal of the impact chain for actionable climate information","**P Pfleiderer**, TL Frölicher, CM Kropf, RD Lamboll, Q Lejeune, ...","Nature Geoscience",2025
+"RIME-X: emulating regional climate impact distributions using simple climate models and impact models","N Schwind, M Perrette, Q Lejeune, **P Pfleiderer**, A Högner, M Werning, ...","EGU General Assembly Conference Abstracts, EGU",2025
 "State of wildfires 2023–2024","MW Jones, DI Kelley, CA Burton, F Di Giuseppe, MLF Barbosa, ...","Earth System Science Data",2024
 "ibicus: a new open-source Python package and comprehensive interface for statistical bias adjustment and evaluation in climate modelling (v1.0.1)","**FR Spuler**, JB Wessel, E Comyn-Platt, J Varndell, C Cagnazzo","Geoscientific Model Development",2024
 "Identifying probabilistic weather regimes targeted to a local-scale impact variable","**FR Spuler**, **M Kretschmer**, Y Kovalchuk, MA Balmaseda, TG Shepherd","Environmental Data Science",2024
@@ -72,8 +75,8 @@
 "Interannual global carbon cycle variations linked to atmospheric circulation variability","N Li, **S Sippel**, AJ Winkler, MD Mahecha, M Reichstein, A Bastos","Earth System Dynamics",2022
 "Reconstruction of zonal precipitation from sparse historical observations using climate model information and statistical learning","M Egli, **S Sippel**, AG Pendergrass, I de Vries, R Knutti","Geophysical Research Letters",2022
 "Robust detection and attribution of climate change under interventions","E Székely, **S Sippel**, N Meinshausen, G Obozinski, R Knutti","arXiv preprint arXiv:",2022
-"Stratospheric wave reflection events modulate North American weather regimes and cold spells","G Messori, **M Kretschmer**, SH Lee, V Matthias","Weather and Climate Dynamics Discussions",2022
 "Northern hemisphere stratosphere‐troposphere circulation change in CMIP6 models: 1. Inter‐model spread and scenario sensitivity","AY Karpechko, H Afargan‐Gerstman, AH Butler, DIV Domeisen, ...","Journal of Geophysical Research: Atmospheres",2022
+"Stratospheric wave reflection events modulate North American weather regimes and cold spells","G Messori, **M Kretschmer**, SH Lee, V Matthias","Weather and Climate Dynamics Discussions",2022
 "The “polar vortex” winter of 2013/2014","J Cohen, L Agel, M Barlow, JC Furtado, **M Kretschmer**, V Wendt","Journal of Geophysical Research: Atmospheres",2022
 "The role of the timing of sudden stratospheric warmings for precipitation and temperature anomalies in Europe","E Monnin, **M Kretschmer**, I Polichtchouk","International Journal of Climatology",2022
 "A storyline attribution of the 2011/2012 drought in Southeastern South America","L van Garderen, **J Mindlin**","Weather",2022
@@ -142,8 +145,8 @@
 "Recommended temperature metrics for carbon budget estimates, model evaluation and climate policy","KB Tokarska, CF Schleussner, J Rogelj, MB Stolpe, HD Matthews, ...","Nature Geoscience",2019
 "Anthropogenic forcings and associated changes in fire risk in western North America and Australia during 2015/16","SFB Tett, A Falk, M Rogers, **F Spuler**, C Turner, J Wainwright, ...","Bull. Am. Meteorol. Soc",2018
 "Steering the climate system: an extended comment","L Mattauch, R Millar, R van der Ploeg, A Rezai, A Schultes, F Venmans, ...","CESifo Working Paper",2018
-"Impacts of droughts and extreme-temperature events on gross primary production and ecosystem respiration: a systematic assessment across ecosystems and climate zones","J Von Buttlar, J Zscheischler, A Rammig, **S Sippel**, M Reichstein, A Knohl, ...","Biogeosciences",2018
 "Drought, heat, and the carbon cycle: a review","**S Sippel**, M Reichstein, X Ma, MD Mahecha, H Lange, M Flach, D Frank","Current Climate Change Reports",2018
+"Impacts of droughts and extreme-temperature events on gross primary production and ecosystem respiration: a systematic assessment across ecosystems and climate zones","J Von Buttlar, J Zscheischler, A Rammig, **S Sippel**, M Reichstein, A Knohl, ...","Biogeosciences",2018
 "Contrasting biosphere responses to hydrometeorological extremes: revisiting the 2010 western Russian heatwave","M Flach, **S Sippel**, F Gans, A Bastos, A Brenning, M Reichstein, ...","Biogeosciences",2018
 "Asymmetric responses of primary productivity to altered precipitation simulated by ecosystem models across three long-term grassland sites","D Wu, P Ciais, N Viovy, AK Knapp, K Wilcox, M Bahn, MD Smith, S Vicca, ...","Biogeosciences",2018
 "Extreme heat-related mortality avoided under Paris Agreement goals","D Mitchell, C Heaviside, N Schaller, M Allen, KL Ebi, EM Fischer, ...","Nature climate change",2018
