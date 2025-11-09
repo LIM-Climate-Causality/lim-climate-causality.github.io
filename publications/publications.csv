@@ -1,6 +1,6 @@
 "title","author","journal","year"
 "Learning predictable and informative dynamical drivers of extreme precipitation using variational autoencoders","**FR Spuler**, **M Kretschmer**, MA Balmaseda, Y Kovalchuk, TG Shepherd","Weather and Climate Dynamics",2025
-"Deep learning meets teleconnections: improving S2S predictions for European winter weather","**PL Bommer**, **M Kretschmer**, **FR Spuler**, K Bykov, MMC Höhne","Machine Learning: Earth",2025
+"Deep learning meets teleconnections: Improving S2S predictions for European winter weather","**PL Bommer**, **M Kretschmer**, **FR Spuler**, K Bykov, MMC Höhne","Machine Learning: Earth",2025
 "State of Wildfires 2024–2025","DI Kelley, C Burton, F Di Giuseppe, MW Jones, MLF Barbosa, ...","Earth System Science Data",2025
 "Artificial intelligence for modeling and understanding extreme weather and climate events","G Camps-Valls, MÁ Fernández-Torres, KH Cohrs, A Höhl, A Castelletti, ...","Nature Communications",2025
 "Record-breaking extremes in a warming climate","EM Fischer, M Bador, R Huser, EJ Kendon, A Robinson, **S Sippel**","Nature Reviews Earth & Environment",2025
@@ -145,8 +145,8 @@
 "Recommended temperature metrics for carbon budget estimates, model evaluation and climate policy","KB Tokarska, CF Schleussner, J Rogelj, MB Stolpe, HD Matthews, ...","Nature Geoscience",2019
 "Anthropogenic forcings and associated changes in fire risk in western North America and Australia during 2015/16","SFB Tett, A Falk, M Rogers, **F Spuler**, C Turner, J Wainwright, ...","Bull. Am. Meteorol. Soc",2018
 "Steering the climate system: an extended comment","L Mattauch, R Millar, R van der Ploeg, A Rezai, A Schultes, F Venmans, ...","CESifo Working Paper",2018
-"Drought, heat, and the carbon cycle: a review","**S Sippel**, M Reichstein, X Ma, MD Mahecha, H Lange, M Flach, D Frank","Current Climate Change Reports",2018
 "Impacts of droughts and extreme-temperature events on gross primary production and ecosystem respiration: a systematic assessment across ecosystems and climate zones","J Von Buttlar, J Zscheischler, A Rammig, **S Sippel**, M Reichstein, A Knohl, ...","Biogeosciences",2018
+"Drought, heat, and the carbon cycle: a review","**S Sippel**, M Reichstein, X Ma, MD Mahecha, H Lange, M Flach, D Frank","Current Climate Change Reports",2018
 "Contrasting biosphere responses to hydrometeorological extremes: revisiting the 2010 western Russian heatwave","M Flach, **S Sippel**, F Gans, A Bastos, A Brenning, M Reichstein, ...","Biogeosciences",2018
 "Asymmetric responses of primary productivity to altered precipitation simulated by ecosystem models across three long-term grassland sites","D Wu, P Ciais, N Viovy, AK Knapp, K Wilcox, M Bahn, MD Smith, S Vicca, ...","Biogeosciences",2018
 "Extreme heat-related mortality avoided under Paris Agreement goals","D Mitchell, C Heaviside, N Schaller, M Allen, KL Ebi, EM Fischer, ...","Nature climate change",2018
@@ -176,8 +176,8 @@
 "Detecting causal associations in large nonlinear time series datasets","J Runge, P Nowack, **M Kretschmer**, S Flaxman, D Sejdinovic","arXiv preprint arXiv:",2017
 "Disentangling Causal Pathways of the Stratospheric Polar Vortex: A Machine Learning Approach","**M Kretschmer**","Universität Potsdam",2017
 "In the observational record half a degree matters","CF Schleussner, **P Pfleiderer**, EM Fischer","Nature Climate Change",2017
-"A novel bias correction methodology for climate impact simulations","**S Sippel**, FEL Otto, M Forkel, MR Allen, BP Guillod, M Heimann, ...","Earth System Dynamics",2016
 "Ecosystem impacts of climate extremes crucially depend on the timing","**S Sippel**, J Zscheischler, M Reichstein","Proceedings of the National Academy of Sciences",2016
+"A novel bias correction methodology for climate impact simulations","**S Sippel**, FEL Otto, M Forkel, MR Allen, BP Guillod, M Heimann, ...","Earth System Dynamics",2016
 "11. The role of anthropogenic warming in 2015 central European heat waves","**S Sippel**, FEL Otto, M Flach, GJ van Oldenborgh","Bulletin of the American Meteorological Society",2016
 "Diagnosing the dynamics of observed and simulated ecosystem gross primary productivity with time causal information theory quantifiers","**S Sippel**, H Lange, MD Mahecha, M Hauhs, P Bodesheim, T Kaminski, ...","PloS one",2016
 "Detecting multivariate biosphere extremes","Y Guanche Garcia, E Rodner, M Flach, **S Sippel**, MD Mahecha, J Denzler","Climate Informatics Workshop",2016
