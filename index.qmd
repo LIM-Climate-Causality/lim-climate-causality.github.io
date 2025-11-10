@@ -305,7 +305,7 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 </div>
 
 
-<!--Johanna -->
+<!-- Johanna
 <div class="team-member">
 <a href="people/johanna/index.qmd">
 <img src="images/people/johanna.jpg" alt="Fiona Spuler">
@@ -315,7 +315,7 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 <div class="social-icons">
 
 </div>
-</div>
+</div> -->
 
 <!--Juliana -->
 <div class="team-member">
@@ -324,6 +324,18 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 </a>
 <h3>Juliana<br>Neild </h3>
 <p>Research Assistant</p>
+<div class="social-icons">
+
+</div>
+</div>
+
+<!--Onno -->
+<div class="team-member">
+<a href="people/onno/index.qmd">
+<img src="images/people/onno.jpg" alt="Onno Nennecke">
+</a>
+<h3>Onno<br>Nennecke </h3>
+<p>Research Fellow</p>
 <div class="social-icons">
 
 </div>
