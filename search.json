@@ -119,256 +119,200 @@
     "text": "Selected Publications\n\n\n\n\nDeep Learning Meets Teleconnections: Improving S2S Predictions for European Winter Weather\n\n\nAuthor(s): Philine L. Bommer , Marlene Kretschmer , Fiona R. Spuler , Kirill Bykov, Marina M.C. Höhne\n\n\nSubmitted to: IOP Science, Machine Learning Earth, 2025\n\n\n\n\n\n\nFinding the right XAI Method — Guide for the Evaluation and Ranking of Explainable AI Methods in Climate Science.\n\n\nAuthor(s): Bommer P.L., Kretschmer M., Hedström A., Bareeva, D., & Höhne M.M.C.\n\n\nArtif. Intell. Earth Syst., 2024\n\n\n\n\n\n\nThe Meta-Evaluation Problem in Explainable AI: Identifying Reliable Estimators with MetaQuantus.\n\n\nAuthor(s): Hedström A., Bommer P. L., Wickström K. K., Samek W., Lapuschkin S., & Höhne M.M.C.\n\n\nTransactions on Machine Learning Research, 2023\n\n\n\n\n\n\nReconstructing Nonlinear Dynamical Systems from Multi-Modal Time Series.\n\n\nAuthor(s):Kramer D., Bommer P.L., Durstewitz D., Tombolini C., & Koppe G.\n\n\nInternational Conference on Machine Learning, 2022\n\n\n\n\n\n\nCosy — Evaluating textual explanations of neurons.\n\n\nAuthor(s):Kopf L.„ Bommer P. L., Hedström A., Lapuschkin S., Höhne M.M.C., & BykovK.\n\n\nProceedings in Neural Information Processing Systems, 2024"
   },
   {
-    "objectID": "people/julianna/index.html",
-    "href": "people/julianna/index.html",
-    "title": "Julianna Carvalho Oliveira",
+    "objectID": "people/onno/index.html",
+    "href": "people/onno/index.html",
+    "title": "Onno Nennecke",
     "section": "",
-    "text": "Teleconnections and Regional Climate Change Machine Learning"
+    "text": "Extreme Weather and Climate Events Climate Impacts"
   },
   {
-    "objectID": "people/julianna/index.html#bio",
-    "href": "people/julianna/index.html#bio",
-    "title": "Julianna Carvalho Oliveira",
+    "objectID": "people/onno/index.html#bio",
+    "href": "people/onno/index.html#bio",
+    "title": "Onno Nennecke",
     "section": "Bio",
-    "text": "Bio\nI am a Brazilian climate scientist with a background in oceanography and a passion for understanding the climate system and contributing to practical solutions for sustainable development and climate change resilience. I’ve previously worked as a Climate Risk Analyst in the finance and insurance sector, supporting disaster risk reduction efforts. Outside of research, I enjoy outdoor activities—especially sport climbing."
+    "text": "Bio\nI studied Geography at Albert-Ludwigs-Universität Freiburg and recently completed my master’s degree in Earth System Data Science and Remote Sensing at Leipzig University. For my thesis, I investigated the meteorological conditions leading to extreme variable renewable energy shortage events in Germany. Building on this work, I am now eager to continue researching this topic in greater depth."
   },
   {
-    "objectID": "people/julianna/index.html#research-interests",
-    "href": "people/julianna/index.html#research-interests",
-    "title": "Julianna Carvalho Oliveira",
+    "objectID": "people/onno/index.html#research-interests",
+    "href": "people/onno/index.html#research-interests",
+    "title": "Onno Nennecke",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research focuses on the variability and predictability of the European climate, with a particular emphasis on summer extremes. I combine causality inference techniques and machine learning to improve the credibility of climate predictions. I’m especially interested in the role of large-scale atmospheric patterns, land–atmosphere interactions, and how these insights can inform early warning systems, climate services, and adaptation strategies. I am currently a researcher on the Horizon Europe project EXPECT: Towards an Integrated Capability to Explain and Predict Regional Climate, which aims to advance understanding and prediction of regional climate variability and extremes."
+    "text": "Research Interests\nMy research interests lie at the intersection of climate science and energy modelling. I am particularly interested in how compound climate events affect energy systems and the challenges this poses for future energy supply."
   },
   {
-    "objectID": "people/julianna/index.html#curriculum-vitae",
-    "href": "people/julianna/index.html#curriculum-vitae",
-    "title": "Julianna Carvalho Oliveira",
+    "objectID": "people/onno/index.html#curriculum-vitae",
+    "href": "people/onno/index.html#curriculum-vitae",
+    "title": "Onno Nennecke",
     "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\nApril 2024 - Present\n\n\n\nPostdoctoral Researcher\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nAugust 2023 - March 2024\n\n\n\nProject Manager/Researcher\n\n\nFrankfurt School of Finance and Management, Germany\n\n\n\n\n\nJanuary 2023 - June 2023\n\n\n\nPostdoctoral Researcher\n\n\nUniversity of Hamburg, Germany\n\n\n\n\n\nSeptember 2018 - August 2023\n\n\n\nPhD researcher\n\n\nUniversity of Hamburg, Germany\n\n\n\n\n\nAugust 2015 - July 2017\n\n\n\nMaster Student\n\n\nUniversity of Southampton, UK"
+    "text": "Curriculum Vitae \n\n\n\n\n2022 - 2025\n\n\n\nM.Sc. Earth System Data Science and Remote Sensing\n\n\nLeipzig University, Germany\n\n\n\n\n\n2018 - 2022\n\n\n\nB.Sc. Geography\n\n\nAlbert-Ludwigs-Universität Freiburg, Germany"
   },
   {
-    "objectID": "people/julianna/index.html#selected-publications",
-    "href": "people/julianna/index.html#selected-publications",
-    "title": "Julianna Carvalho Oliveira",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\n\n\n\nCausal relationships and predictability of the summer East Atlantic teleconnection\n\n\nAuthor(s): Julianna Carvalho-Oliveira, Giorgia Di Capua, Leonard F. Borchert, Reik V. Donner, and Johanna Baehr\n\n\nWeather and Climate Dynamics, 2024\n\n\n\n\n\n\nSelf-Organizing Maps Identify Windows of Opportunity for Seasonal European Summer Predictions\n\n\nAuthor(s): Julianna Carvalho-Oliveira, Leonard F. Borchert, Eduardo Zorita, and Johanna Baehr\n\n\nFrontiers in Climate, 2022\n\n\n\n\n\n\nSubtle influence of the Atlantic Meridional Overturning Circulation (AMOC) on seasonal sea surface temperature (SST) hindcast skill in the North Atlantic\n\n\nAuthor(s): Julianna Carvalho-Oliveira, Leonard F. Borchert, Aurelie Duchez, Mikhail Dobrynin, and Johanna Baehr\n\n\nWeather and Climate Dynamics, 2021"
-  },
-  {
-    "objectID": "people/sebastian/index.html",
-    "href": "people/sebastian/index.html",
-    "title": "Jun. Prof. Dr. Sebastian Sippel",
+    "objectID": "people/peter/index.html",
+    "href": "people/peter/index.html",
+    "title": "Dr. Peter Pfleiderer",
     "section": "",
-    "text": "Detection and Attribution Extreme Weather and Climate Events Machine Learning Climate Impacts"
+    "text": "Detection and Attribution Extreme Weather and Climate Events Climate Impacts Machine Learning"
   },
   {
-    "objectID": "people/sebastian/index.html#bio",
-    "href": "people/sebastian/index.html#bio",
-    "title": "Jun. Prof. Dr. Sebastian Sippel",
+    "objectID": "people/peter/index.html#bio",
+    "href": "people/peter/index.html#bio",
+    "title": "Dr. Peter Pfleiderer",
     "section": "Bio",
-    "text": "Bio\nI’m a Junior Professor for Climate Attribution at the Leipzig Institute for Meteorology since April 2023. My background is in Geoecology and Environmental Sciences (Bayreuth & Oxford). In 2017, I defended my PhD research on “Climate extremes and their impact on ecosystem–atmosphere interactions”, which was conducted at the Max Planck Institute for Biogeochemistry in Jena and at ETH Zurich. Following my PhD, I was a researcher at the Norwegian Institute for Bioeconomy Research (2017-2018), and at the Climate Physics Group at ETH Zurich (2018-2023)."
+    "text": "Bio\nAt the end of my physics studies I decided to focus on topics that are relevant to a wider public and specialized on climate dynamcis. Since then, I have been researching how various weather extremes change in a warming climate focusing on weather extremes that can become particularly harmful to ecological systems and societies. Being confronted with impacts of climate change on a daily basis while whitnessing that greenhouse gas emissions are still rising can be frustrating but this is outweighed by the enjoyable atmosphere in the climate research community and my interest in the climate system such that I would like to stay in the field for longer."
   },
   {
-    "objectID": "people/sebastian/index.html#research-interests",
-    "href": "people/sebastian/index.html#research-interests",
-    "title": "Jun. Prof. Dr. Sebastian Sippel",
+    "objectID": "people/peter/index.html#research-interests",
+    "href": "people/peter/index.html#research-interests",
+    "title": "Dr. Peter Pfleiderer",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research interests include improving our understanding of climate variability, extremes and their changes at global and regional scales. Further, my research also explores the implications of global climate change for impact-relevant variables such as the hydrological cycle at the regional scale, ecosystem water-carbon cycling, and society at large. The bulk of my research is closely linked to climate change detection and attribution. I use modern empirical-quantitative statistical and machine learning methods to address these broad research questions, integrating various climate and Earth science data streams such as observations and various kinds of climate model simulations."
+    "text": "Research Interests\nI’m mainly interested in weather extremes that have lead to ecological or societal impacts and I study how (or wether) these weather extremes changes in a warming climate. The main challenge in weather extremes research is that these events are by definition rare while our observational record is rather short. Besides the weather events themselves I’m also intersted in methodological developments to overcome this challenge including stistical approaches being applied to the observational record as well as specific climate simulation experiments to efficiently generate large numbers of extreme events in a given climate state."
   },
   {
-    "objectID": "people/sebastian/index.html#curriculum-vitae",
-    "href": "people/sebastian/index.html#curriculum-vitae",
-    "title": "Jun. Prof. Dr. Sebastian Sippel",
+    "objectID": "people/peter/index.html#curriculum-vitae",
+    "href": "people/peter/index.html#curriculum-vitae",
+    "title": "Dr. Peter Pfleiderer",
     "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\n2023 - Present\n\n\n\nJunior Professor for Climate Attribution\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\n2018 - 2023\n\n\n\nPostDoc and Senior Scientist\n\n\nClimate Physics Group, Institute for Atmospheric and Climate Science, ETH Zurich, Switzerland\n\n\n\n\n\n2017 - 2018\n\n\n\nResearcher\n\n\nNorwegian Institute for Bioeconomy Research\n\n\n\n\n\n2014 - 2017\n\n\n\nPhD Researcher\n\n\nMax Planck Institute for Biogeochemistry"
+    "text": "Curriculum Vitae \n\n\n\n\n2024 - Present\n\n\n\nPostdoctoral Researcher\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\n2022 - 2023\n\n\n\nPostdoctoral Researcher\n\n\nClimate Analytics Berlin, Germany\n\n\n\n\n\n2021 - 2022\n\n\n\nPostdoctoral Researcher\n\n\nUniversity of Hamburg, Germany\n\n\n\n\n\n2017 - 2021\n\n\n\nPhD in Geography\n\n\nHumboldt University, Berlin, Germany\n\n\n\n\n\n2016 - 2017\n\n\n\nResearcher Analyst\n\n\nClimate Analytics Berlin, Germany\n\n\n\n\n\n2010 - 2016\n\n\n\nBachelor and Master’s in Physics\n\n\nFreie Universität Berlin, Germany"
   },
   {
-    "objectID": "people/sebastian/index.html#selected-publications",
-    "href": "people/sebastian/index.html#selected-publications",
-    "title": "Jun. Prof. Dr. Sebastian Sippel",
+    "objectID": "people/peter/index.html#selected-publications",
+    "href": "people/peter/index.html#selected-publications",
+    "title": "Dr. Peter Pfleiderer",
     "section": "Selected Publications",
-    "text": "Selected Publications\n\n\n\n\nEarly-twentieth-century cold bias in ocean surface temperature observations\n\n\nAuthor(s): Sippel, S., et al.\n\n\nNature, 2024\n\n\n\n\n\n\nCould an extremely cold central European winter such as 1963 happen again despite climate change?\n\n\nAuthor(s): Sippel, S., et al.\n\n\nWeather and Climate Dynamics, 2024\n\n\n\n\n\n\nIncreasing probability of record-shattering climate extremes\n\n\nAuthor(s): Fischer, E., Sippel, S., Knutti, R.\n\n\nNature Climate Change, 2021\n\n\n\n\n\n\nClimate change now detectable from any single day of weather at global scale\n\n\nAuthor(s): Sippel, S., et al.\n\n\nNature Climate Change, 2021\n\n\n\n\n\n\nUncovering the forced climate response from a single ensemble member using statistical learning\n\n\nAuthor(s): Sippel, S., et al.\n\n\nJournal of Climate, 2019\n\n\n\n\n\n\nDrought, heat, and the carbon cycle: a review\n\n\nAuthor(s): Sippel, S., et al.\n\n\nCurrent Climate Change Reports, 2018"
+    "text": "Selected Publications\n\n\n\n\nReversal of the impact chain for actionable climate information\n\n\nAuthor(s): Pfleiderer et al.\n\n\nNature geoscience, 2025\n\n\n\n\n\n\nLimited reversal of regional climate signals in overshoot scenarios\n\n\nAuthor(s): Peter Pfleiderer, Carl-Friedrich Schleussner, Jana Sillmann\n\n\nEnvironmental Research: Climate, 2024\n\n\n\n\n\n\nExtreme Atlantic hurricane seasons made twice as likely by ocean warming\n\n\nAuthor(s): Peter Pfleiderer, Shruti Nath, Carl-Friedrich Schleussner\n\n\nWeather and Climate Dynamcis, 2022\n\n\n\n\n\n\nSimulating compound weather extremes responsible for critical crop failure with stochastic weather generators\n\n\nAuthor(s): Peter Pfleiderer et al.\n\n\nEarth System Dynamics, 2021\n\n\n\n\n\n\nSummer weather becomes more persistent in a 2 °C world\n\n\nAuthor(s): Peter Pfleiderer, Carl-Friedrich Schleussner, Kai Kornhuber, Dim Coumou\n\n\nNature Climate Change, 2019\n\n\n\n\n\n\nIncreasing risks of apple tree frost damage under climate change\n\n\nAuthor(s): Peter Pfleiderer, Inga Menke, Carl-Friedrich Schleussner\n\n\nClimatic Change, 2019"
   },
   {
-    "objectID": "people/marina/index.html",
-    "href": "people/marina/index.html",
-    "title": "Dr. Marina Friedel",
+    "objectID": "people/sujata/index.html",
+    "href": "people/sujata/index.html",
+    "title": "Sujata Kulkarni",
     "section": "",
     "text": "Teleconnections and Regional Climate Change Causal Data Science Extreme Weather and Climate Events"
   },
   {
-    "objectID": "people/marina/index.html#bio",
-    "href": "people/marina/index.html#bio",
-    "title": "Dr. Marina Friedel",
+    "objectID": "people/sujata/index.html#bio",
+    "href": "people/sujata/index.html#bio",
+    "title": "Sujata Kulkarni",
     "section": "Bio",
-    "text": "Bio\nI am a trained physicist with a background in cosmology and medical physics, but my passion for tackling global challenges led me into climate science during my PhD at ETH Zurich. Beyond research, I am passionate about science communication, making complex topics accessible to a broader audience. In my free time, I seek out the outdoors whenever possible or enjoy a good book with a great cup of coffee."
+    "text": "Bio\nI am a Civil Engineer with a master’s in water resources engineering from the Indian Institute of Technology (IIT) Gandhinagar. Currently, I am pursuing my doctoral research at Dept. Of Hydrology, IIT Roorkee and am a DAAD visiting scholar at Climate Causality Group. My research focuses on the Indian summer monsoon, with a particular interest in understanding and quantifying polar-tropical teleconnection patterns to improve the predictability of monsoon variability and its extremes."
   },
   {
-    "objectID": "people/marina/index.html#research-interests",
-    "href": "people/marina/index.html#research-interests",
-    "title": "Dr. Marina Friedel",
+    "objectID": "people/sujata/index.html#research-interests",
+    "href": "people/sujata/index.html#research-interests",
+    "title": "Sujata Kulkarni",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research focuses on large-scale atmospheric dynamics and their influence on regional climate, with a particular emphasis on droughts. I aim to uncover the causal chains behind extreme events, employing statistical methods and machine learning to improve our understanding of these phenomena and refine model projections of extreme events at a regional scale, providing actionable data to support climate adaptation and resilience strategies. Additionally, I am interested in interactions between the ozone layer and climate, examining both interannual variability and long-term trends."
+    "text": "Research Interests\nMy research focuses on the Indian summer monsoon and its teleconnections, particularly how Arctic amplification influences monsoon variability. I aim to uncover the underlying causal mechanisms that drive these long-range climate interactions, going beyond correlations to identify directional influences and feedback loops in the climate system. To address these questions, I apply tools from complex network science, which allow the representation of climate systems as networks of interacting components to understand emergent structures and pathways. In combination with causal inference techniques , I work to disentangle the multi-scale drivers of Indian summer monsoon and improve our ability to predict extreme events."
   },
   {
-    "objectID": "people/marina/index.html#curriculum-vitae",
-    "href": "people/marina/index.html#curriculum-vitae",
-    "title": "Dr. Marina Friedel",
-    "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\nJuly 2024 - Present\n\n\n\nResearch Scientist\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nJune 2023 - October 2023\n\n\n\nResearch Scientist\n\n\nETH Zurich, Institute for Atmospheric and Climate Science, Switzerland\n\n\n\n\n\nOctober 2019 - May 2023\n\n\n\nPhD in Environmental System Science\n\n\nETH Zurich, Institute for Atmospheric and Climate Science, Switzerland\n\n\n\n\n\nOctober 2013 - May 2019\n\n\n\nBachelor and Master in Physics\n\n\nUniversity of Tubingen, Germany"
-  },
-  {
-    "objectID": "people/marina/index.html#selected-publications",
-    "href": "people/marina/index.html#selected-publications",
-    "title": "Dr. Marina Friedel",
+    "objectID": "people/sujata/index.html#selected-publications",
+    "href": "people/sujata/index.html#selected-publications",
+    "title": "Sujata Kulkarni",
     "section": "Selected Publications",
-    "text": "Selected Publications\n\n\n\n\nWeakening of springtime Arctic ozone depletion with climate change\n\n\nAuthor(s): M. Friedel et al.\n\n\nAtmospheric Chemistry and Physics, 2023\n\n\n\n\n\n\nSpringtime arctic ozone depletion forces northern hemisphere climate anomalies\n\n\nAuthor(s): M. Friedel et al.\n\n\nNature Geoscience, 2022\n\n\n\n\n\n\nEffects of Arctic ozone on the stratospheric spring onset and its surface impact\n\n\nAuthor(s): M. Friedel et al.\n\n\nAtmospheric Chemistry and Physics, 2022"
+    "text": "Selected Publications\n\n\n\n\nArctic sea ice variability and its multiscale association with Indian summer monsoon rainfall at different time scales\n\n\nAuthor(s): Kulkarni, S., & Agarwal, A.\n\n\nJournal of Hydrology, 2025\n\n\n\n\n\n\nTracing spatiotemporal changes in agricultural and non-agricultural trade networks of India\n\n\nAuthor(s): Kulkarni, S, and Agarwal, A. .\n\n\nPlos one 18.9 , 2023\n\n\n\n\n\n\nQuantifying the association between Arctic Sea ice extent and Indian precipitation.\n\n\nAuthor(s): Kulkarni, S., & Agarwal, A.\n\n\nInternational Journal of Climatology, 2023"
   },
   {
-    "objectID": "people/johanna/index.html",
-    "href": "people/johanna/index.html",
-    "title": "Johanna Beikert",
+    "objectID": "people/ernest/index.html",
+    "href": "people/ernest/index.html",
+    "title": "Ernest Agyemang-Oko",
     "section": "",
     "text": "Teleconnections and Regional Climate Change Causal Data Science Extreme Weather and Climate Events"
   },
   {
-    "objectID": "people/johanna/index.html#research-interests",
-    "href": "people/johanna/index.html#research-interests",
-    "title": "Johanna Beikert",
-    "section": "Research Interests",
-    "text": "Research Interests\nLink between Stratospheric Polar Vortex and Vegetation Growth in Spring."
-  },
-  {
-    "objectID": "people/johanna/index.html#curriculum-vitae",
-    "href": "people/johanna/index.html#curriculum-vitae",
-    "title": "Johanna Beikert",
-    "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\n2022 - 2025\n\n\n\nMaster in Meteorology\n\n\nLeipzig University, Germany\n\n\n\n\n\n2018 - 2022\n\n\n\nBachelor in Physics\n\n\nHeidelberg University, Germany"
-  },
-  {
-    "objectID": "people/fiona/index.html",
-    "href": "people/fiona/index.html",
-    "title": "Fiona Spuler",
-    "section": "",
-    "text": "Teleconnections and Regional Climate Change Causal Data Science Machine Learning Extreme Weather and Climate Events"
-  },
-  {
-    "objectID": "people/fiona/index.html#bio",
-    "href": "people/fiona/index.html#bio",
-    "title": "Fiona Spuler",
+    "objectID": "people/ernest/index.html#bio",
+    "href": "people/ernest/index.html#bio",
+    "title": "Ernest Agyemang-Oko",
     "section": "Bio",
-    "text": "Bio\nI am passionate about developing open-source climate information for locally-led adaptation decision-making through research and open-source software development. With a background in Mathematical Physics (MSc) and Environmental Change and Management (MSc), I worked in climate finance for three years, assessing the alignment of the financial markets in major European economies with climate mitigation targets, and on adaptation finance as part of the Mercator Fellowship on International Affairs. Aside from work, I enjoy dancing, reading, organising scavenger hunts and spending time outdoors with friends."
+    "text": "Bio\nI am a PhD researcher with a background in physics. My academic path began in Ghana, where I completed a bachelor’s degree in physics and later worked as a teaching and research assistant. Driven by a growing interest in climate systems, I pursued a master’s in environmental physics at the University of Bremen, Germany, and gained further research experience at the Alfred-Wegener-Institute. Beyond my academic work, I enjoy going to the gym regularly to stay fit and active."
   },
   {
-    "objectID": "people/fiona/index.html#research-interests",
-    "href": "people/fiona/index.html#research-interests",
-    "title": "Fiona Spuler",
+    "objectID": "people/ernest/index.html#research-interests",
+    "href": "people/ernest/index.html#research-interests",
+    "title": "Ernest Agyemang-Oko",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research aims to understand long-range teleconnections in the climate system which can act as sources of predictability at subseasonal to seasonal timescales and can aid the dynamical interpretation of future changes, by combining representation learning approaches from machine learning with causal inference methods. In my PhD, I have so far developed a generative machine learning method to identify physically robust dynamical drivers of extreme precipitation over Morocco. My current work focuses on extending this approach to develop machine learning methods to jointly learn reduced representations of high-dimensional climatic processes along with their causal relationships. My PhD is supervised by Marlene Kretschmer and Ted Shepherd, and based at the University of Reading.\nI also co-developed the open-source Python package ibicus for the bias adjustment of climate models and am interested in understanding the role of values in the way we do science. I also coordinate the Early Career Researcher Group in the ‘My Climate Risk’ Lighthouse Activity of the World Climate Research Program - reach out if you are interested to learn more."
+    "text": "Research Interests\nMy research focuses on Arctic climate change and mid-latitude linkages. I am particularly interested in understanding how changes in Arctic Sea ice influence large-scale atmospheric circulation and contribute to extremes in mid-latitude weather. By combining climate model simulations with observational and reanalysis data, I investigate the complex interactions between Arctic Sea ice loss and atmospheric blocking to improve our understanding of the broader impacts of Arctic climate change on the global climate system and enhance the predictability of climate variability."
   },
   {
-    "objectID": "people/fiona/index.html#curriculum-vitae",
-    "href": "people/fiona/index.html#curriculum-vitae",
-    "title": "Fiona Spuler",
+    "objectID": "people/ernest/index.html#curriculum-vitae",
+    "href": "people/ernest/index.html#curriculum-vitae",
+    "title": "Ernest Agyemang-Oko",
     "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\nSeptember 2022 - Present\n\n\n\nPhD Student\n\n\nUniversity of Reading, Reading, UK\n\n\n\n\n\nSeptember 2021 - August 2022\n\n\n\nMercator Fellow on International Affairs\n\n\nOASIS, Coalition on Climate Resilient Investment - London, UK; ICCCAD, Dhaka, Bangladesh; ECMWF, Summer of Weather Code, Reading, UK\n\n\n\n\n\nOctober 2019 - July 2021\n\n\n\nSenior Analyst\n\n\n2 Degrees Investing Initiative, Berlin, Germany and London, UK\n\n\n\n\n\nOctober 2012 - September 2019\n\n\n\nEducation\n\n\nBSc Physics (Georg-August Universität Göttingen, Germany); MSc Mathematical Physics (University of Edinburgh, UK); MSc Environmental Change and Management (University of Oxford, UK)"
+    "text": "Curriculum Vitae \n\n\n\n\nMay 2024 - Present\n\n\n\nPhD Researcher\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nJuly 2021 - February 2022\n\n\n\nResearch Assistant\n\n\nAlfred-Wegener-Institut (AWI), Germany\n\n\n\n\n\nOctober 2018 - December 2021\n\n\n\nMaster in Environmental Physics\n\n\nUniversity of Bremen, Germany\n\n\n\n\n\nSeptember 2017 - August 2018\n\n\n\nTeaching and Research Assistant\n\n\nUniversity of Cape Coast, Ghana\n\n\n\n\n\nSeptember 2013 - May 2017\n\n\n\nBachelor in Physics\n\n\nUniversity of Cape Coast, Ghana"
   },
   {
-    "objectID": "people/fiona/index.html#selected-publications",
-    "href": "people/fiona/index.html#selected-publications",
-    "title": "Fiona Spuler",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\n\n\n\nLearning predictable and informative dynamical drivers of extreme precipitation using variational autoencoders\n\n\nAuthor(s): F. Spuler et al.\n\n\nPreprint in Weather and Climate Dynamics, 2025\n\n\n\n\n\n\nibicus: a new open-source Python package and comprehensive interface for statistical bias adjustment and evaluation in climate modelling\n\n\nAuthor(s): F.Spuler, J.Wessel et al.\n\n\nGeoscientific Model Development, 2024\n\n\n\n\n\n\nIdentifying probabilistic weather regimes targeted to a local-scale impact variable\n\n\nAuthor(s): F.Spuler et al.\n\n\nEnvironmental Data Science, 2024"
-  },
-  {
-    "objectID": "people/marlene/index.html",
-    "href": "people/marlene/index.html",
-    "title": "Jun. Prof. Marlene Kretschmer",
+    "objectID": "people/frieder/index.html",
+    "href": "people/frieder/index.html",
+    "title": "Frieder Loer",
     "section": "",
-    "text": "Teleconnections and Regional Climate Change Causal Data Science Extreme Weather and Climate Events Climate Impacts Machine Learning"
+    "text": "Detection and Attribution Extreme Weather and Climate Events Machine Learning"
   },
   {
-    "objectID": "people/marlene/index.html#bio",
-    "href": "people/marlene/index.html#bio",
-    "title": "Jun. Prof. Marlene Kretschmer",
+    "objectID": "people/frieder/index.html#bio",
+    "href": "people/frieder/index.html#bio",
+    "title": "Frieder Loer",
     "section": "Bio",
-    "text": "Bio\nI studied mathematics before completing a PhD in climate physics at the Potsdam Institute for Climate Impact Research. I then worked as a postdoctoral researcher in the Department of Meteorology at the University of Reading (UK). Since 2022, I have been a Junior Professor of Climate Causality at Leipzig University. Outside of work, I enjoy sports and spending time with my children."
+    "text": "Bio\nI studied Physics and Earth System Data Science and Remote Sensing at Leipzig University. Towards the end of my studies, I developed a strong interest in combining data science methods with a research domain of my interest and found a great combination of both in Climate Attribution."
   },
   {
-    "objectID": "people/marlene/index.html#research-interests",
-    "href": "people/marlene/index.html#research-interests",
-    "title": "Jun. Prof. Marlene Kretschmer",
+    "objectID": "people/frieder/index.html#research-interests",
+    "href": "people/frieder/index.html#research-interests",
+    "title": "Frieder Loer",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research aims to understand the large-scale drivers of regional weather and climate, including extreme events, and how this knowledge can enhance predictions from subseasonal timescales to projections extending to the end of the century. I have worked extensively on stratosphere–troposphere coupling and Northern Hemisphere midlatitude climate. More recently, I have been exploring tropical teleconnections and Southern Hemisphere climate dynamics. I am particularly interested in applying causal inference and machine learning algorithms to identify key drivers and teleconnections in large climate model simulations and observational datasets. My approach integrates data-driven methods with physical understanding to improve climate prediction and interpretation. I also value interdisciplinary collaboration, particularly in connecting atmospheric sciences with ecosystem research, the social sciences, and explainable AI."
+    "text": "Research Interests\nMy research interest lies in the application of statistical and machine learning methods for improving the understanding and attribution of air temperature trends and extremes. Ultimately, my research aims to provide attribution statements that support further research on the influence of air temperature extremes on private household economics within the Eco-N graduate school."
   },
   {
-    "objectID": "people/marlene/index.html#curriculum-vitae",
-    "href": "people/marlene/index.html#curriculum-vitae",
-    "title": "Jun. Prof. Marlene Kretschmer",
+    "objectID": "people/frieder/index.html#curriculum-vitae",
+    "href": "people/frieder/index.html#curriculum-vitae",
+    "title": "Frieder Loer",
     "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\nOctober 2022 - Present\n\n\n\nJunior Professor for Climate\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nOctober 2019 - September 2022\n\n\n\nResearch Scientist\n\n\nReading University, Department for Meteorology, UK\n\n\n\n\n\nMay 2014 - April 2018\n\n\n\nPhD in Climate Physics\n\n\nPotsdam Institute for Climate Impact Research, Germany\n\n\n\n\n\nOctober 2008 - January 2014\n\n\n\nDiploma in Mathematics\n\n\nHumboldt University Berlin, Germany"
+    "text": "Curriculum Vitae \n\n\n\n\n2025 - Present\n\n\n\nPhD in Meteorology\n\n\nLeipzig University, Germany\n\n\n\n\n\n2022 - 2025\n\n\n\nMaster’s in Earth System Data Science and Remote Sensing\n\n\nLeipzig University, Germany\n\n\n\n\n\n2017 - 2024\n\n\n\nBachelor and Master’s in Physics\n\n\nLeipzig University, Germany"
   },
   {
-    "objectID": "people/marlene/index.html#selected-publications",
-    "href": "people/marlene/index.html#selected-publications",
-    "title": "Jun. Prof. Marlene Kretschmer",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\n\n\n\nIdentifying probabilistic weather regimes targeted to a local-scale impact variable\n\n\nAuthor(s): F. Spuler et al.\n\n\nEnvironmental Data Science, 2024\n\n\n\n\n\n\nA shifting climate: New paradigms and challenges for (early career) scientists in extreme weather research\n\n\nAuthor(s): M. Kretschmer et al.\n\n\nAtmospheric Science Letters, 2024\n\n\n\n\n\n\nFinding the right XAI Method — A Guide for the Evaluation and Ranking of Explainable AI Methods in Climate Science\n\n\nAuthor(s): P. L. Bommer et al.\n\n\nArtificial Intelligence for the Earth Systems, 2024\n\n\n\n\n\n\nQuantifying Causal Pathways of Teleconnections\n\n\nAuthor(s): Kretschmer et al.\n\n\nBulletin of the American Meteorological Society, 2021\n\n\n\n\n\n\nThe role of Barents–Kara sea ice loss in projected polar vortex changes\n\n\nAuthor(s): Kretschmer et al.\n\n\nWeather and Climate Dynamics, 2020\n\n\n\n\n\n\nUsing Causal Effect Networks to Analyze Different Arctic Drivers of Midlatitude Winter Circulation\n\n\nAuthor(s): Kretschmer et al.\n\n\nJournal of Climate, 2016"
-  },
-  {
-    "objectID": "research/extremes/index.html",
-    "href": "research/extremes/index.html",
-    "title": "Extreme weather and climate events",
+    "objectID": "people/florian/index.html",
+    "href": "people/florian/index.html",
+    "title": "Florian Kraulich",
     "section": "",
-    "text": "France: The water level of the Loire is at its lowest due to the drought of 2022, as seen here in the Varades branch, in Loire-Atlantique. Photo: Franck Dubray/Ouest-France\n\n\nEach year, extreme weather events -from heatwaves, droughts, to heavy precipitation and storms- impact people and ecosystems around the world. At a local level, these events represent rare and unusual climatic conditions to which communities are not well adapted. As the climate warms, the frequency and intensity of of such events are changing, making it essential to understand how extremes are evolving and what we can expect in the future.\nThe main challenge when studying weather extremes is that these events are rare per definition and only few of them are recorded in observations, making it hard to study processes, spatio-temporal changes and statistics related to those events. Climate models are a key tool to address this challenge. By simulating many possible versions of the climate, they generate large numbers of extreme events for analysis. However, models have limitations -especially at regional scales- which is why a combination of models, observations, and statistical methods remain essential.\nIn our research group we study weather extremes and their changes using diverse methods and approaches. We use and develop statistical and machine learning methods to better deduce changes of weather extremes from the observational record. We also analyze and produce climate simulations including special simulation protocols to efficiently simulate many extreme events (importance sampling) and counterfactual simulations showing how the same weather events would have looked like without anthropogenic climate change (nudged storyline simulations). We are analyzing heat waves, droughts, wildfires, cold spells and dark doldrums.\nPublications:\nSippel, S., Barnes, C., Cadiou, C., Fischer, E., Kew, S., Kretschmer, M., Philip, S., Shepherd, T. G., Singh, J., Vautard, R., & Yiou, P. (2024). Could an extremely cold central European winter such as 1963 happen again despite climate change? Weather and Climate Dynamics, 5(3), 943–957. https://doi.org/10.5194/wcd-5-943-2024\nPfleiderer, P., Nath, S., & Schleussner, C.-F. (2022). Extreme Atlantic hurricane seasons made twice as likely by ocean warming. Weather and Climate Dynamics, 3(2), 471–482. https://doi.org/10.5194/wcd-3-471-2022"
+    "text": "Causal Data Science Extreme Weather and Climate Events"
   },
   {
-    "objectID": "research/causality/index.html",
-    "href": "research/causality/index.html",
-    "title": "Causal Data Science",
+    "objectID": "people/florian/index.html#bio",
+    "href": "people/florian/index.html#bio",
+    "title": "Florian Kraulich",
+    "section": "Bio",
+    "text": "Bio\nI am a trained meteorologist with a focus on climate. During my studies, I spent semesters abroad on Svalbard (Norway) and in Lisbon (Portugal), which deepened my interest in climate dynamics, oceanography, and Arctic amplification. In my free time, I enjoy running, spending time outdoors, and traveling."
+  },
+  {
+    "objectID": "people/florian/index.html#research-interests",
+    "href": "people/florian/index.html#research-interests",
+    "title": "Florian Kraulich",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research focuses on attributing anthropogenic forcings to heat extremes. In particular, I aim to quantify the effects of aerosols on heatwaves."
+  },
+  {
+    "objectID": "people/florian/index.html#curriculum-vitae",
+    "href": "people/florian/index.html#curriculum-vitae",
+    "title": "Florian Kraulich",
+    "section": "Curriculum Vitae ",
+    "text": "Curriculum Vitae \n\n\n\n\nJanuary 2024 - Present\n\n\n\nDoctoral Researcher\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nSeptember 2023 - December 2023\n\n\n\nResearch Assistant\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nSeptember 2020 - June 2021\n\n\n\nStudy Abroad\n\n\nUniversity of Lisbon, Portugal\n\n\n\n\n\nAugust 2018 - December 2018\n\n\n\nStudy Abroad\n\n\nThe University Centre in Svalbard, Norway\n\n\n\n\n\nOctober 2016 - October 2022\n\n\n\nBachelor and Master’s in Meteorology\n\n\nLeipzig University, Germany"
+  },
+  {
+    "objectID": "research/teleconnections/index.html",
+    "href": "research/teleconnections/index.html",
+    "title": "Teleconnections and Regional Climate Change",
     "section": "",
-    "text": "Relationship between Causal Representation Learning, Causal Discovery, and Causal Inference. Figure by Marlene Kretschmer.\n\n\nCausal data science offers powerful tools to better understand the drivers of regional climate variability and extreme events. Moving beyond correlation, causal approaches help identify the mechanisms that underlie complex climate processes—an essential step toward more robust and interpretable insights. Our work integrates methods from causal inference, causal discovery, and causal representation learning to investigate cause-effect relationships in climate data.\nCausal inference techniques estimate the influence of specific drivers while accounting for confounding factors. We apply this to disentangle the roles of multiple teleconnections (e.g. ENSO, MJO) and to better understand their individual and combined contributions to regional climate impacts and extremes. These causal tools are particularly well-suited to identifying how such patterns propagate through the climate system.\nWith causal discovery, we can further uncover potential causal structures directly from observational data, revealing interactions that may not be captured in purely correlation-based approaches.\nA newer and rapidly developing area of our research is causal representation learning, which enables us to learn structured, low-dimensional representations of climate patterns directly from high-dimensional gridded data. By integrating causal reasoning with machine learning, this approach helps isolate key modes of variability and improves the interpretability of complex datasets. Together, these methods form a growing toolkit for tackling pressing questions in climate science. While challenges remain, causal data science holds strong potential to complement physical models and deepen our understanding of how remote climatic drivers can shape local, and regional changes.\nPublications:\nCarvalho-Oliveira, J., Di Capua, G., Borchert, L. F., Donner, R. V., and Baehr, J.: Causal relationships and predictability of the summer East Atlantic teleconnection (2024), Weather Clim. Dynam., 5, 1561–1578, https://doi.org/10.5194/wcd-5-1561-202.\nKretschmer, M.; Adams, S.; Arribas, A.; Saggioro, E.; Prudden, R.; Robinson, N.; Shepherd, T.: Quantifying causal teleconnection pathways (2021), Bulletin of the American Meteorological Society. 2020. DOI: 10.1175/BAMS-D-20-0117.1.\nPfleiderer, P., Schleussner, C.-F., Geiger, T., and Kretschmer, M.: Robust predictors for seasonal Atlantic hurricane activity identified with causal effect networks (2020), Weather Clim. Dynam., 1, 313–324, https://doi.org/10.5194/wcd-1-313-2020."
+    "text": "This figure illustrates, from left to right, the chain of processes that shape regional climate change. Anthropogenic forcing (such as greenhouse gas increase or ozone depleting substances -which control ozone depletion and recovery-) drives large-scale changes in the climate system. Examples of such changes are the so-called “tropical warming”, which refers to the increased latent heat release in the tropics do to the warming-induced evaporation, asymmetric warming patterns (such as the warming of the central or eastern tropical Pacific) or the strengthening of polar winds in the stratosphere (Earth’s second layer). These changes in turn control tropospheric phenomena such as the expansion of the Hadley cell or the shift and strengthening of the midlatitude westerly winds and many others which shape regional climates. Our group focuses on (1) investigating how large-scale responses to anthropogenic forcing shape regional climate change and (2) developing methods, such as storylines or constrain approaches, to reduce the uncertainty in regional climate change based on large-scale dynamics and process understanding.\n\n\nAdaptation to climate change requires understanding persistent changes in regional climate characteristics -such as mean conditions, extremes, or variability- within specific geographic areas over periods of decades or more. The wide range of regional climates, time scales, and adaptation needs makes this a problem of high complexity.\nVariability and change in regional climate is in great part determined by geographical location and local processes, however, it also represents the local expression of variability and change in large-scale remote drivers (also known as teleconnections), the feedback between them and their interaction with local processes. These remote drivers are influenced by internal processes like oceanic and atmospheric variability or from external forcings, including solar variations, volcanic activity, land-use change, and anthropogenic greenhouse gas emissions. Moreover, these anthropogenic forcings also drive processes at local scales. The interaction of large-scale and local processes shape regional climate patterns.\nDue to the many possible drivers of variability and change, quantifying the interplay between internal modes of decadal variability and any externally forced component is crucial in attempts to attribute causes of regional climate changes. A regional climate signal could arise purely due to some anthropogenic influence or conversely, entirely due to internal variability, but it is most likely the result of a combination of both. Decomposing these signals and their associated uncertainty is key to producing useful information at the regional scale.\nIn our research group, we focus on how variability and change in large-scale climate dynamics affect regional climates. We employ storyline approaches, weather regimes, causal inference methods and rare event algorithms to investigate multiple regions, which include Europe, southern South America, the Sahel, the Somali Peninsula, and Cape Town. Through this, we aim to better understand regional impacts of climate change and improve actionable climate information. This information is often distilled using a co-production process that integrates scientific knowledge with user context, values, and decision-making needs.\nPublications:\nF. R. Spuler, M. Kretschmer, Y. Kovalchuk, Yevgeniya, M. Balmaseda, Magdalena Alonso T. G. Shepherd, Identifying probabilistic weather regimes targeted to a local-scale impact variable, 2024, Environmental Data Science, 3, 2634-4602, http://dx.doi.org/10.1017/eds.2024.29.\nKretschmer, M., S. V. Adams, A. Arribas, R. Prudden, N. Robinson, E. Saggioro, and T. G. Shepherd, 2021: Quantifying Causal Pathways of Teleconnections. Bull. Amer. Meteor. Soc., 102, E2247–E2263, https://doi.org/10.1175/BAMS-D-20-0117.1.\nMindlin, J., C. S. Vera, T. G. Shepherd, and M. Osman, 2023: Plausible Drying and Wetting Scenarios for Summer in Southeastern South America. J. Climate, 36, 7973–7991, https://doi.org/10.1175/JCLI-D-23-0134.1."
   },
   {
-    "objectID": "research/impacts/index.html",
-    "href": "research/impacts/index.html",
-    "title": "Climate Impacts",
+    "objectID": "research/machine_learning/index.html",
+    "href": "research/machine_learning/index.html",
+    "title": "Machine Learning and Artificial Intelligence for Climate Science",
     "section": "",
-    "text": "Anomalies in Leaf Area Index in the 30 days after a Sudden Stratospheric Warming event. The brown color illustrates negative anomalies, thus decreased plant growth.\n\n\nThe challenge: Ultimately, climate variability and extreme weather events affect people and ecosystems through their impacts — on human health, energy systems, agriculture, and ecological functioning. Understanding and quantifying these impacts is essential for effective adaptation and risk management. However, linking climate variability and extremes to real-world impacts is scientifically challenging. Impacts depend not only on the physical hazard, but also on vulnerability and exposure, which are often independent of climate and can be difficult to quantify. Moreover, different types of variability and extremes (e.g., duration, intensity, spatial scale) can drive different kinds of impacts. Estimating those impacts can involve both statistical approaches and process-based models, each with strengths and limitations — and both requiring careful validation against observational or empirical impact data.\nWhat we do: We investigate how climate variability and extreme events translate into impacts across a range of sectors, including:\n\nEnergy systems – supply and demand under extreme conditions\nEcosystem functioning and carbon uptake\nCrop failure\nClimate-biodiversity interactions\n\nTo do this, we combine climate modeling, statistical and causal inference methods, and sector-specific impact models (e.g., vegetation models). This allows us to estimate and attribute impacts associated with individual extreme events or broader patterns of climate variability. For example, we use worst-case climate simulations to assess the sensitivity of European ecosystems to concurrent heatwaves and droughts, helping to anticipate risks to carbon sinks under future climate conditions.\nReferences:\nLi, N., Sippel, S., Linscheid, N., Rödenbeck, C., Winkler, A.J., Reichstein, M., Mahecha, M.D. and Bastos, A., 2024. Enhanced global carbon cycle sensitivity to tropical temperature linked to internal climate variability. Science Advances, 10(39), p.eadl6155. https://doi.org/10.1126/sciadv.adl6155\nMahecha, M.D., Bastos, A., Bohn, F.J., Eisenhauer, N., Feilhauer, H., Hickler, T., Kalesse‐Los, H., Migliavacca, M., Otto, F.E.L., Peng, J. […], 2024. Biodiversity and climate extremes: Known interactions and research gaps. Earth’s Future, 12(6), p.e2023EF003963. https://doi.org/10.1029/2023EF003963\nPfleiderer, P., Jézéquel, A., Legrand, J., Legrix, N., Markantonis, I., Vignotto, E. and Yiou, P., 2021. Simulating compound weather extremes responsible for critical crop failure with stochastic weather generators. Earth System Dynamics, 12(1), pp.103-120. https://doi.org/10.5194/esd-12-103-2021\nRouges, E., Kretschmer, M. and Shepherd, T.G., 2024. On the link between weather regimes and energy shortfall during winter for 28 European countries. https://eartharxiv.org/repository/view/7589/"
+    "text": "The figure shows a Variational Autoencoder, the machine learning model used in Spuler FR et al. 2024.\n\n\nMachine learning is the science enabling computational systems to learn how to perform tasks optimally through exposure to data, without being explicitly programmed. It can describe a broad spectrum of techniques, ranging from simple models like linear regression to complex architectures such as deep neural networks. One of the main advantages of machine learning is its ability to identify hidden patterns and relationships in large, high-dimensional datasets—patterns that may not be easily detected through traditional analysis.\nIn the Earth system, many physical processes interact across a wide range of spatial and temporal scales—often in nonlinear and unknown ways that are difficult to model explicitly. In causality and attribution research, scientists employ machine learning tools to help uncover, interpret, and quantify these interactions. Climate science often relies on large, multivariate space-time datasets, making them a natural fit for data-driven methods. With the fast-growing potential of deep learning at the upper end of the machine learning spectrum, such techniques are being applied to identify patterns and generalizations in the climate system.\nIn our Climate-Causality and -Attribution research groups, we explore the use of machine learning methods across the full spectrum—from classical linear regression to state-of-the-art deep learning methods. In climate causality research, we investigate how machine learning can help to uncover and quantify causal relationships in the atmosphere, for example to improve weather predictions on subseasonal to seasonal timescales (e.g., Bommer P. L., Kretschmer M. et al. 2024; Spuler F. R., Kretschmer M. et al. 2024). In climate attribution, machine learning can identify signals and patterns of forced climate change to uncover these in the observational record and separate them from internal climate variability (e.g., Sippel S. et al. 2020; Heinze-Deml C., Sippel S. et al. 2021).\nPublications:\nBommer, P. L., M. Kretschmer, A. Hedström, D. Bareeva, and M. M. Höhne, 2024: Finding the Right XAI Method—A Guide for the Evaluation and Ranking of Explainable AI Methods in Climate Science. Artif. Intell. Earth Syst.,  3, e230074, https://doi.org/10.1175/AIES-D-23-0074.1.\nSpuler FR, Kretschmer M, Kovalchuk Y, Balmaseda MA, Shepherd TG. Identifying probabilistic weather regimes targeted to a local-scale impact variable. Environmental Data Science. 2024;3:e25. https://doi.org/10.1017/eds.2024.2\nSippel, S., Meinshausen, N., Fischer, E.M. et al. Climate change now detectable from any single day of weather at global scale. Nat. Clim. Chang. 10, 35–41 (2020). https://doi.org/10.1038/s41558-019-0666-7\nHeinze-Deml, C., Sippel, S., Pendergrass, A. G., Lehner, F., and Meinshausen, N.: Latent Linear Adjustment Autoencoder v1.0: a novel method for estimating and emulating dynamic precipitation at high resolution, Geosci. Model Dev., 14, 4977–4999 (2021), https://doi.org/10.5194/gmd-14-4977-2021."
   },
   {
-    "objectID": "index.html#jun---prof.-dr.-marlene-kretschmer",
-    "href": "index.html#jun---prof.-dr.-marlene-kretschmer",
-    "title": "About",
-    "section": "Jun - Prof. Dr. Marlene Kretschmer",
-    "text": "Jun - Prof. Dr. Marlene Kretschmer\n\n\nAC3: Arctic Amplification: Climate Relevant Atmospheric and Surface Processes and Feedback Mechanisms\nEXPECT: Towards an Integrated Capability to Explain and Predict Regional Climate Changes\nXAIDA: eXtreme events: Artificial Intelligence for Detection and Attribution"
-  },
-  {
-    "objectID": "index.html#jun---prof.-dr.-sebastian-sippel",
-    "href": "index.html#jun---prof.-dr.-sebastian-sippel",
-    "title": "About",
-    "section": "Jun - Prof. Dr. Sebastian Sippel",
-    "text": "Jun - Prof. Dr. Sebastian Sippel\n\n\nCLIMXTREME: Climate Change and Extreme Events\nXAIDA: eXtreme events: Artificial Intelligence for Detection and Attribution\nAI4PEX: Artificial Intelligence for enhanced representation of processes and extremes in Earth System Models\nECO-N: Economics of Connected Natural Commons\nHeinz Maier-Leibnitz Price of the DFG"
-  },
-  {
-    "objectID": "tenders/jobs/example_job/index.html",
-    "href": "tenders/jobs/example_job/index.html",
-    "title": "Awesome Job",
+    "objectID": "research/detection_and_attribution/index.html",
+    "href": "research/detection_and_attribution/index.html",
+    "title": "Detection and Attribution of Climate Change Signals",
     "section": "",
-    "text": "Here goes the further description of the job."
-  },
-  {
-    "objectID": "tenders/index.html",
-    "href": "tenders/index.html",
-    "title": "Open Positions",
-    "section": "",
-    "text": "Unfortunately, we don’t have any open positions at the moment. If you’re interested in potential Bachelor and Master thesis topics, please feel free to contact us!"
-  },
-  {
-    "objectID": "tenders/theses/example_thesis/index.html",
-    "href": "tenders/theses/example_thesis/index.html",
-    "title": "Awesome Thesis Topic",
-    "section": "",
-    "text": "Here goes the further description of the topic."
+    "text": "The annual average fingerprint of external forcing extracted from daily temperatures with the global mean signal removed from CMIP5 models (from Sippel et al., 2020).\n\n\nThe challenge: Detection and attribution (D&A) of global climate change and its drivers is well established: human influence — especially through greenhouse gas emissions — has been clearly linked to observed global warming. At large scales, we can distinguish between forced responses and internal variability, and identify the roles of different natural and anthropogenic drivers. However, major challenges remain at r&gt;egional scales and for specific aspects of the climate system, such as the hydrological cycle or changes in atmospheric circulation. In these aspects, uncertainties persist — particularly when disentangling internal and forced variability or the effect of individual forcings. For example, recent trends in atmospheric circulation have led to intensified summer temperatures and heat extremes in Europe, exceeding many climate model projections. Yet it remains unclear whether these trends result from forced climate change or unforced internal variability.\nWhat we do: Our group develops and applies a range of methods — including statistical, machine learning, and causal inference techniques — to advance detection and attribution on both regional and global scales. We use models and observations to: - Improve understanding of changes in the hydrological cycle and large-scale circulation, - Separate thermodynamic changes from circulation-driven (dynamical) variability, - Refine attribution by focusing on distinct physical mechanisms, - Identify processes that contribute to uncertainty in future climate projections.\nThis integrated approach helps us to better detect the fingerprints of climate change, understand its driving mechanisms, and improve the robustness of climate projections.\nPublications:\nKretschmer, M., Zappa, G. and Shepherd, T.G., 2020. The role of Barents–Kara sea ice loss in projected polar vortex changes. Weather and Climate Dynamics, 1(2), pp.715-730. https://doi.org/10.5194/wcd-1-715-2020\nMindlin, J., Shepherd, T.G., Vera, C.S., Osman, M., Zappa, G., Lee, R.W. and Hodges, K.I., 2020. Storyline description of Southern Hemisphere midlatitude circulation and precipitation response to greenhouse gas forcing. Climate Dynamics, 54, pp.4399-4421. https://doi.org/10.1007/s00382-020-05234-1\nPfleiderer, P., Merrifield, A., Dunkl, I., Durand, H., Cariou, E., Cattiaux, J. and Sippel, S., 2025. The contribution of circulation changes to summer temperature trends in the northern hemisphere mid-latitudes: A multi-method quantification. EGUsphere, 2025, pp.1-28. https://doi.org/10.5194/egusphere-2025-2397\nSippel, S., Meinshausen, N., Fischer, E.M., Székely, E. and Knutti, R., 2020. Climate change now detectable from any single day of weather at global scale. Nature climate change, 10(1), pp.35-41. https://doi.org/10.1038/s41558-019-0666-7"
   },
   {
     "objectID": "impressum.html",
@@ -448,172 +392,256 @@
     "text": "This Impressum was last updated on 23/04/2025. Changes may be made at any time."
   },
   {
-    "objectID": "research/detection_and_attribution/index.html",
-    "href": "research/detection_and_attribution/index.html",
-    "title": "Detection and Attribution of Climate Change Signals",
+    "objectID": "tenders/theses/example_thesis/index.html",
+    "href": "tenders/theses/example_thesis/index.html",
+    "title": "Awesome Thesis Topic",
     "section": "",
-    "text": "The annual average fingerprint of external forcing extracted from daily temperatures with the global mean signal removed from CMIP5 models (from Sippel et al., 2020).\n\n\nThe challenge: Detection and attribution (D&A) of global climate change and its drivers is well established: human influence — especially through greenhouse gas emissions — has been clearly linked to observed global warming. At large scales, we can distinguish between forced responses and internal variability, and identify the roles of different natural and anthropogenic drivers. However, major challenges remain at r&gt;egional scales and for specific aspects of the climate system, such as the hydrological cycle or changes in atmospheric circulation. In these aspects, uncertainties persist — particularly when disentangling internal and forced variability or the effect of individual forcings. For example, recent trends in atmospheric circulation have led to intensified summer temperatures and heat extremes in Europe, exceeding many climate model projections. Yet it remains unclear whether these trends result from forced climate change or unforced internal variability.\nWhat we do: Our group develops and applies a range of methods — including statistical, machine learning, and causal inference techniques — to advance detection and attribution on both regional and global scales. We use models and observations to: - Improve understanding of changes in the hydrological cycle and large-scale circulation, - Separate thermodynamic changes from circulation-driven (dynamical) variability, - Refine attribution by focusing on distinct physical mechanisms, - Identify processes that contribute to uncertainty in future climate projections.\nThis integrated approach helps us to better detect the fingerprints of climate change, understand its driving mechanisms, and improve the robustness of climate projections.\nPublications:\nKretschmer, M., Zappa, G. and Shepherd, T.G., 2020. The role of Barents–Kara sea ice loss in projected polar vortex changes. Weather and Climate Dynamics, 1(2), pp.715-730. https://doi.org/10.5194/wcd-1-715-2020\nMindlin, J., Shepherd, T.G., Vera, C.S., Osman, M., Zappa, G., Lee, R.W. and Hodges, K.I., 2020. Storyline description of Southern Hemisphere midlatitude circulation and precipitation response to greenhouse gas forcing. Climate Dynamics, 54, pp.4399-4421. https://doi.org/10.1007/s00382-020-05234-1\nPfleiderer, P., Merrifield, A., Dunkl, I., Durand, H., Cariou, E., Cattiaux, J. and Sippel, S., 2025. The contribution of circulation changes to summer temperature trends in the northern hemisphere mid-latitudes: A multi-method quantification. EGUsphere, 2025, pp.1-28. https://doi.org/10.5194/egusphere-2025-2397\nSippel, S., Meinshausen, N., Fischer, E.M., Székely, E. and Knutti, R., 2020. Climate change now detectable from any single day of weather at global scale. Nature climate change, 10(1), pp.35-41. https://doi.org/10.1038/s41558-019-0666-7"
+    "text": "Here goes the further description of the topic."
   },
   {
-    "objectID": "research/machine_learning/index.html",
-    "href": "research/machine_learning/index.html",
-    "title": "Machine Learning and Artificial Intelligence for Climate Science",
+    "objectID": "tenders/index.html",
+    "href": "tenders/index.html",
+    "title": "Open Positions",
     "section": "",
-    "text": "The figure shows a Variational Autoencoder, the machine learning model used in Spuler FR et al. 2024.\n\n\nMachine learning is the science enabling computational systems to learn how to perform tasks optimally through exposure to data, without being explicitly programmed. It can describe a broad spectrum of techniques, ranging from simple models like linear regression to complex architectures such as deep neural networks. One of the main advantages of machine learning is its ability to identify hidden patterns and relationships in large, high-dimensional datasets—patterns that may not be easily detected through traditional analysis.\nIn the Earth system, many physical processes interact across a wide range of spatial and temporal scales—often in nonlinear and unknown ways that are difficult to model explicitly. In causality and attribution research, scientists employ machine learning tools to help uncover, interpret, and quantify these interactions. Climate science often relies on large, multivariate space-time datasets, making them a natural fit for data-driven methods. With the fast-growing potential of deep learning at the upper end of the machine learning spectrum, such techniques are being applied to identify patterns and generalizations in the climate system.\nIn our Climate-Causality and -Attribution research groups, we explore the use of machine learning methods across the full spectrum—from classical linear regression to state-of-the-art deep learning methods. In climate causality research, we investigate how machine learning can help to uncover and quantify causal relationships in the atmosphere, for example to improve weather predictions on subseasonal to seasonal timescales (e.g., Bommer P. L., Kretschmer M. et al. 2024; Spuler F. R., Kretschmer M. et al. 2024). In climate attribution, machine learning can identify signals and patterns of forced climate change to uncover these in the observational record and separate them from internal climate variability (e.g., Sippel S. et al. 2020; Heinze-Deml C., Sippel S. et al. 2021).\nPublications:\nBommer, P. L., M. Kretschmer, A. Hedström, D. Bareeva, and M. M. Höhne, 2024: Finding the Right XAI Method—A Guide for the Evaluation and Ranking of Explainable AI Methods in Climate Science. Artif. Intell. Earth Syst.,  3, e230074, https://doi.org/10.1175/AIES-D-23-0074.1.\nSpuler FR, Kretschmer M, Kovalchuk Y, Balmaseda MA, Shepherd TG. Identifying probabilistic weather regimes targeted to a local-scale impact variable. Environmental Data Science. 2024;3:e25. https://doi.org/10.1017/eds.2024.2\nSippel, S., Meinshausen, N., Fischer, E.M. et al. Climate change now detectable from any single day of weather at global scale. Nat. Clim. Chang. 10, 35–41 (2020). https://doi.org/10.1038/s41558-019-0666-7\nHeinze-Deml, C., Sippel, S., Pendergrass, A. G., Lehner, F., and Meinshausen, N.: Latent Linear Adjustment Autoencoder v1.0: a novel method for estimating and emulating dynamic precipitation at high resolution, Geosci. Model Dev., 14, 4977–4999 (2021), https://doi.org/10.5194/gmd-14-4977-2021."
+    "text": "Unfortunately, we don’t have any open positions at the moment. If you’re interested in potential Bachelor and Master thesis topics, please feel free to contact us!"
   },
   {
-    "objectID": "research/teleconnections/index.html",
-    "href": "research/teleconnections/index.html",
-    "title": "Teleconnections and Regional Climate Change",
+    "objectID": "tenders/jobs/example_job/index.html",
+    "href": "tenders/jobs/example_job/index.html",
+    "title": "Awesome Job",
     "section": "",
-    "text": "This figure illustrates, from left to right, the chain of processes that shape regional climate change. Anthropogenic forcing (such as greenhouse gas increase or ozone depleting substances -which control ozone depletion and recovery-) drives large-scale changes in the climate system. Examples of such changes are the so-called “tropical warming”, which refers to the increased latent heat release in the tropics do to the warming-induced evaporation, asymmetric warming patterns (such as the warming of the central or eastern tropical Pacific) or the strengthening of polar winds in the stratosphere (Earth’s second layer). These changes in turn control tropospheric phenomena such as the expansion of the Hadley cell or the shift and strengthening of the midlatitude westerly winds and many others which shape regional climates. Our group focuses on (1) investigating how large-scale responses to anthropogenic forcing shape regional climate change and (2) developing methods, such as storylines or constrain approaches, to reduce the uncertainty in regional climate change based on large-scale dynamics and process understanding.\n\n\nAdaptation to climate change requires understanding persistent changes in regional climate characteristics -such as mean conditions, extremes, or variability- within specific geographic areas over periods of decades or more. The wide range of regional climates, time scales, and adaptation needs makes this a problem of high complexity.\nVariability and change in regional climate is in great part determined by geographical location and local processes, however, it also represents the local expression of variability and change in large-scale remote drivers (also known as teleconnections), the feedback between them and their interaction with local processes. These remote drivers are influenced by internal processes like oceanic and atmospheric variability or from external forcings, including solar variations, volcanic activity, land-use change, and anthropogenic greenhouse gas emissions. Moreover, these anthropogenic forcings also drive processes at local scales. The interaction of large-scale and local processes shape regional climate patterns.\nDue to the many possible drivers of variability and change, quantifying the interplay between internal modes of decadal variability and any externally forced component is crucial in attempts to attribute causes of regional climate changes. A regional climate signal could arise purely due to some anthropogenic influence or conversely, entirely due to internal variability, but it is most likely the result of a combination of both. Decomposing these signals and their associated uncertainty is key to producing useful information at the regional scale.\nIn our research group, we focus on how variability and change in large-scale climate dynamics affect regional climates. We employ storyline approaches, weather regimes, causal inference methods and rare event algorithms to investigate multiple regions, which include Europe, southern South America, the Sahel, the Somali Peninsula, and Cape Town. Through this, we aim to better understand regional impacts of climate change and improve actionable climate information. This information is often distilled using a co-production process that integrates scientific knowledge with user context, values, and decision-making needs.\nPublications:\nF. R. Spuler, M. Kretschmer, Y. Kovalchuk, Yevgeniya, M. Balmaseda, Magdalena Alonso T. G. Shepherd, Identifying probabilistic weather regimes targeted to a local-scale impact variable, 2024, Environmental Data Science, 3, 2634-4602, http://dx.doi.org/10.1017/eds.2024.29.\nKretschmer, M., S. V. Adams, A. Arribas, R. Prudden, N. Robinson, E. Saggioro, and T. G. Shepherd, 2021: Quantifying Causal Pathways of Teleconnections. Bull. Amer. Meteor. Soc., 102, E2247–E2263, https://doi.org/10.1175/BAMS-D-20-0117.1.\nMindlin, J., C. S. Vera, T. G. Shepherd, and M. Osman, 2023: Plausible Drying and Wetting Scenarios for Summer in Southeastern South America. J. Climate, 36, 7973–7991, https://doi.org/10.1175/JCLI-D-23-0134.1."
+    "text": "Here goes the further description of the job."
   },
   {
-    "objectID": "people/florian/index.html",
-    "href": "people/florian/index.html",
-    "title": "Florian Kraulich",
-    "section": "",
-    "text": "Causal Data Science Extreme Weather and Climate Events"
+    "objectID": "index.html#jun---prof.-dr.-marlene-kretschmer",
+    "href": "index.html#jun---prof.-dr.-marlene-kretschmer",
+    "title": "About",
+    "section": "Jun - Prof. Dr. Marlene Kretschmer",
+    "text": "Jun - Prof. Dr. Marlene Kretschmer\n\n\nAC3: Arctic Amplification: Climate Relevant Atmospheric and Surface Processes and Feedback Mechanisms\nEXPECT: Towards an Integrated Capability to Explain and Predict Regional Climate Changes\nXAIDA: eXtreme events: Artificial Intelligence for Detection and Attribution"
   },
   {
-    "objectID": "people/florian/index.html#bio",
-    "href": "people/florian/index.html#bio",
-    "title": "Florian Kraulich",
+    "objectID": "index.html#jun---prof.-dr.-sebastian-sippel",
+    "href": "index.html#jun---prof.-dr.-sebastian-sippel",
+    "title": "About",
+    "section": "Jun - Prof. Dr. Sebastian Sippel",
+    "text": "Jun - Prof. Dr. Sebastian Sippel\n\n\nCLIMXTREME: Climate Change and Extreme Events\nXAIDA: eXtreme events: Artificial Intelligence for Detection and Attribution\nAI4PEX: Artificial Intelligence for enhanced representation of processes and extremes in Earth System Models\nECO-N: Economics of Connected Natural Commons\nHeinz Maier-Leibnitz Price of the DFG"
+  },
+  {
+    "objectID": "research/impacts/index.html",
+    "href": "research/impacts/index.html",
+    "title": "Climate Impacts",
+    "section": "",
+    "text": "Anomalies in Leaf Area Index in the 30 days after a Sudden Stratospheric Warming event. The brown color illustrates negative anomalies, thus decreased plant growth.\n\n\nThe challenge: Ultimately, climate variability and extreme weather events affect people and ecosystems through their impacts — on human health, energy systems, agriculture, and ecological functioning. Understanding and quantifying these impacts is essential for effective adaptation and risk management. However, linking climate variability and extremes to real-world impacts is scientifically challenging. Impacts depend not only on the physical hazard, but also on vulnerability and exposure, which are often independent of climate and can be difficult to quantify. Moreover, different types of variability and extremes (e.g., duration, intensity, spatial scale) can drive different kinds of impacts. Estimating those impacts can involve both statistical approaches and process-based models, each with strengths and limitations — and both requiring careful validation against observational or empirical impact data.\nWhat we do: We investigate how climate variability and extreme events translate into impacts across a range of sectors, including:\n\nEnergy systems – supply and demand under extreme conditions\nEcosystem functioning and carbon uptake\nCrop failure\nClimate-biodiversity interactions\n\nTo do this, we combine climate modeling, statistical and causal inference methods, and sector-specific impact models (e.g., vegetation models). This allows us to estimate and attribute impacts associated with individual extreme events or broader patterns of climate variability. For example, we use worst-case climate simulations to assess the sensitivity of European ecosystems to concurrent heatwaves and droughts, helping to anticipate risks to carbon sinks under future climate conditions.\nReferences:\nLi, N., Sippel, S., Linscheid, N., Rödenbeck, C., Winkler, A.J., Reichstein, M., Mahecha, M.D. and Bastos, A., 2024. Enhanced global carbon cycle sensitivity to tropical temperature linked to internal climate variability. Science Advances, 10(39), p.eadl6155. https://doi.org/10.1126/sciadv.adl6155\nMahecha, M.D., Bastos, A., Bohn, F.J., Eisenhauer, N., Feilhauer, H., Hickler, T., Kalesse‐Los, H., Migliavacca, M., Otto, F.E.L., Peng, J. […], 2024. Biodiversity and climate extremes: Known interactions and research gaps. Earth’s Future, 12(6), p.e2023EF003963. https://doi.org/10.1029/2023EF003963\nPfleiderer, P., Jézéquel, A., Legrand, J., Legrix, N., Markantonis, I., Vignotto, E. and Yiou, P., 2021. Simulating compound weather extremes responsible for critical crop failure with stochastic weather generators. Earth System Dynamics, 12(1), pp.103-120. https://doi.org/10.5194/esd-12-103-2021\nRouges, E., Kretschmer, M. and Shepherd, T.G., 2024. On the link between weather regimes and energy shortfall during winter for 28 European countries. https://eartharxiv.org/repository/view/7589/"
+  },
+  {
+    "objectID": "research/causality/index.html",
+    "href": "research/causality/index.html",
+    "title": "Causal Data Science",
+    "section": "",
+    "text": "Relationship between Causal Representation Learning, Causal Discovery, and Causal Inference. Figure by Marlene Kretschmer.\n\n\nCausal data science offers powerful tools to better understand the drivers of regional climate variability and extreme events. Moving beyond correlation, causal approaches help identify the mechanisms that underlie complex climate processes—an essential step toward more robust and interpretable insights. Our work integrates methods from causal inference, causal discovery, and causal representation learning to investigate cause-effect relationships in climate data.\nCausal inference techniques estimate the influence of specific drivers while accounting for confounding factors. We apply this to disentangle the roles of multiple teleconnections (e.g. ENSO, MJO) and to better understand their individual and combined contributions to regional climate impacts and extremes. These causal tools are particularly well-suited to identifying how such patterns propagate through the climate system.\nWith causal discovery, we can further uncover potential causal structures directly from observational data, revealing interactions that may not be captured in purely correlation-based approaches.\nA newer and rapidly developing area of our research is causal representation learning, which enables us to learn structured, low-dimensional representations of climate patterns directly from high-dimensional gridded data. By integrating causal reasoning with machine learning, this approach helps isolate key modes of variability and improves the interpretability of complex datasets. Together, these methods form a growing toolkit for tackling pressing questions in climate science. While challenges remain, causal data science holds strong potential to complement physical models and deepen our understanding of how remote climatic drivers can shape local, and regional changes.\nPublications:\nCarvalho-Oliveira, J., Di Capua, G., Borchert, L. F., Donner, R. V., and Baehr, J.: Causal relationships and predictability of the summer East Atlantic teleconnection (2024), Weather Clim. Dynam., 5, 1561–1578, https://doi.org/10.5194/wcd-5-1561-202.\nKretschmer, M.; Adams, S.; Arribas, A.; Saggioro, E.; Prudden, R.; Robinson, N.; Shepherd, T.: Quantifying causal teleconnection pathways (2021), Bulletin of the American Meteorological Society. 2020. DOI: 10.1175/BAMS-D-20-0117.1.\nPfleiderer, P., Schleussner, C.-F., Geiger, T., and Kretschmer, M.: Robust predictors for seasonal Atlantic hurricane activity identified with causal effect networks (2020), Weather Clim. Dynam., 1, 313–324, https://doi.org/10.5194/wcd-1-313-2020."
+  },
+  {
+    "objectID": "research/extremes/index.html",
+    "href": "research/extremes/index.html",
+    "title": "Extreme weather and climate events",
+    "section": "",
+    "text": "France: The water level of the Loire is at its lowest due to the drought of 2022, as seen here in the Varades branch, in Loire-Atlantique. Photo: Franck Dubray/Ouest-France\n\n\nEach year, extreme weather events -from heatwaves, droughts, to heavy precipitation and storms- impact people and ecosystems around the world. At a local level, these events represent rare and unusual climatic conditions to which communities are not well adapted. As the climate warms, the frequency and intensity of of such events are changing, making it essential to understand how extremes are evolving and what we can expect in the future.\nThe main challenge when studying weather extremes is that these events are rare per definition and only few of them are recorded in observations, making it hard to study processes, spatio-temporal changes and statistics related to those events. Climate models are a key tool to address this challenge. By simulating many possible versions of the climate, they generate large numbers of extreme events for analysis. However, models have limitations -especially at regional scales- which is why a combination of models, observations, and statistical methods remain essential.\nIn our research group we study weather extremes and their changes using diverse methods and approaches. We use and develop statistical and machine learning methods to better deduce changes of weather extremes from the observational record. We also analyze and produce climate simulations including special simulation protocols to efficiently simulate many extreme events (importance sampling) and counterfactual simulations showing how the same weather events would have looked like without anthropogenic climate change (nudged storyline simulations). We are analyzing heat waves, droughts, wildfires, cold spells and dark doldrums.\nPublications:\nSippel, S., Barnes, C., Cadiou, C., Fischer, E., Kew, S., Kretschmer, M., Philip, S., Shepherd, T. G., Singh, J., Vautard, R., & Yiou, P. (2024). Could an extremely cold central European winter such as 1963 happen again despite climate change? Weather and Climate Dynamics, 5(3), 943–957. https://doi.org/10.5194/wcd-5-943-2024\nPfleiderer, P., Nath, S., & Schleussner, C.-F. (2022). Extreme Atlantic hurricane seasons made twice as likely by ocean warming. Weather and Climate Dynamics, 3(2), 471–482. https://doi.org/10.5194/wcd-3-471-2022"
+  },
+  {
+    "objectID": "people/marlene/index.html",
+    "href": "people/marlene/index.html",
+    "title": "Jun. Prof. Marlene Kretschmer",
+    "section": "",
+    "text": "Teleconnections and Regional Climate Change Causal Data Science Extreme Weather and Climate Events Climate Impacts Machine Learning"
+  },
+  {
+    "objectID": "people/marlene/index.html#bio",
+    "href": "people/marlene/index.html#bio",
+    "title": "Jun. Prof. Marlene Kretschmer",
     "section": "Bio",
-    "text": "Bio\nI am a trained meteorologist with a focus on climate. During my studies, I spent semesters abroad on Svalbard (Norway) and in Lisbon (Portugal), which deepened my interest in climate dynamics, oceanography, and Arctic amplification. In my free time, I enjoy running, spending time outdoors, and traveling."
+    "text": "Bio\nI studied mathematics before completing a PhD in climate physics at the Potsdam Institute for Climate Impact Research. I then worked as a postdoctoral researcher in the Department of Meteorology at the University of Reading (UK). Since 2022, I have been a Junior Professor of Climate Causality at Leipzig University. Outside of work, I enjoy sports and spending time with my children."
   },
   {
-    "objectID": "people/florian/index.html#research-interests",
-    "href": "people/florian/index.html#research-interests",
-    "title": "Florian Kraulich",
+    "objectID": "people/marlene/index.html#research-interests",
+    "href": "people/marlene/index.html#research-interests",
+    "title": "Jun. Prof. Marlene Kretschmer",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research focuses on attributing anthropogenic forcings to heat extremes. In particular, I aim to quantify the effects of aerosols on heatwaves."
+    "text": "Research Interests\nMy research aims to understand the large-scale drivers of regional weather and climate, including extreme events, and how this knowledge can enhance predictions from subseasonal timescales to projections extending to the end of the century. I have worked extensively on stratosphere–troposphere coupling and Northern Hemisphere midlatitude climate. More recently, I have been exploring tropical teleconnections and Southern Hemisphere climate dynamics. I am particularly interested in applying causal inference and machine learning algorithms to identify key drivers and teleconnections in large climate model simulations and observational datasets. My approach integrates data-driven methods with physical understanding to improve climate prediction and interpretation. I also value interdisciplinary collaboration, particularly in connecting atmospheric sciences with ecosystem research, the social sciences, and explainable AI."
   },
   {
-    "objectID": "people/florian/index.html#curriculum-vitae",
-    "href": "people/florian/index.html#curriculum-vitae",
-    "title": "Florian Kraulich",
+    "objectID": "people/marlene/index.html#curriculum-vitae",
+    "href": "people/marlene/index.html#curriculum-vitae",
+    "title": "Jun. Prof. Marlene Kretschmer",
     "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\nJanuary 2024 - Present\n\n\n\nDoctoral Researcher\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nSeptember 2023 - December 2023\n\n\n\nResearch Assistant\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nSeptember 2020 - June 2021\n\n\n\nStudy Abroad\n\n\nUniversity of Lisbon, Portugal\n\n\n\n\n\nAugust 2018 - December 2018\n\n\n\nStudy Abroad\n\n\nThe University Centre in Svalbard, Norway\n\n\n\n\n\nOctober 2016 - October 2022\n\n\n\nBachelor and Master’s in Meteorology\n\n\nLeipzig University, Germany"
+    "text": "Curriculum Vitae \n\n\n\n\nOctober 2022 - Present\n\n\n\nJunior Professor for Climate\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nOctober 2019 - September 2022\n\n\n\nResearch Scientist\n\n\nReading University, Department for Meteorology, UK\n\n\n\n\n\nMay 2014 - April 2018\n\n\n\nPhD in Climate Physics\n\n\nPotsdam Institute for Climate Impact Research, Germany\n\n\n\n\n\nOctober 2008 - January 2014\n\n\n\nDiploma in Mathematics\n\n\nHumboldt University Berlin, Germany"
   },
   {
-    "objectID": "people/frieder/index.html",
-    "href": "people/frieder/index.html",
-    "title": "Frieder Loer",
+    "objectID": "people/marlene/index.html#selected-publications",
+    "href": "people/marlene/index.html#selected-publications",
+    "title": "Jun. Prof. Marlene Kretschmer",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\n\n\n\nIdentifying probabilistic weather regimes targeted to a local-scale impact variable\n\n\nAuthor(s): F. Spuler et al.\n\n\nEnvironmental Data Science, 2024\n\n\n\n\n\n\nA shifting climate: New paradigms and challenges for (early career) scientists in extreme weather research\n\n\nAuthor(s): M. Kretschmer et al.\n\n\nAtmospheric Science Letters, 2024\n\n\n\n\n\n\nFinding the right XAI Method — A Guide for the Evaluation and Ranking of Explainable AI Methods in Climate Science\n\n\nAuthor(s): P. L. Bommer et al.\n\n\nArtificial Intelligence for the Earth Systems, 2024\n\n\n\n\n\n\nQuantifying Causal Pathways of Teleconnections\n\n\nAuthor(s): Kretschmer et al.\n\n\nBulletin of the American Meteorological Society, 2021\n\n\n\n\n\n\nThe role of Barents–Kara sea ice loss in projected polar vortex changes\n\n\nAuthor(s): Kretschmer et al.\n\n\nWeather and Climate Dynamics, 2020\n\n\n\n\n\n\nUsing Causal Effect Networks to Analyze Different Arctic Drivers of Midlatitude Winter Circulation\n\n\nAuthor(s): Kretschmer et al.\n\n\nJournal of Climate, 2016"
+  },
+  {
+    "objectID": "people/fiona/index.html",
+    "href": "people/fiona/index.html",
+    "title": "Fiona Spuler",
     "section": "",
-    "text": "Detection and Attribution Extreme Weather and Climate Events Machine Learning"
+    "text": "Teleconnections and Regional Climate Change Causal Data Science Machine Learning Extreme Weather and Climate Events"
   },
   {
-    "objectID": "people/frieder/index.html#bio",
-    "href": "people/frieder/index.html#bio",
-    "title": "Frieder Loer",
+    "objectID": "people/fiona/index.html#bio",
+    "href": "people/fiona/index.html#bio",
+    "title": "Fiona Spuler",
     "section": "Bio",
-    "text": "Bio\nI studied Physics and Earth System Data Science and Remote Sensing at Leipzig University. Towards the end of my studies, I developed a strong interest in combining data science methods with a research domain of my interest and found a great combination of both in Climate Attribution."
+    "text": "Bio\nI am passionate about developing open-source climate information for locally-led adaptation decision-making through research and open-source software development. With a background in Mathematical Physics (MSc) and Environmental Change and Management (MSc), I worked in climate finance for three years, assessing the alignment of the financial markets in major European economies with climate mitigation targets, and on adaptation finance as part of the Mercator Fellowship on International Affairs. Aside from work, I enjoy dancing, reading, organising scavenger hunts and spending time outdoors with friends."
   },
   {
-    "objectID": "people/frieder/index.html#research-interests",
-    "href": "people/frieder/index.html#research-interests",
-    "title": "Frieder Loer",
+    "objectID": "people/fiona/index.html#research-interests",
+    "href": "people/fiona/index.html#research-interests",
+    "title": "Fiona Spuler",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research interest lies in the application of statistical and machine learning methods for improving the understanding and attribution of air temperature trends and extremes. Ultimately, my research aims to provide attribution statements that support further research on the influence of air temperature extremes on private household economics within the Eco-N graduate school."
+    "text": "Research Interests\nMy research aims to understand long-range teleconnections in the climate system which can act as sources of predictability at subseasonal to seasonal timescales and can aid the dynamical interpretation of future changes, by combining representation learning approaches from machine learning with causal inference methods. In my PhD, I have so far developed a generative machine learning method to identify physically robust dynamical drivers of extreme precipitation over Morocco. My current work focuses on extending this approach to develop machine learning methods to jointly learn reduced representations of high-dimensional climatic processes along with their causal relationships. My PhD is supervised by Marlene Kretschmer and Ted Shepherd, and based at the University of Reading.\nI also co-developed the open-source Python package ibicus for the bias adjustment of climate models and am interested in understanding the role of values in the way we do science. I also coordinate the Early Career Researcher Group in the ‘My Climate Risk’ Lighthouse Activity of the World Climate Research Program - reach out if you are interested to learn more."
   },
   {
-    "objectID": "people/frieder/index.html#curriculum-vitae",
-    "href": "people/frieder/index.html#curriculum-vitae",
-    "title": "Frieder Loer",
+    "objectID": "people/fiona/index.html#curriculum-vitae",
+    "href": "people/fiona/index.html#curriculum-vitae",
+    "title": "Fiona Spuler",
     "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\n2025 - Present\n\n\n\nPhD in Meteorology\n\n\nLeipzig University, Germany\n\n\n\n\n\n2022 - 2025\n\n\n\nMaster’s in Earth System Data Science and Remote Sensing\n\n\nLeipzig University, Germany\n\n\n\n\n\n2017 - 2024\n\n\n\nBachelor and Master’s in Physics\n\n\nLeipzig University, Germany"
+    "text": "Curriculum Vitae \n\n\n\n\nSeptember 2022 - Present\n\n\n\nPhD Student\n\n\nUniversity of Reading, Reading, UK\n\n\n\n\n\nSeptember 2021 - August 2022\n\n\n\nMercator Fellow on International Affairs\n\n\nOASIS, Coalition on Climate Resilient Investment - London, UK; ICCCAD, Dhaka, Bangladesh; ECMWF, Summer of Weather Code, Reading, UK\n\n\n\n\n\nOctober 2019 - July 2021\n\n\n\nSenior Analyst\n\n\n2 Degrees Investing Initiative, Berlin, Germany and London, UK\n\n\n\n\n\nOctober 2012 - September 2019\n\n\n\nEducation\n\n\nBSc Physics (Georg-August Universität Göttingen, Germany); MSc Mathematical Physics (University of Edinburgh, UK); MSc Environmental Change and Management (University of Oxford, UK)"
   },
   {
-    "objectID": "people/ernest/index.html",
-    "href": "people/ernest/index.html",
-    "title": "Ernest Agyemang-Oko",
+    "objectID": "people/fiona/index.html#selected-publications",
+    "href": "people/fiona/index.html#selected-publications",
+    "title": "Fiona Spuler",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\n\n\n\nLearning predictable and informative dynamical drivers of extreme precipitation using variational autoencoders\n\n\nAuthor(s): F. Spuler et al.\n\n\nPreprint in Weather and Climate Dynamics, 2025\n\n\n\n\n\n\nibicus: a new open-source Python package and comprehensive interface for statistical bias adjustment and evaluation in climate modelling\n\n\nAuthor(s): F.Spuler, J.Wessel et al.\n\n\nGeoscientific Model Development, 2024\n\n\n\n\n\n\nIdentifying probabilistic weather regimes targeted to a local-scale impact variable\n\n\nAuthor(s): F.Spuler et al.\n\n\nEnvironmental Data Science, 2024"
+  },
+  {
+    "objectID": "people/johanna/index.html",
+    "href": "people/johanna/index.html",
+    "title": "Johanna Beikert",
     "section": "",
     "text": "Teleconnections and Regional Climate Change Causal Data Science Extreme Weather and Climate Events"
   },
   {
-    "objectID": "people/ernest/index.html#bio",
-    "href": "people/ernest/index.html#bio",
-    "title": "Ernest Agyemang-Oko",
-    "section": "Bio",
-    "text": "Bio\nI am a PhD researcher with a background in physics. My academic path began in Ghana, where I completed a bachelor’s degree in physics and later worked as a teaching and research assistant. Driven by a growing interest in climate systems, I pursued a master’s in environmental physics at the University of Bremen, Germany, and gained further research experience at the Alfred-Wegener-Institute. Beyond my academic work, I enjoy going to the gym regularly to stay fit and active."
-  },
-  {
-    "objectID": "people/ernest/index.html#research-interests",
-    "href": "people/ernest/index.html#research-interests",
-    "title": "Ernest Agyemang-Oko",
+    "objectID": "people/johanna/index.html#research-interests",
+    "href": "people/johanna/index.html#research-interests",
+    "title": "Johanna Beikert",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research focuses on Arctic climate change and mid-latitude linkages. I am particularly interested in understanding how changes in Arctic Sea ice influence large-scale atmospheric circulation and contribute to extremes in mid-latitude weather. By combining climate model simulations with observational and reanalysis data, I investigate the complex interactions between Arctic Sea ice loss and atmospheric blocking to improve our understanding of the broader impacts of Arctic climate change on the global climate system and enhance the predictability of climate variability."
+    "text": "Research Interests\nLink between Stratospheric Polar Vortex and Vegetation Growth in Spring."
   },
   {
-    "objectID": "people/ernest/index.html#curriculum-vitae",
-    "href": "people/ernest/index.html#curriculum-vitae",
-    "title": "Ernest Agyemang-Oko",
+    "objectID": "people/johanna/index.html#curriculum-vitae",
+    "href": "people/johanna/index.html#curriculum-vitae",
+    "title": "Johanna Beikert",
     "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\nMay 2024 - Present\n\n\n\nPhD Researcher\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nJuly 2021 - February 2022\n\n\n\nResearch Assistant\n\n\nAlfred-Wegener-Institut (AWI), Germany\n\n\n\n\n\nOctober 2018 - December 2021\n\n\n\nMaster in Environmental Physics\n\n\nUniversity of Bremen, Germany\n\n\n\n\n\nSeptember 2017 - August 2018\n\n\n\nTeaching and Research Assistant\n\n\nUniversity of Cape Coast, Ghana\n\n\n\n\n\nSeptember 2013 - May 2017\n\n\n\nBachelor in Physics\n\n\nUniversity of Cape Coast, Ghana"
+    "text": "Curriculum Vitae \n\n\n\n\n2022 - 2025\n\n\n\nMaster in Meteorology\n\n\nLeipzig University, Germany\n\n\n\n\n\n2018 - 2022\n\n\n\nBachelor in Physics\n\n\nHeidelberg University, Germany"
   },
   {
-    "objectID": "people/sujata/index.html",
-    "href": "people/sujata/index.html",
-    "title": "Sujata Kulkarni",
+    "objectID": "people/marina/index.html",
+    "href": "people/marina/index.html",
+    "title": "Dr. Marina Friedel",
     "section": "",
     "text": "Teleconnections and Regional Climate Change Causal Data Science Extreme Weather and Climate Events"
   },
   {
-    "objectID": "people/sujata/index.html#bio",
-    "href": "people/sujata/index.html#bio",
-    "title": "Sujata Kulkarni",
+    "objectID": "people/marina/index.html#bio",
+    "href": "people/marina/index.html#bio",
+    "title": "Dr. Marina Friedel",
     "section": "Bio",
-    "text": "Bio\nI am a Civil Engineer with a master’s in water resources engineering from the Indian Institute of Technology (IIT) Gandhinagar. Currently, I am pursuing my doctoral research at Dept. Of Hydrology, IIT Roorkee and am a DAAD visiting scholar at Climate Causality Group. My research focuses on the Indian summer monsoon, with a particular interest in understanding and quantifying polar-tropical teleconnection patterns to improve the predictability of monsoon variability and its extremes."
+    "text": "Bio\nI am a trained physicist with a background in cosmology and medical physics, but my passion for tackling global challenges led me into climate science during my PhD at ETH Zurich. Beyond research, I am passionate about science communication, making complex topics accessible to a broader audience. In my free time, I seek out the outdoors whenever possible or enjoy a good book with a great cup of coffee."
   },
   {
-    "objectID": "people/sujata/index.html#research-interests",
-    "href": "people/sujata/index.html#research-interests",
-    "title": "Sujata Kulkarni",
+    "objectID": "people/marina/index.html#research-interests",
+    "href": "people/marina/index.html#research-interests",
+    "title": "Dr. Marina Friedel",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research focuses on the Indian summer monsoon and its teleconnections, particularly how Arctic amplification influences monsoon variability. I aim to uncover the underlying causal mechanisms that drive these long-range climate interactions, going beyond correlations to identify directional influences and feedback loops in the climate system. To address these questions, I apply tools from complex network science, which allow the representation of climate systems as networks of interacting components to understand emergent structures and pathways. In combination with causal inference techniques , I work to disentangle the multi-scale drivers of Indian summer monsoon and improve our ability to predict extreme events."
+    "text": "Research Interests\nMy research focuses on large-scale atmospheric dynamics and their influence on regional climate, with a particular emphasis on droughts. I aim to uncover the causal chains behind extreme events, employing statistical methods and machine learning to improve our understanding of these phenomena and refine model projections of extreme events at a regional scale, providing actionable data to support climate adaptation and resilience strategies. Additionally, I am interested in interactions between the ozone layer and climate, examining both interannual variability and long-term trends."
   },
   {
-    "objectID": "people/sujata/index.html#selected-publications",
-    "href": "people/sujata/index.html#selected-publications",
-    "title": "Sujata Kulkarni",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\n\n\n\nArctic sea ice variability and its multiscale association with Indian summer monsoon rainfall at different time scales\n\n\nAuthor(s): Kulkarni, S., & Agarwal, A.\n\n\nJournal of Hydrology, 2025\n\n\n\n\n\n\nTracing spatiotemporal changes in agricultural and non-agricultural trade networks of India\n\n\nAuthor(s): Kulkarni, S, and Agarwal, A. .\n\n\nPlos one 18.9 , 2023\n\n\n\n\n\n\nQuantifying the association between Arctic Sea ice extent and Indian precipitation.\n\n\nAuthor(s): Kulkarni, S., & Agarwal, A.\n\n\nInternational Journal of Climatology, 2023"
-  },
-  {
-    "objectID": "people/peter/index.html",
-    "href": "people/peter/index.html",
-    "title": "Dr. Peter Pfleiderer",
-    "section": "",
-    "text": "Detection and Attribution Extreme Weather and Climate Events Climate Impacts Machine Learning"
-  },
-  {
-    "objectID": "people/peter/index.html#bio",
-    "href": "people/peter/index.html#bio",
-    "title": "Dr. Peter Pfleiderer",
-    "section": "Bio",
-    "text": "Bio\nAt the end of my physics studies I decided to focus on topics that are relevant to a wider public and specialized on climate dynamcis. Since then, I have been researching how various weather extremes change in a warming climate focusing on weather extremes that can become particularly harmful to ecological systems and societies. Being confronted with impacts of climate change on a daily basis while whitnessing that greenhouse gas emissions are still rising can be frustrating but this is outweighed by the enjoyable atmosphere in the climate research community and my interest in the climate system such that I would like to stay in the field for longer."
-  },
-  {
-    "objectID": "people/peter/index.html#research-interests",
-    "href": "people/peter/index.html#research-interests",
-    "title": "Dr. Peter Pfleiderer",
-    "section": "Research Interests",
-    "text": "Research Interests\nI’m mainly interested in weather extremes that have lead to ecological or societal impacts and I study how (or wether) these weather extremes changes in a warming climate. The main challenge in weather extremes research is that these events are by definition rare while our observational record is rather short. Besides the weather events themselves I’m also intersted in methodological developments to overcome this challenge including stistical approaches being applied to the observational record as well as specific climate simulation experiments to efficiently generate large numbers of extreme events in a given climate state."
-  },
-  {
-    "objectID": "people/peter/index.html#curriculum-vitae",
-    "href": "people/peter/index.html#curriculum-vitae",
-    "title": "Dr. Peter Pfleiderer",
+    "objectID": "people/marina/index.html#curriculum-vitae",
+    "href": "people/marina/index.html#curriculum-vitae",
+    "title": "Dr. Marina Friedel",
     "section": "Curriculum Vitae ",
-    "text": "Curriculum Vitae \n\n\n\n\n2024 - Present\n\n\n\nPostdoctoral Researcher\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\n2022 - 2023\n\n\n\nPostdoctoral Researcher\n\n\nClimate Analytics Berlin, Germany\n\n\n\n\n\n2021 - 2022\n\n\n\nPostdoctoral Researcher\n\n\nUniversity of Hamburg, Germany\n\n\n\n\n\n2017 - 2021\n\n\n\nPhD in Geography\n\n\nHumboldt University, Berlin, Germany\n\n\n\n\n\n2016 - 2017\n\n\n\nResearcher Analyst\n\n\nClimate Analytics Berlin, Germany\n\n\n\n\n\n2010 - 2016\n\n\n\nBachelor and Master’s in Physics\n\n\nFreie Universität Berlin, Germany"
+    "text": "Curriculum Vitae \n\n\n\n\nJuly 2024 - Present\n\n\n\nResearch Scientist\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nJune 2023 - October 2023\n\n\n\nResearch Scientist\n\n\nETH Zurich, Institute for Atmospheric and Climate Science, Switzerland\n\n\n\n\n\nOctober 2019 - May 2023\n\n\n\nPhD in Environmental System Science\n\n\nETH Zurich, Institute for Atmospheric and Climate Science, Switzerland\n\n\n\n\n\nOctober 2013 - May 2019\n\n\n\nBachelor and Master in Physics\n\n\nUniversity of Tubingen, Germany"
   },
   {
-    "objectID": "people/peter/index.html#selected-publications",
-    "href": "people/peter/index.html#selected-publications",
-    "title": "Dr. Peter Pfleiderer",
+    "objectID": "people/marina/index.html#selected-publications",
+    "href": "people/marina/index.html#selected-publications",
+    "title": "Dr. Marina Friedel",
     "section": "Selected Publications",
-    "text": "Selected Publications\n\n\n\n\nReversal of the impact chain for actionable climate information\n\n\nAuthor(s): Pfleiderer et al.\n\n\nNature geoscience, 2025\n\n\n\n\n\n\nLimited reversal of regional climate signals in overshoot scenarios\n\n\nAuthor(s): Peter Pfleiderer, Carl-Friedrich Schleussner, Jana Sillmann\n\n\nEnvironmental Research: Climate, 2024\n\n\n\n\n\n\nExtreme Atlantic hurricane seasons made twice as likely by ocean warming\n\n\nAuthor(s): Peter Pfleiderer, Shruti Nath, Carl-Friedrich Schleussner\n\n\nWeather and Climate Dynamcis, 2022\n\n\n\n\n\n\nSimulating compound weather extremes responsible for critical crop failure with stochastic weather generators\n\n\nAuthor(s): Peter Pfleiderer et al.\n\n\nEarth System Dynamics, 2021\n\n\n\n\n\n\nSummer weather becomes more persistent in a 2 °C world\n\n\nAuthor(s): Peter Pfleiderer, Carl-Friedrich Schleussner, Kai Kornhuber, Dim Coumou\n\n\nNature Climate Change, 2019\n\n\n\n\n\n\nIncreasing risks of apple tree frost damage under climate change\n\n\nAuthor(s): Peter Pfleiderer, Inga Menke, Carl-Friedrich Schleussner\n\n\nClimatic Change, 2019"
+    "text": "Selected Publications\n\n\n\n\nWeakening of springtime Arctic ozone depletion with climate change\n\n\nAuthor(s): M. Friedel et al.\n\n\nAtmospheric Chemistry and Physics, 2023\n\n\n\n\n\n\nSpringtime arctic ozone depletion forces northern hemisphere climate anomalies\n\n\nAuthor(s): M. Friedel et al.\n\n\nNature Geoscience, 2022\n\n\n\n\n\n\nEffects of Arctic ozone on the stratospheric spring onset and its surface impact\n\n\nAuthor(s): M. Friedel et al.\n\n\nAtmospheric Chemistry and Physics, 2022"
+  },
+  {
+    "objectID": "people/sebastian/index.html",
+    "href": "people/sebastian/index.html",
+    "title": "Jun. Prof. Dr. Sebastian Sippel",
+    "section": "",
+    "text": "Detection and Attribution Extreme Weather and Climate Events Machine Learning Climate Impacts"
+  },
+  {
+    "objectID": "people/sebastian/index.html#bio",
+    "href": "people/sebastian/index.html#bio",
+    "title": "Jun. Prof. Dr. Sebastian Sippel",
+    "section": "Bio",
+    "text": "Bio\nI’m a Junior Professor for Climate Attribution at the Leipzig Institute for Meteorology since April 2023. My background is in Geoecology and Environmental Sciences (Bayreuth & Oxford). In 2017, I defended my PhD research on “Climate extremes and their impact on ecosystem–atmosphere interactions”, which was conducted at the Max Planck Institute for Biogeochemistry in Jena and at ETH Zurich. Following my PhD, I was a researcher at the Norwegian Institute for Bioeconomy Research (2017-2018), and at the Climate Physics Group at ETH Zurich (2018-2023)."
+  },
+  {
+    "objectID": "people/sebastian/index.html#research-interests",
+    "href": "people/sebastian/index.html#research-interests",
+    "title": "Jun. Prof. Dr. Sebastian Sippel",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research interests include improving our understanding of climate variability, extremes and their changes at global and regional scales. Further, my research also explores the implications of global climate change for impact-relevant variables such as the hydrological cycle at the regional scale, ecosystem water-carbon cycling, and society at large. The bulk of my research is closely linked to climate change detection and attribution. I use modern empirical-quantitative statistical and machine learning methods to address these broad research questions, integrating various climate and Earth science data streams such as observations and various kinds of climate model simulations."
+  },
+  {
+    "objectID": "people/sebastian/index.html#curriculum-vitae",
+    "href": "people/sebastian/index.html#curriculum-vitae",
+    "title": "Jun. Prof. Dr. Sebastian Sippel",
+    "section": "Curriculum Vitae ",
+    "text": "Curriculum Vitae \n\n\n\n\n2023 - Present\n\n\n\nJunior Professor for Climate Attribution\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\n2018 - 2023\n\n\n\nPostDoc and Senior Scientist\n\n\nClimate Physics Group, Institute for Atmospheric and Climate Science, ETH Zurich, Switzerland\n\n\n\n\n\n2017 - 2018\n\n\n\nResearcher\n\n\nNorwegian Institute for Bioeconomy Research\n\n\n\n\n\n2014 - 2017\n\n\n\nPhD Researcher\n\n\nMax Planck Institute for Biogeochemistry"
+  },
+  {
+    "objectID": "people/sebastian/index.html#selected-publications",
+    "href": "people/sebastian/index.html#selected-publications",
+    "title": "Jun. Prof. Dr. Sebastian Sippel",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\n\n\n\nEarly-twentieth-century cold bias in ocean surface temperature observations\n\n\nAuthor(s): Sippel, S., et al.\n\n\nNature, 2024\n\n\n\n\n\n\nCould an extremely cold central European winter such as 1963 happen again despite climate change?\n\n\nAuthor(s): Sippel, S., et al.\n\n\nWeather and Climate Dynamics, 2024\n\n\n\n\n\n\nIncreasing probability of record-shattering climate extremes\n\n\nAuthor(s): Fischer, E., Sippel, S., Knutti, R.\n\n\nNature Climate Change, 2021\n\n\n\n\n\n\nClimate change now detectable from any single day of weather at global scale\n\n\nAuthor(s): Sippel, S., et al.\n\n\nNature Climate Change, 2021\n\n\n\n\n\n\nUncovering the forced climate response from a single ensemble member using statistical learning\n\n\nAuthor(s): Sippel, S., et al.\n\n\nJournal of Climate, 2019\n\n\n\n\n\n\nDrought, heat, and the carbon cycle: a review\n\n\nAuthor(s): Sippel, S., et al.\n\n\nCurrent Climate Change Reports, 2018"
+  },
+  {
+    "objectID": "people/julianna/index.html",
+    "href": "people/julianna/index.html",
+    "title": "Julianna Carvalho Oliveira",
+    "section": "",
+    "text": "Teleconnections and Regional Climate Change Machine Learning"
+  },
+  {
+    "objectID": "people/julianna/index.html#bio",
+    "href": "people/julianna/index.html#bio",
+    "title": "Julianna Carvalho Oliveira",
+    "section": "Bio",
+    "text": "Bio\nI am a Brazilian climate scientist with a background in oceanography and a passion for understanding the climate system and contributing to practical solutions for sustainable development and climate change resilience. I’ve previously worked as a Climate Risk Analyst in the finance and insurance sector, supporting disaster risk reduction efforts. Outside of research, I enjoy outdoor activities—especially sport climbing."
+  },
+  {
+    "objectID": "people/julianna/index.html#research-interests",
+    "href": "people/julianna/index.html#research-interests",
+    "title": "Julianna Carvalho Oliveira",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research focuses on the variability and predictability of the European climate, with a particular emphasis on summer extremes. I combine causality inference techniques and machine learning to improve the credibility of climate predictions. I’m especially interested in the role of large-scale atmospheric patterns, land–atmosphere interactions, and how these insights can inform early warning systems, climate services, and adaptation strategies. I am currently a researcher on the Horizon Europe project EXPECT: Towards an Integrated Capability to Explain and Predict Regional Climate, which aims to advance understanding and prediction of regional climate variability and extremes."
+  },
+  {
+    "objectID": "people/julianna/index.html#curriculum-vitae",
+    "href": "people/julianna/index.html#curriculum-vitae",
+    "title": "Julianna Carvalho Oliveira",
+    "section": "Curriculum Vitae ",
+    "text": "Curriculum Vitae \n\n\n\n\nApril 2024 - Present\n\n\n\nPostdoctoral Researcher\n\n\nLeipzig University, Institute for Meteorology, Germany\n\n\n\n\n\nAugust 2023 - March 2024\n\n\n\nProject Manager/Researcher\n\n\nFrankfurt School of Finance and Management, Germany\n\n\n\n\n\nJanuary 2023 - June 2023\n\n\n\nPostdoctoral Researcher\n\n\nUniversity of Hamburg, Germany\n\n\n\n\n\nSeptember 2018 - August 2023\n\n\n\nPhD researcher\n\n\nUniversity of Hamburg, Germany\n\n\n\n\n\nAugust 2015 - July 2017\n\n\n\nMaster Student\n\n\nUniversity of Southampton, UK"
+  },
+  {
+    "objectID": "people/julianna/index.html#selected-publications",
+    "href": "people/julianna/index.html#selected-publications",
+    "title": "Julianna Carvalho Oliveira",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\n\n\n\nCausal relationships and predictability of the summer East Atlantic teleconnection\n\n\nAuthor(s): Julianna Carvalho-Oliveira, Giorgia Di Capua, Leonard F. Borchert, Reik V. Donner, and Johanna Baehr\n\n\nWeather and Climate Dynamics, 2024\n\n\n\n\n\n\nSelf-Organizing Maps Identify Windows of Opportunity for Seasonal European Summer Predictions\n\n\nAuthor(s): Julianna Carvalho-Oliveira, Leonard F. Borchert, Eduardo Zorita, and Johanna Baehr\n\n\nFrontiers in Climate, 2022\n\n\n\n\n\n\nSubtle influence of the Atlantic Meridional Overturning Circulation (AMOC) on seasonal sea surface temperature (SST) hindcast skill in the North Atlantic\n\n\nAuthor(s): Julianna Carvalho-Oliveira, Leonard F. Borchert, Aurelie Duchez, Mikhail Dobrynin, and Johanna Baehr\n\n\nWeather and Climate Dynamics, 2021"
   },
   {
     "objectID": "people/julia/index.html",
