@@ -357,7 +357,8 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
     list-style-position: outside;
     text-align: left;
 ">
-  <li>Dr. Na Li (Postdoctoral researcher, Climate Attribution)
+  <li>Johanna Beikert (Research Fellow, Climate Causality)</li>
+  <li>Dr. Na Li (Postdoctoral researcher, Climate Attribution)</li>
   <li>Bjarne Biskamp (MA student, Climate Causality)</li>
   <li>Xuebang Liu (visiting PhD researcher, Climate Attribution)</li>
   <li>Nadine Theisen (MA student, Climate Attribution)</li>
