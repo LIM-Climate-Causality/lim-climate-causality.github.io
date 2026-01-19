@@ -196,7 +196,7 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 </div>
 </div>
 
-<!-- Sujata -->
+<!-- Sujata 
 <div class="team-member">
 <a href="people/sujata/index.qmd">
 <img src="images/people/sujata.jpg" alt="Sujata Kulkarni">
@@ -206,7 +206,7 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 <div class="social-icons">
 
 </div>
-</div>
+</div> -->
 
 <!-- Na Li
 <div class="team-member">
@@ -317,7 +317,7 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 </div>
 </div> -->
 
-<!--Juliana -->
+<!--Juliana 
 <div class="team-member">
 <a href="people/juliana/index.qmd">
 <img src="images/people/juliana.jpg" alt="Juliana Neild">
@@ -327,7 +327,7 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 <div class="social-icons">
 
 </div>
-</div>
+</div> -->
 
 <!--Onno -->
 <div class="team-member">
@@ -357,6 +357,8 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
     list-style-position: outside;
     text-align: left;
 ">
+  <li>Juliana Neild (Research Fellow, Climate Attribution)</li>
+  <li>Sujata Kulkarni (visiting PhD researcher, Climate Causality)</li>
   <li>Johanna Beikert (Research Fellow, Climate Causality)</li>
   <li>Dr. Na Li (Postdoctoral researcher, Climate Attribution)</li>
   <li>Bjarne Biskamp (MA student, Climate Causality)</li>
