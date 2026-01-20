@@ -371,12 +371,12 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 ">
   <li>Juliana Neild (Research Fellow, Climate Attribution)</li>
   <li>Sujata Kulkarni (visiting PhD researcher, Climate Causality)</li>
-  <li>Johanna Beikert (Research Fellow, Climate Causality)</li>
+  <li>Johanna Beikert (Research Fellow, Climate Causality, Now at German weather service in Offenbach)</li>
   <li>Dr. Na Li (Postdoctoral researcher, Climate Attribution)</li>
-  <li>Bjarne Biskamp (MA student, Climate Causality)</li>
+  <li>Bjarne Biskamp (MA student, Climate Causality, now at UFZ Leipzig)</li>
   <li>Xuebang Liu (visiting PhD researcher, Climate Attribution)</li>
   <li>Nadine Theisen (MA student, Climate Attribution)</li>
-  <li>Nelly Pomnitz (Research assistant, Climate Causality)</li>
+  <li>Nelly Pomnitz (Research assistant, Climate Causality, now PhD student at Uni Leipzig)</li>
 </ul> 
 
 ---
