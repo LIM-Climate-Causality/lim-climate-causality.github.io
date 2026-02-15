@@ -914,3 +914,30 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 Everything up-to-date
+Script started at: Sun 15 Feb 23:00:01 CET 2026
+From github.com:LIM-Climate-Causality/lim-climate-causality.github.io
+   30e4630..5198e53  gh-pages   -> origin/gh-pages
+Already up to date.
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in library(scholar) : there is no package called ‘scholar’
+Execution halted
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   update_publications_logfile.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
