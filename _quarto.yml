@@ -1,5 +1,8 @@
 project:
   type: website
+  resources:
+    - "google4d96a0f8845e62e8.html"
+
 
 website:
   title: "Climate Causality & Attribution"
