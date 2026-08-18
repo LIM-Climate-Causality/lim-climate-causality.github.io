@@ -1,5 +1,6 @@
 ---
-Title: Impressum
+title: Impressum
+description: "Legal notice (Impressum) for the Climate Causality & Attribution research group website, University of Leipzig."
 toc: false
 ---
 

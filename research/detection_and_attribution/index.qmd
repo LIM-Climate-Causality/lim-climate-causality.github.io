@@ -1,5 +1,6 @@
 ---
-title: Detection and Attribution of Climate Change Signals 
+title: Detection and Attribution of Climate Change Signals
+description: "Research on detecting and attributing the fingerprint of external climate forcing in observed and simulated temperature and climate signals."
 ---
 
 ![The annual average fingerprint of external forcing extracted from daily temperatures with the global mean signal removed from CMIP5 models (from Sippel et al., 2020).](/research/detection_and_attribution/DA.png)

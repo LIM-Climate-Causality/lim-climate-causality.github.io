@@ -1,6 +1,6 @@
 ---
-title: Causal Data Science 
-
+title: Causal Data Science
+description: "How we use causal inference, causal discovery, and causal representation learning to uncover the drivers of regional climate variability and extreme events."
 image: images/research/causality.jpg
 ---
 

@@ -1,6 +1,7 @@
 ---
 toc: false
-format: 
+description: "Climate Causality & Attribution research group at Leipzig University."
+format:
   html: 
     include-in-header: 
       - logo.html
@@ -13,13 +14,15 @@ format:
 
 ---
 
-# About {#about}
+# Climate Causality & Attribution
+
+## About {#about}
 
 We are a group of climate scientists at Leipzig University in Germany. The motivation of our research is to explain and attribute climate risks, and to reduce uncertainties in regional predictions and projections of extreme weather and climate events. This effort requires an improved causal understanding of the physical drivers and consequences of extreme events. Our research includes several sub-aspects:
 
 ---
 
-# Research {#research}
+## Research {#research}
 
 ::: {.full-width}
 
@@ -79,9 +82,9 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 
 ---
 
-# Projects {#projects}
+## Projects {#projects}
 
-## Jun - Prof. Dr. Marlene Kretschmer
+### Jun - Prof. Dr. Marlene Kretschmer
 
 <ul style="margin: 0; padding-left: 0; list-style-position: outside; text-align: left;">
 - [AC<sup>3</sup>: Arctic Amplification: Climate Relevant Atmospheric and Surface Processes and Feedback Mechanisms](https://ac3-tr.com)
@@ -90,7 +93,7 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 </ul>
 
 
-## Jun - Prof. Dr. Sebastian Sippel
+### Jun - Prof. Dr. Sebastian Sippel
 
 <ul style="margin: 0; padding-left: 0; list-style-position: outside; text-align: left;">
 - [CLIMXTREME: Climate Change and Extreme Events](https://www.climxtreme.de/index.html)
@@ -102,7 +105,7 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 
 ---
 
-# People {#people}
+## People {#people}
 
 ![The Climate Causality and Climate Attribution Groups of the Leipzig Institute for Meteorology during their group retreat at the Baltic sea in July 2024.](images/group_photo.jpg)
 
@@ -359,7 +362,7 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 </div>
 </section>
 
-# Former Group Members
+### Former Group Members
 
 <!-- <ul style="margin: 0; padding-left: 10; list-style-position: outside; text-align: left;">-->
 <ul style="
@@ -382,7 +385,7 @@ We are a group of climate scientists at Leipzig University in Germany. The motiv
 ---
 
 
-# Contact Us {#contact}
+## Contact Us {#contact}
 
 ::: {.contact-container}
 **Address**  

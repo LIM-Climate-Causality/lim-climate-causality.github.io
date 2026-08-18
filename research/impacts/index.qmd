@@ -1,5 +1,6 @@
 ---
 title: Climate Impacts
+description: "Linking climate variability and extreme weather events to real-world impacts on human health, energy systems, agriculture, and ecosystems."
 ---
 
 ![Anomalies in Leaf Area Index in the 30 days after a Sudden Stratospheric Warming event. The brown color illustrates negative anomalies, thus decreased plant growth.](/research/impacts/regional.png)

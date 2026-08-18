@@ -1,5 +1,6 @@
 ---
 title: Machine Learning and Artificial Intelligence for Climate Science
+description: "Applying machine learning and AI methods, including deep generative models, to climate science and extreme event research."
 image: images/research/cmmvae_architecture.png
 ---
 

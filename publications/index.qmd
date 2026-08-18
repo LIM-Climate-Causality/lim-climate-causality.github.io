@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+description: "Recent peer-reviewed publications co-authored by members of the Climate Causality & Attribution research group."
 format:
   html:
     toc: false

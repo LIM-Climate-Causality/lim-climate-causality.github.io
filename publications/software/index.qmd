@@ -1,5 +1,6 @@
 ---
 title: "Open-source software"
+description: "Open-source software packages developed by members of the Climate Causality & Attribution research group."
 format:
   html:
     toc: false

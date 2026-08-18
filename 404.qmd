@@ -1,6 +1,7 @@
 ---
-titel: Page not found
-format: 
+title: Page not found
+description: "The page you're looking for doesn't exist. Return to the Climate Causality & Attribution homepage."
+format:
   html:
     anchor-sections: false
     css: [/index.css, /theme.css]

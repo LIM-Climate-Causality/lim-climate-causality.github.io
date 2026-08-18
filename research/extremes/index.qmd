@@ -1,5 +1,6 @@
 ---
 title: Extreme weather and climate events
+description: "Studying how heatwaves, droughts, heavy precipitation, and storms are changing as the climate warms, and what this means for future risk."
 ---
 
 ![France: The water level of the Loire is at its lowest due to the drought of 2022, as seen here in the Varades branch, in Loire-Atlantique. Photo: Franck Dubray/Ouest-France](/images/research/extremes.jpg)
