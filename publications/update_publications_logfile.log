@@ -1585,3 +1585,26 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 Everything up-to-date
+Script started at: Sun 23 Aug 23:00:01 CEST 2026
+Already up to date.
+Using Rscript at: /usr/bin/Rscript
+[1] "/home/floer/R/x86_64-pc-linux-gnu-library/4.5"
+[2] "/usr/local/lib/R/site-library"                
+[3] "/usr/lib/R/site-library"                      
+[4] "/usr/lib/R/library"                           
+R version 4.5.3 (2026-03-11) 
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[main f61d16d] Weekly publications update: 2026-08-23 23:00:09
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+To github.com:LIM-Climate-Causality/lim-climate-causality.github.io.git
+   ed2498b..f61d16d  main -> main
