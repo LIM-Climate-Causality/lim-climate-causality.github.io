@@ -3,10 +3,10 @@ library(scholar)
 library(stringr)
 
 # list of google scholar id's in the group that I could find
-researcher_ids <- c('ehVPFfQAAAAJ&hl=en', 'viviYAMAAAAJ&hl=de', 'IZC7zeUAAAAJ&hl=en', 'LVRfN6QAAAAJ&hl=de', 'j3grcqMAAAAJ&hl=es', 'dYLtLFIAAAAJ&hl=de', 'JwO0TTMAAAAJ&hl=en', 'ORqOL9wAAAAJ&hl=de', '9GgRZpYAAAAJ&hl=en', 'L_xWSBoAAAAJ&hl=en', 'ohhxF_EAAAAJ&hl=en')
+researcher_ids <- c('ehVPFfQAAAAJ&hl=en', 'viviYAMAAAAJ&hl=de', 'IZC7zeUAAAAJ&hl=en', 'LVRfN6QAAAAJ&hl=de', 'j3grcqMAAAAJ&hl=es', 'dYLtLFIAAAAJ&hl=de', 'JwO0TTMAAAAJ&hl=en', 'ORqOL9wAAAAJ&hl=de', '9GgRZpYAAAAJ&hl=en', 'L_xWSBoAAAAJ&hl=en', 'ohhxF_EAAAAJ&hl=en', 'EORQydwAAAAJ&hl=en')
 
 # names associated with the google scholar ids to format bold in the table
-names_to_bold <- c("FR Spuler", "F Spuler", "M Kretschmer", "J Mindlin", "S Sippel", "M Friedel", "J Carvalho-Oliveira", 'PL Bommer', 'P Pfleiderer', 'I Dunkl', 'J Wessel', 'J Mex')
+names_to_bold <- c("FR Spuler", "F Spuler", "M Kretschmer", "J Mindlin", "S Sippel", "M Friedel", "J Carvalho-Oliveira", 'PL Bommer', 'P Pfleiderer', 'I Dunkl', 'J Wessel', 'J Mex', 'F Kraulich')
 
 bold_names <- function(author_string, names_vector) {
   for (name in names_vector) {

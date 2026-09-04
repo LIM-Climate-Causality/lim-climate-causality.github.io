@@ -1,0 +1,147 @@
+---
+title: Dr. Jakob Wessel 
+description: Postdoctoral Researcher
+image: images/people/jakob.jpg
+---
+
+<div class="person-tags">
+  <a href="/research/detection_and_attribution/index.qmd" class="tag">Detection and Attribution</a>
+  <a href="/research/extremes/index.qmd" class="tag">Extreme Weather and Climate Events</a>
+  <a href="/research/machine_learning/index.qmd" class="tag">Machine Learning</a>
+  <a href="/research/impacts/index.qmd" class="tag">Climate Impacts</a>
+</div>
+
+
+<div class="profile-container">
+<div class="profile-image-container">
+<img src="/images/people/jakob.jpg" class="profile-image">
+<div class="social-icons">
+  <a href="mailto:jakob.wessel@uni-leipzig.de" target="_blank">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+  <a href="https://scholar.google.com/citations?user=L_xWSBoAAAAJ&hl=en" target="_blank">
+    <i class="fa-brands fa-google-scholar"></i>
+  </a>
+</div>
+</div>
+
+<div class="bio-content">
+
+## Bio  
+
+I am a Statistician interested in applications in Meteorology and Climate Science. My PhD at University of Exeter, in collaboration with the UK Met Office and the Alan Turing Institute, was focused on statistical methods to improve probabilistic weather forecasts. Before that I studied for an MSc in Data Science at University College London, worked for a year at the 2° Investing Initiative, a sustainable finance think-tank, and studied for a bachelor’s degree in mathematics and physics at Technical University Berlin and for a second one in philosophy and political Sciences at Free University Berlin. Outside of work I enjoy climbing, reading and making sourdough bread. 
+
+
+</div>
+</div>
+
+## Research Interests
+
+My research focuses on statistical and machine learning method development for meteorological and climate science applications. In particular I am interested in using methods from probabilistic forecasting for understanding and predicting local scale climatic extremes. I have worked across a range of topics from climate model bias adjustment, weather generator models, forecasting methodology and extreme value theory. I am passionate about methods and tools for open and usable climate information, and I try to make my own research widely usable and openly available — for example through the development of open-source software such as the ibicus package for bias adjustment of climate models.
+
+## Curriculum Vitae <span class="cv-toggle" data-bs-toggle="collapse" data-bs-target="#cv-timeline" aria-expanded="false"></span>
+
+<div id="cv-timeline" class="collapse">
+<div class="timeline">
+<div class="timeline-item">
+<div class="timeline-date">2026 - Present</div>
+<div class="timeline-content">
+<h3>Post Doctoral Researcher</h3>
+<p>Leipzig University, Institute for Meteorology, Germany</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2022 - 2026</div>
+<div class="timeline-content">
+<h3>PhD Student</h3>
+<p>Department of Mathematics and Statistics, University of Exeter, Exeter, UK</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2021 - 2022</div>
+<div class="timeline-content">
+<h3>Analyst</h3>
+<p>2° Investing Initiative, London, UK</p>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2020 - 2021</div>
+<div class="timeline-content">
+<h3>MSc Data Science</h3>
+<p>University College London (UCL), London, UK</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2017 - 2020</div>
+<div class="timeline-content">
+<h3>BA Philosophy and Political Sciences</h3>
+<p>Freie Universität Berlin, Berlin, Germany</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2017 - 2019</div>
+<div class="timeline-content">
+<h3>BSc Mathematics and Physics</h3>
+<p>Technische Universität Berlin, Berlin, Germany</p>
+</div>
+</div>
+</div>
+</div>
+
+
+## Selected Publications
+
+
+<div class="publications-grid">
+
+<div class="publication-card">
+<a href="https://doi.org/10.1175/BAMS-D-25-0022.1" target="_blank">
+<h3>Bias Adjustment and the Question of Usable Climate Information: Methodological Assumptions and Value Judgments</h3>
+<p><b>Author(s):</b> Spuler, Wessel, et al.</p>
+<p><i>Bulletin of the American Meteorological Society, 2026</i></p>
+</a>
+</div>
+
+<div class="publication-card">
+<a href="https://doi.org/10.5194/ascmo-12-149-2026" target="_blank">
+<h3>Improving multisite precipitation generators based on generalised linear models</h3>
+<p><b>Author(s):</b> Wessel and Chandler</p>
+<p><i>Adv. Stat. Clim. Meteorol. Oceanogr., 2026</i></p>
+</a>
+</div>
+
+<div class="publication-card">
+<a href="https://doi.org/10.1029/2025JH000902 " target="_blank">
+<h3>Stochastic Weather Generation for Scenario-Neutral Impact Assessments Using Simulation-Based Inference</h3>
+<p><b>Author(s):</b> Groenke, Wessel et al. </p>
+<p><i>JGR Machine Learning and Computation, 2026</i></p>
+</a>
+</div>
+
+<div class="publication-card">
+<a href="https://doi.org/10.1016/j.ijforecast.2026.04.009" target="_blank">
+<h3>Enforcing tail calibration when training probabilistic forecast models</h3>
+<p><b>Author(s):</b> Wessel et al. </p>
+<p><i>International Journal of Forecasting, 2026</i></p>
+</a>
+</div>
+
+<div class="publication-card">
+<a href="https://doi.org/10.5194/gmd-17-1249-2024" target="_blank">
+<h3>ibicus: a new open-source Python package and comprehensive interface for statistical bias adjustment and evaluation in climate modelling (v1.0.1)</h3>
+<p><b>Author(s):</b> Spuler, Wessel, et al. </p>
+<p><i>Geoscientific Model Development, 2024</i></p>
+</a>
+</div>
+
+
+</div>
