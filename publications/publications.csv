@@ -3,8 +3,8 @@
 "Targeted weather regimes identify circulation patterns behind Western European summer heat extremes and trends","J Carvalho Oliveira, **F Spuler**, **M Kretschmer**","Environmental Research Letters",2026
 "Forced component estimation statistical method intercomparison project (ForceSMIP)","RCJ Wills, C Deser, KA McKinnon, A Phillips, S Po-Chedley, **S Sippel**, ...","Journal of Climate",2026
 "Inequality in human development amplifies climate-related disaster risk","K Teber, **S Sippel**, M Krause, J Zscheischler, MD Mahecha","Nature Communications",2026
-"Approaches, challenges and applications of climate change impact attribution","S Undorf, A Dimitrova, LJ Harrington, GC Hegerl, A Jézéquel, J Kimutai, ...","Nature Reviews Earth & Environment",2026
 "Considerable yet contrasting regional imprint of circulation change on summer temperature trends across the Northern hemisphere mid-latitudes","**P Pfleiderer**, A Merrifield, **I Dunkl**, H Durand, E Cariou, J Cattiaux, ...","Weather and Climate Dynamics",2026
+"Approaches, challenges and applications of climate change impact attribution","S Undorf, A Dimitrova, LJ Harrington, GC Hegerl, A Jézéquel, J Kimutai, ...","Nature Reviews Earth & Environment",2026
 "European summer drying largely driven by atmospheric circulation changes since the 1980s","**I Dunkl**, A Bastos, **S Sippel**","Nature Geoscience",2026
 "Uncertain dynamic response of mid-latitude winter precipitation","L Gu, DL Schumacher, **S Sippel**, EM Fischer, **I Dunkl**, R Noyelle, J Singh, ...","Nature",2026
 "Large and projected increases in compound heatwaves-extreme precipitation events driven by anthropogenic emissions","J Liu, J Chen, **S Sippel**, J Yin, AD King, S Zhou","Weather and Climate Extremes",2026
@@ -86,7 +86,6 @@
 "Weakening of springtime Arctic ozone depletion with climate change","**M Friedel**, G Chiodo, T Sukhodolov, J Keeble, T Peter, S Seeber, ...","Atmospheric Chemistry and Physics",2023
 "The influence of future changes in springtime Arctic ozone on stratospheric and surface climate","G Chiodo, **M Friedel**, S Seeber, D Domeisen, A Stenke, T Sukhodolov, ...","Atmospheric Chemistry and Physics",2023
 "Stratospherically induced circulation changes under the extreme conditions of the no-Montreal-protocol scenario","F Zilker, T Sukhodolov, G Chiodo, **M Friedel**, T Egorova, E Rozanov, ...","Atmospheric Chemistry and Physics",2023
-"Stratospherically induced tropospheric circulation changes under the extreme conditions of the No-Montreal-Protocol scenario","F Zilker, T Sukhodolov, G Chiodo, **M Friedel**, T Egorova, E Rozanov, ...","EGUsphere",2023
 "The influence of future changes in springtime Arctic ozone on stratospheric and surface climate","**M Friedel**, G Chiodo, S Seeber, A Stenke","ETH Zurich",2023
 "Timeslice simulations for the year 2075 simulated with SOCOL-MPIOM and WACCM4","**M Friedel**, G Chiodo, S Seeber","ETH Zurich",2023
 "Heat extremes in Western Europe increasing faster than simulated due to atmospheric circulation trends","R Vautard, J Cattiaux, T Happé, J Singh, R Bonnet, C Cassou, D Coumou, ...","Nature Communications",2023
@@ -115,7 +114,6 @@
 "Model results for"" Robust effect of springtime Arctic ozone depletion on surface climate"", part 2: Data for SOCOL-MPIOM","**M Friedel**, G Chiodo","ETH Zurich",2022
 "Ozone depletion over the Arctic affects spring climate in the Northern Hemisphere","**M Friedel**, G Chiodo","Nature Geoscience",2022
 "Model results for"" Robust effect of springtime Arctic ozone depletion on surface climate"", part 2","**M Friedel**, G Chiodo","(No Title)",2022
-"On the Robustness of the Surface Response to Austral Stratospheric Polar Vortex Extremes.","N Bergner, **M Friedel**, DIV Domeisen, D Waugh, G Chiodo","Atmospheric Chemistry & Physics Discussions",2022
 "Climatic and soil factors explain the two-dimensional spectrum of global plant trait variation","JS Joswig, C Wirth, MC Schuman, J Kattge, B Reu, IJ Wright, SD Sippel, ...","Nature ecology & evolution",2022
 "Physics-aware nonparametric regression models for Earth data analysis","J Cortés-Andrés, G Camps-Valls, **S Sippel**, E Székely, D Sejdinovic, ...","Environmental Research Letters",2022
 "Interannual global carbon cycle variations linked to atmospheric circulation variability","N Li, **S Sippel**, AJ Winkler, MD Mahecha, M Reichstein, A Bastos","Earth System Dynamics",2022
@@ -134,8 +132,6 @@
 "On the benefits of clustering approaches in digital soil mapping: an application example concerning soil texture regionalization","**I Dunkl**, M Ließ","Soil",2022
 "A global environmental crisis 42,000 years ago","A Cooper, CSM Turney, J Palmer, A Hogg, M McGlone, J Wilmshurst, ...","Science",2021
 "Atmosphere–ocean–aerosol–chemistry–climate model SOCOLv4. 0: Description and evaluation","T Sukhodolov, T Egorova, A Stenke, WT Ball, C Brodowsky, G Chiodo, ...","Geoscientific Model Development",2021
-"Atmosphere–ocean–aerosol–chemistry–climate model SOCOLv4. 0: description and evaluation, Geosci. Model Dev., 14, 5525–5560, 10.5194","T Sukhodolov, T Egorova, A Stenke, WT Ball, C Brodowsky, G Chiodo, ...","gmd-",2021
-"Atmosphere–ocean–aerosol–chemistry–climate model SOCOLv4. 0: description and evaluation, Geoscientific Model Development, 14, 5525–5560","T Sukhodolov, T Egorova, A Stenke, WT Ball, C Brodowsky, G Chiodo, ...","gmd-",2021
 "Response to Comment on “A global environmental crisis 42,000 years ago”","A Cooper, CSM Turney, J Palmer, A Hogg, M McGlone, J Wilmshurst, ...","Science",2021
 "Increasing probability of record-shattering climate extremes","EM Fischer, **S Sippel**, R Knutti","Nature Climate Change",2021
 "An integrated approach to quantifying uncertainties in the remaining carbon budget","H Damon Matthews, KB Tokarska, J Rogelj, CJ Smith, AH MacDougall, ...","Communications Earth & Environment",2021
@@ -184,6 +180,7 @@
 "Incremental improvements of 2030 targets insufficient to achieve the Paris Agreement goals","A Geiges, A Nauels, PY Parra, M Andrijevic, W Hare, **P Pfleiderer**, ...","Earth System Dynamics",2020
 "Global warming and extreme weather investment risks","Q Rayer, **P Pfleiderer**, K Haustein","Ecological, societal, and technological risks and the financial sector",2020
 "Simulating compound weather extremes responsible for critical crop failure with stochastic weather generators","**P Pfleiderer**, A Jézéquel, J Legrand, N Legrix, I Markantonis, E Vignotto, ...","Earth System Dynamics Discussions",2020
+"Development and validation of a 1.5 T MR‐Linac full accelerator head and cryostat model for Monte Carlo dose simulations","**M Friedel**, M Nachbar, D Mönnich, O Dohm, D Thorwarth","Medical Physics",2019
 "Half a degree and rapid socioeconomic development matter for heatwave risk","S Russo, J Sillmann, **S Sippel**, MJ Barcikowska, C Ghisetti, M Smid, ...","Nature communications",2019
 "Uncovering the forced climate response from a single ensemble member using statistical learning","**S Sippel**, N Meinshausen, A Merrifield, F Lehner, AG Pendergrass, ...","Journal of Climate",2019
 "Local and nonlocal land surface influence in European heatwave initial condition ensembles","AL Merrifield, IR Simpson, KA McKinnon, **S Sippel**, SP Xie, C Deser","Geophysical Research Letters",2019
@@ -232,9 +229,10 @@
 "Detecting multivariate biosphere extremes","Y Guanche Garcia, E Rodner, M Flach, **S Sippel**, MD Mahecha, J Denzler","Climate Informatics Workshop",2016
 "Using causal effect networks to analyze different Arctic drivers of midlatitude winter circulation","**M Kretschmer**, D Coumou, JF Donges, J Runge","Journal of climate",2016
 "Quantifying changes in climate variability and extremes: Pitfalls and their overcoming","**S Sippel**, J Zscheischler, M Heimann, FEL Otto, J Peters, MD Mahecha","Geophysical Research Letters",2015
-"Combining large model ensembles with extreme value statistics to improve attribution statements of rare events","**S Sippel**, D Mitchell, MT Black, AJ Dittus, L Harrington, N Schaller, ...","Weather and Climate Extremes",2015
 "Stakeholder perspectives on the attribution of extreme weather events: An explorative enquiry","**S Sippel**, P Walton, FEL Otto","Weather, climate, and society",2015
+"Combining large model ensembles with extreme value statistics to improve attribution statements of rare events","**S Sippel**, D Mitchell, MT Black, AJ Dittus, L Harrington, N Schaller, ...","Weather and Climate Extremes",2015
 "Ground cover rice production systems increase soil carbon and nitrogen stocks at regional scale","M Liu, M Dannenmann, S Lin, G Saiz, G Yan, Z Yao, DE Pelster, H Tao, ...","Biogeosciences",2015
 "Beyond climatological extremes-assessing how the odds of hydrometeorological extreme events in South-East Europe change in a warming climate","**S Sippel**, FEL Otto","Climatic Change",2014
 "Do water-saving ground cover rice production systems increase grain yields at regional scales?","M Liu, S Lin, M Dannenmann, Y Tao, G Saiz, Q Zuo, **S Sippel**, J Wei, ...","Field crops research",2013
 "Nitrogen dynamics at undisturbed and burned Mediterranean shrublands of Salento Peninsula, Southern Italy","M Dannenmann, G Willibald, **S Sippel**, K Butterbach-Bahl","Plant and soil",2011
+"the meta-evaluation problem in explainable ai: identifying reliable estimators with MetaQuantus (2023)","A Hedström, P Bommer, KK Wickstrøm, W Samek, S Lapuschkin, ...","URL https://arxiv. org/abs/",NA
