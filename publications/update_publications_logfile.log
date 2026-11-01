@@ -1833,3 +1833,28 @@ The following objects are masked from ‘package:base’:
  1 file changed, 1 insertion(+), 1 deletion(-)
 To github.com:LIM-Climate-Causality/lim-climate-causality.github.io.git
    09ff33a..e7bcdaa  main -> main
+Script started at: Sun  1 Nov 23:00:01 CET 2026
+From github.com:LIM-Climate-Causality/lim-climate-causality.github.io
+   9566d87..135a9ea  gh-pages   -> origin/gh-pages
+Already up to date.
+Using Rscript at: /usr/bin/Rscript
+[1] "/home/floer/R/x86_64-pc-linux-gnu-library/4.5"
+[2] "/usr/local/lib/R/site-library"                
+[3] "/usr/lib/R/site-library"                      
+[4] "/usr/lib/R/library"                           
+R version 4.5.3 (2026-03-11) 
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[main 9fecc85] Weekly publications update: 2026-11-01 23:00:12
+ 1 file changed, 4 insertions(+), 6 deletions(-)
+To github.com:LIM-Climate-Causality/lim-climate-causality.github.io.git
+   f246a86..9fecc85  main -> main
