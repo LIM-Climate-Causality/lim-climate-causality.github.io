@@ -1,6 +1,6 @@
 ---
 title: Aurelia Eberhard
-description: Master's student
+description: PhD Researcher
 image: images/people/aurelia.jpg
 ---
 

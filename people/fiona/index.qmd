@@ -1,6 +1,6 @@
 ---
 title: Fiona Spuler
-description: PhD researcher
+description: Postdoctoral Researcher
 image: images/people/fiona.jpg
 ---
 
